@@ -1,0 +1,35 @@
+Amazon classifier on Amazon test set results:
+Accuracy: 0.7928
+Precision: 0.6927
+Recall: 0.7928
+F1 Score: 0.7344
+
+Laroseda classifier on Amazon test set results:
+Accuracy: 0.5059
+Precision: 0.7187
+Recall: 0.5059
+F1 Score: 0.5728
+
+Combined classifier on Amazon test set results:
+Accuracy: 0.7908
+Precision: 0.6940
+Recall: 0.7908
+F1 Score: 0.7333
+
+Amazon classifier on Laroseda test set results:
+Accuracy: 0.4223
+Precision: 0.3888
+Recall: 0.4223
+F1 Score: 0.2582
+
+Laroseda classifier on Laroseda test set results:
+Accuracy: 0.6857
+Precision: 0.6272
+Recall: 0.6857
+F1 Score: 0.6333
+
+Combined classifier on Laroseda test set results:
+Accuracy: 0.6857
+Precision: 0.6348
+Recall: 0.6857
+F1 Score: 0.6319

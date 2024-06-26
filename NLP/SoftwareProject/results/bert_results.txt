@@ -1,0 +1,47 @@
+Amazon Reviews with Amazon model results:
+Accuracy: 0.7985
+Precision: 0.6377
+Recall: 0.7985
+F1 Score: 0.7091
+
+Amazon Reviews with Laroseda model results:
+Accuracy: 0.3614
+Precision: 0.7226
+Recall: 0.3614
+F1 Score: 0.4452
+
+Amazon Reviews with Combined model results:
+Accuracy: 0.8132
+Precision: 0.7327
+Recall: 0.8132
+F1 Score: 0.7586
+
+Amazon Reviews with Untrained model results:
+Accuracy: 0.7660
+Precision: 0.6717
+Recall: 0.7660
+F1 Score: 0.6990
+
+Laroseda Reviews with Amazon model results:
+Accuracy: 0.4187
+Precision: 0.1753
+Recall: 0.4187
+F1 Score: 0.2471
+
+Laroseda Reviews with Laroseda model results:
+Accuracy: 0.7490
+Precision: 0.7118
+Recall: 0.7490
+F1 Score: 0.7208
+
+Laroseda Reviews with Combined model results:
+Accuracy: 0.7477
+Precision: 0.6924
+Recall: 0.7477
+F1 Score: 0.7041
+
+Laroseda Reviews with Untrained model results:
+Accuracy: 0.4087
+Precision: 0.3313
+Recall: 0.4087
+F1 Score: 0.2936
