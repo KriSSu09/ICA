@@ -1,0 +1,1257 @@
+#C:\Users\crist\Desktop\ICA Sem 2\SNA\RealDataNetwork\keyword_reduced.py
+# GMT Sat May 18 17:33:45 2024
+# 
+https://www.nytimes.com/2020/03/31/world/africa/somalia-civilian-casualties.html https://www.nytimes.com/2020/04/01/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-brett-crozier-theodore-roosevelt.html https://www.nytimes.com/2020/04/03/us/politics/fbi-fisa-court-surveillance-applications.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/michael-atkinson-inspector-general-fired.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/03/31/us/virus-food-banks-unemployment.html
+https://www.nytimes.com/2020/03/31/us/drug-tunnel-san-diego-tijuana.html https://www.nytimes.com/2020/03/31/nyregion/bronx-fire-building.html https://www.nytimes.com/2020/04/01/us/politics/devin-nunes-coronavirus-trump.html https://www.nytimes.com/2020/04/01/business/n95-face-masks-home-depot-virus.html https://www.nytimes.com/2020/04/02/us/hobby-lobby-colorado-virus.html https://www.nytimes.com/2020/04/02/us/hasher-jallal-taheb-white-house-attack.html https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/03/31/arts/kennedy-center-defends-25-million.html https://www.nytimes.com/2020/04/03/arts/bronx-zoo-coronavirus.html https://www.nytimes.com/2020/04/07/arts/kennedy-center-national-symphony-orchestra-coronavirus.html
+https://www.nytimes.com/2020/03/31/crosswords/daily-puzzle-2020-04-01.html https://www.nytimes.com/2020/04/01/crosswords/daily-puzzle-2020-04-02.html https://www.nytimes.com/2020/04/02/crosswords/daily-puzzle-2020-04-03.html https://www.nytimes.com/2020/04/05/crosswords/daily-puzzle-2020-04-06.html https://www.nytimes.com/2020/04/06/crosswords/daily-puzzle-2020-04-07.html https://www.nytimes.com/2020/04/07/crosswords/heck-isao-aoki-golf-crosswords.html https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/2020/03/31/climate/trump-pollution-rollback.html
+https://www.nytimes.com/2020/03/31/magazine/broccoli-dill-pasta-recipe.html https://www.nytimes.com/2020/04/03/dining/csa-farm-food-delivery-coronavirus.html https://www.nytimes.com/2020/04/08/dining/takeout-restaurant-ethics-coronavirus.html
+https://www.nytimes.com/2020/03/31/todayspaper/quotation-of-the-day-cases-spiral-aboard-an-aircraft-carrier-and-a-commander-pleads-for-help.html
+https://www.nytimes.com/2020/03/31/pageoneplus/corrections-april-1-2020.html
+https://www.nytimes.com/2020/03/31/arts/music/wallace-roney-dead-coronavirus.html https://www.nytimes.com/2020/04/01/us/politics/on-politics-trump-coronavirus.html https://www.nytimes.com/2020/04/01/arts/music/ellis-marsalis-dead-virus.html https://www.nytimes.com/2020/04/02/us/politics/trump-coronavirus-economy.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-polls.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/03/31/briefing/coronavirus-trump-asia.html https://www.nytimes.com/2020/04/01/world/australia/coronavirus-new-york-expats.html https://www.nytimes.com/2020/04/02/briefing/global-recession-coronavirus-wimbledon.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-us-unemployment-policing.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-italy-nordic-preppers.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-climate-change.html https://www.nytimes.com/2020/04/07/world/australia/cyclone-harold-vanuatu.html https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/03/31/nyregion/bronx-fire-building.html https://www.nytimes.com/2020/04/01/us/politics/devin-nunes-coronavirus-trump.html https://www.nytimes.com/2020/04/01/business/n95-face-masks-home-depot-virus.html https://www.nytimes.com/2020/04/02/us/hobby-lobby-colorado-virus.html https://www.nytimes.com/2020/04/02/us/hasher-jallal-taheb-white-house-attack.html https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/01/world/coronavirus-live-news-updates.html
+https://www.nytimes.com/2020/04/01/business/stock-market-recap-coronavirus.html
+https://www.nytimes.com/2020/04/01/arts/television/whats-on-tv-wednesday-baghdad-central-and-a-sketch-comedy-show.html https://www.nytimes.com/2020/04/02/arts/television/whats-on-tv-thursday-the-virtues-and-blinded-by-the-light.html https://www.nytimes.com/2020/04/03/arts/television/whats-on-tv-friday-invisible-life-and-home-before-dark.html https://www.nytimes.com/2020/04/08/arts/television/whats-on-tv-wednesday-parasite-and-modern-family.html
+https://www.nytimes.com/2020/04/01/learning/word-quiz-limn.html
+https://www.nytimes.com/2020/04/01/arts/television/empire-state-building-coronavirus.html https://www.nytimes.com/2020/04/02/arts/television/trevor-noah-trump-coronavirus.html https://www.nytimes.com/2020/04/03/arts/television/late-night-anthony-fauci-coronavirus.html https://www.nytimes.com/2020/04/07/arts/television/late-night-trump-mask-coronavirus.html https://www.nytimes.com/2020/04/08/arts/television/late-night-wisconsin-voting-coronavirus.html
+https://www.nytimes.com/2020/04/01/world/australia/coronavirus-new-york-expats.html https://www.nytimes.com/2020/04/02/briefing/global-recession-coronavirus-wimbledon.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-us-unemployment-policing.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-italy-nordic-preppers.html https://www.nytimes.com/2020/04/06/world/australia/cardinal-george-pell-conviction.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-climate-change.html https://www.nytimes.com/2020/04/07/world/australia/cardinal-george-pell-acquittal.html https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/04/01/learning/your-learning-space.html
+https://www.nytimes.com/2020/04/01/business/coronavirus-china-masks.html
+https://www.nytimes.com/2020/04/01/arts/television/bluey-cartoon-dog-australia.html
+https://www.nytimes.com/2020/04/01/books/review-samantha-irby-wow-no-thank-you.html https://www.nytimes.com/2020/04/07/books/casey-schwartz-attention-love-story.html
+https://www.nytimes.com/2020/04/01/magazine/letter-of-recommendation-mudlarking.html
+https://www.nytimes.com/2020/04/01/learning/what-role-should-celebrities-have-during-the-coronavirus-crisis.html https://www.nytimes.com/2020/04/02/learning/lesson-of-the-day-diy-coronavirus-solutions-are-gaining-steam.html https://www.nytimes.com/2020/04/03/learning/what-are-some-ways-to-travel-without-traveling-during-the-pandemic.html https://www.nytimes.com/interactive/2020/04/07/learning/07News-Quiz-for-Students.html
+https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html
+https://www.nytimes.com/2020/04/01/style/deva-curl-hair-loss.html
+https://www.nytimes.com/2020/04/01/books/looking-for-a-book-to-read-with-your-family.html https://www.nytimes.com/2020/04/02/books/review/my-dark-vanessa-kate-elizabeth-russell.html https://www.nytimes.com/2020/04/02/books/tiger-king-netflix-books.html https://www.nytimes.com/2020/04/07/books/coronavirus-kid-books-to-read.html
+https://www.nytimes.com/2020/04/01/well/au-pairs-caught-between-work-and-a-pandemic.html
+https://www.nytimes.com/2020/04/01/well/live/coronavirus-symptoms-tests-false-negative.html https://www.nytimes.com/2020/04/06/well/live/coronavirus-doctors-hospitals-emergency-care-heart-attack-stroke.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-death-elderly.html
+https://www.nytimes.com/2020/04/01/arts/gaming-introduction-basics-quarantine-coronavirus.html https://www.nytimes.com/2020/04/02/technology/amazon-making-video-games.html https://www.nytimes.com/2020/04/03/arts/video-games-kids-parents-covid-virus-coronavirus.html https://www.nytimes.com/2020/04/08/technology/google-stadia-free-virus.html
+https://www.nytimes.com/2020/04/01/nyregion/Father-Jorge-Ortiz-Garay-coronavirus-death.html https://www.nytimes.com/2020/04/06/nyregion/mass-graves-nyc-parks-coronavirus.html https://www.nytimes.com/2020/04/06/nyregion/cathedral-st-john-the-divine-coronavirus-field-hospital.html
+https://www.nytimes.com/2020/04/01/well/move/steps-walking-longevity-health.html https://www.nytimes.com/interactive/2020/04/02/burst/coronavirus-how-to-run-safely.html https://www.nytimes.com/2020/04/08/well/move/coronavirus-exercise-depression-anxiety-mood.html
+https://www.nytimes.com/2020/04/01/nyregion/coronavirus-greenmarkets-nyc.html https://www.nytimes.com/2020/04/01/nyregion/coronavirus-nyc-playgrounds-closed.html
+https://www.nytimes.com/2020/04/01/reader-center/new-york-times-parody-paper.html https://www.nytimes.com/2020/04/01/reader-center/times-satire-history.html
+https://www.nytimes.com/2020/04/01/opinion/covid-gun-violence-hospitals.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-politics-election.html https://www.nytimes.com/2020/04/08/opinion/bernie-sanders-democratic-party.html
+https://www.nytimes.com/2020/04/01/opinion/covid-face-mask-shortage.html
+https://www.nytimes.com/2020/04/01/parenting/pregnant-women-nyc-coronavirus.html https://www.nytimes.com/2020/04/06/parenting/breastfeeding-babies-coronavirus-mothers.html
+https://www.nytimes.com/2020/04/01/realestate/coronavirus-rearrange-furniture.html https://www.nytimes.com/2020/04/02/realestate/why-wont-my-building-tell-me-if-a-resident-has-coronavirus.html https://www.nytimes.com/2020/04/02/smarter-living/protect-your-home-against-the-onslaught.html
+https://www.nytimes.com/2020/04/01/business/smallbusiness/shipping-coronavirus-trucking.html
+https://www.nytimes.com/2020/04/01/magazine/tattoo-artist-war-zone.html https://www.nytimes.com/2020/04/05/magazine/navy-captain-crozier-positive-coronavirus.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/magazine/modly-crozier-coronavirus.html
+https://www.nytimes.com/2020/04/01/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/04/us/politics/trump-coronavirus-post-impeachment-purge.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/01/arts/music/turtle-bay-music-school.html
+https://www.nytimes.com/2020/04/01/us/coronavirus-terrorist-threat-felony.html https://www.nytimes.com/2020/04/07/us/coronavirus-race.html
+https://www.nytimes.com/2020/04/01/us/politics/biden-sanders-democratic-voters.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-elections-democrats.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-voting-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-democratic-voters.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-election-coronavirus.html
+https://www.nytimes.com/slideshow/2020/04/01/realestate/living-in-lewisboro-ny.html
+https://www.nytimes.com/2020/04/01/opinion/tulsa-lockdown-coronavirus.html
+https://www.nytimes.com/2020/04/01/world/europe/coronavirus-science-research-cooperation.html https://www.nytimes.com/2020/04/01/world/middleeast/coronavirus-detection-surveys.html https://www.nytimes.com/2020/04/03/world/europe/britain-coronavirus-triage.html https://www.nytimes.com/2020/04/08/world/middleeast/coronavirus-saudi-royal-infections.html
+https://www.nytimes.com/2020/04/01/technology/personaltech/digitizing-important-documents.html
+https://www.nytimes.com/2020/04/01/style/toilet-paper-shortage-bidet-coronavirus-wipes.html https://www.nytimes.com/2020/04/03/arts/music/music-meditation-zoom-coronavirus.html
+https://www.nytimes.com/2020/04/01/realestate/lewisboro-ny-more-rural-than-suburban-with-a-range-of-housing.html
+https://www.nytimes.com/2020/04/01/business/economy/coronavirus-recession.html https://www.nytimes.com/2020/04/08/world/europe/adults-parents-home-coronavirus.html
+https://www.nytimes.com/2020/04/01/health/coronavirus-illustration-cdc.html https://www.nytimes.com/2020/04/03/science/south-philippine-kingfisher-photo.html
+https://www.nytimes.com/2020/04/01/reader-center/times-satire-history.html
+https://www.nytimes.com/2020/04/01/travel/television-international.html
+https://www.nytimes.com/2020/04/01/nyregion/coronavirus-nyc.html
+https://www.nytimes.com/2020/04/01/briefing/coronavirus-new-york-food-banks.html https://www.nytimes.com/2020/04/02/briefing/coronavirus-jobs-ellis-marsalis-jr.html https://www.nytimes.com/interactive/2020/04/03/briefing/coronavirus-ventilators-ellis-marsalis-jr-news-quiz.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-jobs.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-boris-johnson-economy.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-wisconsin.html https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/2020/04/01/arts/television/british-tv-netflix.html
+https://www.nytimes.com/2020/04/01/podcasts/the-daily/coronavirus-vaccine.html
+https://www.nytimes.com/2020/04/01/opinion/covid-arts-livestream-audiences.html
+https://www.nytimes.com/2020/04/01/opinion/notes-on-the-coronacoma-wonkish.html https://www.nytimes.com/2020/04/02/opinion/coronavirus-economy-stimulus.html https://www.nytimes.com/2020/04/06/opinion/coronavirus-economy.html
+https://www.nytimes.com/2020/04/01/world/asia/jaejoong-jyj-coronavirus-prank.html https://www.nytimes.com/2020/04/07/world/asia/panda-mating-hong-kong.html
+https://www.nytimes.com/2020/04/01/business/dealbook/coronavirus-stocks-earnings.html
+https://www.nytimes.com/2020/04/01/us/politics/on-politics-trump-coronavirus.html https://www.nytimes.com/2020/04/01/arts/music/ellis-marsalis-dead-virus.html https://www.nytimes.com/2020/04/02/us/politics/trump-coronavirus-economy.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-polls.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/01/sports/basketball/first-woman-drafted-in-nba-avoids-coronavirus-but-not-its-frustrations.html https://www.nytimes.com/2020/04/07/sports/virtual-running-races-coronavirus.html
+https://www.nytimes.com/2020/04/01/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/01/world/europe/uk-police-coronavirus.html https://www.nytimes.com/2020/04/02/world/europe/uk-coronavirus-testing.html https://www.nytimes.com/2020/04/04/world/europe/labour-party-keir-starmer.html https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-face-masks.html https://www.nytimes.com/2020/04/02/opinion/coronavirus-desantis-trump.html https://www.nytimes.com/2020/04/03/opinion/coronavirus-united-states-europe.html https://www.nytimes.com/2020/04/06/opinion/coronavirus-stimulus-democrats.html https://www.nytimes.com/2020/04/08/opinion/trump-inspector-general-coronavirus.html
+https://www.nytimes.com/article/tiger-king-updates.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/08/us/coronavirus-baby-boom.html
+https://www.nytimes.com/2020/04/01/parenting/coronavirus-help-anxious-kid.html https://www.nytimes.com/2020/04/08/parenting/coronavirus-self-care.html
+https://www.nytimes.com/2020/04/01/theater/coronavirus-edinburgh-festival-fringe-canceled.html https://www.nytimes.com/2020/04/02/books/booker-international-prize-shortlist-kehlman-ogawa.html https://www.nytimes.com/2020/04/03/arts/coronavirus-bafta-game-awards.html https://www.nytimes.com/2020/04/08/arts/design/humboldt-forum-explosion.html
+https://www.nytimes.com/2020/04/01/us/coronavirus-california-new-york-testing.html https://www.nytimes.com/2020/04/02/us/la-county-essential-business-coronavirus.html https://www.nytimes.com/2020/04/03/us/coronavirus-shelter-in-place-california.html https://www.nytimes.com/2020/04/04/us/coronavirus-cases-california-county.html https://www.nytimes.com/2020/04/07/us/coronavirus-blood-plasma-donation.html https://www.nytimes.com/2020/04/08/us/coronavirus-california-rep-katie-porter.html
+https://www.nytimes.com/2020/04/01/technology/virus-start-ups-pummeled-layoffs-unwinding.html https://www.nytimes.com/2020/04/01/technology/notion-startup-fund-raising.html https://www.nytimes.com/2020/04/06/technology/airbnb-coronavirus-valuation.html
+https://www.nytimes.com/slideshow/2020/04/01/realestate/what-you-get-for-500000.html
+https://www.nytimes.com/2020/04/01/realestate/500000-homes-in-mississippi-missouri-and-new-york.html https://www.nytimes.com/2020/04/02/realestate/coronavirus-brooklyn-artist-lesley-dill.html https://www.nytimes.com/2020/04/08/realestate/600000-homes-in-kentucky-massachusetts-and-minnesota.html
+https://www.nytimes.com/2020/04/01/books/review/american-conservatism-andrew-j-bacevich.html
+https://www.nytimes.com/slideshow/2020/04/01/realestate/a-modern-hilltop-house-on-curacao.html
+https://www.nytimes.com/2020/04/01/realestate/house-hunting-on-curacao-a-circular-villa-on-the-sea-for-979000.html
+https://www.nytimes.com/2020/04/01/learning/learning-about-coronavirus-and-the-class-divide.html https://www.nytimes.com/2020/04/02/learning/is-the-coronavirus-pandemic-bringing-your-extended-family-closer-together.html https://www.nytimes.com/2020/04/06/learning/kryptos-code-lesson.html https://www.nytimes.com/2020/04/06/learning/coronavirus-schools-grading.html https://www.nytimes.com/2020/04/07/learning/holidays-and-birthdays-are-moments-to-come-together-how-are-you-adapting-during-the-pandemic.html https://www.nytimes.com/2020/04/08/learning/lesson-of-the-day-college-made-them-feel-equal-the-virus-exposed-how-unequal-their-lives-are.html
+https://www.nytimes.com/2020/04/01/t-magazine/desmond-dempsey-baked-eggs-recipe.html
+https://www.nytimes.com/2020/04/01/movies/the-uprising.html
+https://www.nytimes.com/2020/04/01/sports/basketball/coronavirus-nba-soccer.html https://www.nytimes.com/2020/04/06/sports/trump-sports-return-coronavirus.html https://www.nytimes.com/2020/04/08/sports/basketball/nba-champion-lebron-giannis-lakers.html
+https://www.nytimes.com/2020/04/01/arts/design/nyc-museums-architecture-tour-virus.html https://www.nytimes.com/2020/04/08/arts/east-river-virtual-tour-virus.html
+https://www.nytimes.com/2020/04/01/business/france-coronavirus-unemployment.html
+https://www.nytimes.com/2020/04/01/upshot/obamacare-markets-coronavirus-trump.html https://www.nytimes.com/2020/04/02/health/masks-coronavirus-cdc.html https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-metro-area-tracker.html https://www.nytimes.com/2020/04/03/upshot/trump-hospitals-coronavirus.html
+https://www.nytimes.com/2020/04/01/dining/celebrating-apart-together.html https://www.nytimes.com/2020/04/03/dining/what-to-cook-this-weekend.html https://www.nytimes.com/2020/04/05/dining/what-to-cook-this-week.html https://www.nytimes.com/2020/04/06/dining/we-are-all-doing-the-best-that-we-can.html https://www.nytimes.com/2020/04/08/dining/you-can-adapt-it-all.html
+https://www.nytimes.com/2020/04/01/health/hydroxychloroquine-coronavirus-malaria.html https://www.nytimes.com/2020/04/04/health/coronavirus-drug-trump-hydroxycholoroquine.html
+https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html
+https://www.nytimes.com/2020/04/01/sports/tennis/wimbledon-canceled-coronavirus.html https://www.nytimes.com/2020/04/03/sports/wimbledon-grand-slams-canceled.html https://www.nytimes.com/2020/04/07/sports/tennis/platform-tennis-coronavirus.html
+https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/connecticut-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/washington-dc-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/indiana-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html
+https://www.nytimes.com/2020/04/01/health/zantac-cancer-fda.html https://www.nytimes.com/2020/04/02/health/stem-cell-treatment-coronavirus.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/health/coronavirus-testing-us.html
+https://www.nytimes.com/2020/04/01/business/are-you-unemployed-because-of-the-coronavirus-outbreak.html
+https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/michigan-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/new-mexico-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/new-york-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/oregon-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/pennsylvania-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/utah-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/vermont-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html
+https://www.nytimes.com/interactive/2020/us/wyoming-coronavirus-cases.html
+https://www.nytimes.com/2020/04/01/style/productivity-coronavirus.html https://www.nytimes.com/2020/04/02/style/influencers-leave-new-york-coronavirus.html https://www.nytimes.com/2020/04/03/technology/zoom-harassment-abuse-racism-fbi-warning.html https://www.nytimes.com/2020/04/06/style/hollywood-agents-influencers.html https://www.nytimes.com/2020/04/07/style/zoom-security-tips.html
+https://www.nytimes.com/2020/04/01/movies/baseball-movies-streaming.html
+https://www.nytimes.com/2020/04/01/arts/music/waxahatchee-saint-cloud-review.html https://www.nytimes.com/2020/04/05/arts/music/coronavirus-sirens-music.html
+https://www.nytimes.com/2020/04/01/parenting/coronavirus-adoption-surrogacy-foster-care.html
+https://www.nytimes.com/2020/04/01/nyregion/coronavirus-doctors-patients.html https://www.nytimes.com/2020/04/06/nyregion/bronx-zoo-tiger-coronavirus.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-peak.html
+https://www.nytimes.com/2020/04/01/business/media/warner-media-jason-kilar-john-stankey.html https://www.nytimes.com/2020/04/01/business/media/tmobile-closes-sprint-merger.html
+https://www.nytimes.com/2020/04/01/arts/television/late-night-tv-coronavirus.html https://www.nytimes.com/2020/04/01/arts/television/tiger-king-eric-goode.html
+https://www.nytimes.com/2020/04/01/us/politics/democratic-republican-2020-conventions.html https://www.nytimes.com/2020/04/01/us/politics/trump-vs-biden-super-pac.html https://www.nytimes.com/2020/04/02/us/politics/joe-biden-fallon-democratic-convention.html https://www.nytimes.com/2020/04/02/us/politics/milwaukee-democratic-convention-delayed.html https://www.nytimes.com/2020/04/02/us/politics/jeff-sessions-senate-trump-campaign.html https://www.nytimes.com/2020/04/06/us/politics/democrats-youtube-advertising.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-pandemic-primary-republicans.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-lockdown-loneliness.html https://www.nytimes.com/2020/04/03/opinion/sunday/gina-raimondo.html https://www.nytimes.com/2020/04/06/opinion/trump-coronavirus-empathy.html https://www.nytimes.com/2020/04/08/opinion/coronavirus-trump-dr-oz.html
+https://www.nytimes.com/2020/04/01/well/mind/coronavirus-stress-management-anxiety-psychology.html https://www.nytimes.com/interactive/2020/04/07/burst/manage-stress-coronavirus.html
+https://www.nytimes.com/2020/04/01/arts/pokemon-go-coronavirus.html
+https://www.nytimes.com/2020/04/01/climate/japans-climate-plan-sends-wrong-signal.html https://www.nytimes.com/2020/04/01/climate/cop-climate-glasgow-coronavirus.html https://www.nytimes.com/2020/04/03/nyregion/new-york-coronavirus-doctors.html
+https://www.nytimes.com/2020/04/01/world/middleeast/iran-virus-sanctions.html
+https://www.nytimes.com/2020/04/01/well/live/taking-baths-may-be-good-for-your-heart.html https://www.nytimes.com/2020/04/01/well/live/acupuncture-migraines-headache-treatment.html https://www.nytimes.com/2020/04/02/well/family/high-blood-pressure-pregnancy-preeclampsia-autism-hyperactivity-epilepsy-developmental-problems.html https://www.nytimes.com/2020/04/02/well/eat/do-tea-drinkers-live-longer.html https://www.nytimes.com/2020/04/06/well/eat/high-fiber-foods-linked-to-lower-breast-cancer-risk.html
+https://www.nytimes.com/2020/04/01/world/middleeast/coronavirus-detection-surveys.html https://www.nytimes.com/2020/04/03/world/europe/britain-coronavirus-triage.html https://www.nytimes.com/2020/04/08/world/middleeast/coronavirus-saudi-royal-infections.html
+https://www.nytimes.com/2020/04/01/science/george-preti-dead.html https://www.nytimes.com/2020/04/01/education/rev-joseph-ohare-dead.html https://www.nytimes.com/2020/04/01/obituaries/hilda-churchill-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/john-g-davies-dead.html https://www.nytimes.com/2020/04/07/obituaries/anita-fial-dead-coronavirus.html
+https://www.nytimes.com/2020/04/01/us/coronavirus-texas-austin-spring-break-cabo.html https://www.nytimes.com/2020/04/03/us/coronavirus-san-antonio-nursing-home.html
+https://www.nytimes.com/2020/04/01/arts/television/nature-documentaries-virus.html https://www.nytimes.com/2020/04/05/arts/television/westworld-episode-4-recap.html
+https://www.nytimes.com/2020/04/01/obituaries/dr-james-t-goodrich-dead-coronavirus.html https://www.nytimes.com/2020/04/01/obituaries/lorena-borjas-dead-coronavirus.html https://www.nytimes.com/2020/04/03/arts/harriet-glickman-dead-peanuts.html https://www.nytimes.com/2020/04/06/arts/television/james-drury-dies.html https://www.nytimes.com/2020/04/07/arts/music/judy-drucker-dies.html
+https://www.nytimes.com/2020/04/01/health/coronavirus-cytokine-storm-immune-system.html https://www.nytimes.com/2020/04/02/health/coronavirus-antibody-test.html https://www.nytimes.com/article/pregnancy-coronavirus.html
+https://www.nytimes.com/2020/04/01/dining/shakshuka-recipe-coronavirus.html https://www.nytimes.com/2020/04/02/dining/pantry-recipe-coronavirus.html https://www.nytimes.com/2020/04/03/dining/asparagus-salad-coronavirus.html https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html https://www.nytimes.com/2020/04/06/dining/pasta-carbonara-coronavirus.html https://www.nytimes.com/2020/04/07/dining/garlicky-braised-greens-coronavirus.html
+https://www.nytimes.com/2020/04/01/arts/music/coronavirus-classical-music.html
+https://www.nytimes.com/2020/04/01/education/rev-joseph-ohare-dead.html https://www.nytimes.com/2020/04/01/obituaries/hilda-churchill-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/john-g-davies-dead.html https://www.nytimes.com/2020/04/07/obituaries/anita-fial-dead-coronavirus.html
+https://www.nytimes.com/2020/04/01/opinion/trump-fuel-efficiency-standards.html
+https://www.nytimes.com/2020/04/01/business/economy/auto-sales-coronavirus.html
+https://www.nytimes.com/2020/04/01/science/coronavirus-animals-wildlife-goats.html https://www.nytimes.com/2020/04/06/world/australia/jacinda-ardern-easter-bunny-essential-worker-tooth-fairy.html
+https://www.nytimes.com/2020/04/01/world/europe/france-pollution-fos-sur-mer.html
+https://www.nytimes.com/interactive/2020/04/01/upshot/coronavirus-jobless-claims-forecast-predictions.html https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-cities-social-distancing-better-employment.html
+https://www.nytimes.com/2020/04/01/books/reading-times-of-grief-coronavirus.html
+https://www.nytimes.com/2020/04/01/arts/television/tiger-king-eric-goode.html
+https://www.nytimes.com/2020/04/01/us/coronavirus-florida-de-santis-trump.html https://www.nytimes.com/2020/04/01/us/politics/trump-vs-biden-super-pac.html https://www.nytimes.com/2020/04/01/us/politics/trump-friend-coronavirus-stanley-chera.html https://www.nytimes.com/2020/04/02/us/politics/jeff-sessions-senate-trump-campaign.html https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html https://www.nytimes.com/2020/04/07/us/coronavirus-citadel-securities-four-seasons-florida.html
+https://www.nytimes.com/article/how-to-make-bread.html
+https://www.nytimes.com/2020/04/01/opinion/letters/israel-palestinians.html
+https://www.nytimes.com/2020/04/01/well/live/acupuncture-migraines-headache-treatment.html https://www.nytimes.com/2020/04/02/well/family/high-blood-pressure-pregnancy-preeclampsia-autism-hyperactivity-epilepsy-developmental-problems.html https://www.nytimes.com/2020/04/02/well/eat/do-tea-drinkers-live-longer.html https://www.nytimes.com/2020/04/06/well/eat/high-fiber-foods-linked-to-lower-breast-cancer-risk.html
+https://www.nytimes.com/2020/04/01/sports/transgender-idaho-ban-sports.html https://www.nytimes.com/video/sports/olympics/100000007065772/coronavirus-2020-olympics-athletes.html
+https://www.nytimes.com/2020/04/01/obituaries/hilda-churchill-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/john-g-davies-dead.html https://www.nytimes.com/2020/04/07/obituaries/anita-fial-dead-coronavirus.html
+https://www.nytimes.com/2020/04/01/us/la-county-coronavirus-hospitals.html
+https://www.nytimes.com/2020/04/01/nyregion/donate-masks-coronavirus.html https://www.nytimes.com/2020/04/02/health/fda-blood-donations-coronavirus.html https://www.nytimes.com/2020/04/05/us/maine-shipwreck-colonial.html https://www.nytimes.com/2020/04/06/world/europe/bletchley-park-footage.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-viral-dose.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-rent-freeze.html
+https://www.nytimes.com/2020/04/01/world/europe/manolis-glezos-dead.html
+https://www.nytimes.com/2020/04/01/technology/notion-startup-fund-raising.html https://www.nytimes.com/2020/04/06/technology/airbnb-coronavirus-valuation.html
+https://www.nytimes.com/2020/04/01/sports/golf/golf-majors-masters-coronavirus.html https://www.nytimes.com/2020/04/03/sports/golf/us-open-postponed-lpga.html https://www.nytimes.com/2020/04/06/sports/golf/masters-us-open-british-rescheduled.html
+https://www.nytimes.com/2020/04/01/technology/coronavirus-living-online.html https://www.nytimes.com/2020/04/02/technology/coronavirus-layoffs-startups.html https://www.nytimes.com/2020/04/03/technology/video-games-coronavirus.html https://www.nytimes.com/2020/04/06/technology/coronavirus-amazon-workers.html https://www.nytimes.com/2020/04/07/technology/passover-coronavirus.html
+https://www.nytimes.com/2020/04/01/arts/music/the-weeknd-after-hours-review.html https://www.nytimes.com/2020/04/02/arts/television/tiger-king-style.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/05/obituaries/cristina-dead.html https://www.nytimes.com/2020/04/07/arts/music/drake-toosie-slide-tiktok.html
+https://www.nytimes.com/2020/04/01/arts/television/new-to-stream-netflix.html
+https://www.nytimes.com/2020/04/01/briefing/coronavirus-global-recession-masks.html https://www.nytimes.com/2020/04/02/briefing/coronavirus-crackdowns-policing-duterte.html https://www.nytimes.com/2020/04/05/briefing/coronavirus-assam-tribunals-global-recession.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-japan-state-of-emergency-iran.html https://www.nytimes.com/2020/04/07/briefing/wuhan-japan-emergency-boris-johnson.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-ventilators-doctors.html
+https://www.nytimes.com/2020/04/01/theater/theaters-share-mini-plays-coronavirus.html https://www.nytimes.com/2020/04/07/theater/obie-awards-coronavirus.html https://www.nytimes.com/2020/04/07/theater/coronavirus-williamstown-audible.html https://www.nytimes.com/2020/04/08/theater/broadway-shows-canceled-june-coronavirus.html
+https://www.nytimes.com/2020/04/01/opinion/letters/coronavirus-trump.html
+https://www.nytimes.com/2020/04/01/obituaries/coronavirus-victims.html
+https://www.nytimes.com/2020/04/01/sports/olympics/coronavirus-gymnastics-olympics-tokyo.html
+https://www.nytimes.com/2020/04/01/climate/cop-climate-glasgow-coronavirus.html https://www.nytimes.com/2020/04/03/nyregion/new-york-coronavirus-doctors.html
+https://www.nytimes.com/2020/04/01/business/economy/fed-coronavirus-municipal-debt.html https://www.nytimes.com/2020/04/03/business/economy/coronavirus-fed-business-credit.html https://www.nytimes.com/2020/04/04/business/economy/apollo-federal-reserve-lending-talf.html https://www.nytimes.com/2020/04/06/business/economy/federal-reserve-small-business-loans.html
+https://www.nytimes.com/article/census-2020.html
+https://www.nytimes.com/2020/04/01/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-special-operations-forces-pentagon.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-brett-crozier-theodore-roosevelt.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html
+https://www.nytimes.com/2020/04/01/us/politics/trump-vs-biden-super-pac.html https://www.nytimes.com/2020/04/01/us/politics/trump-friend-coronavirus-stanley-chera.html https://www.nytimes.com/2020/04/02/us/politics/jeff-sessions-senate-trump-campaign.html https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/01/health/coronavirus-stroke-seizures-confusion.html https://www.nytimes.com/2020/04/03/health/coronavirus-bcg-vaccine.html https://www.nytimes.com/article/quarantine-coronavirus.html https://www.nytimes.com/2020/04/07/health/coronavirus-new-york-men.html
+https://www.nytimes.com/2020/04/01/us/caesar-zamien-lamar-crockett-georgia-florida-shooting.html https://www.nytimes.com/2020/04/01/arts/music/ellis-marsalis-dead-virus.html https://www.nytimes.com/2020/04/03/us/coronavirus-police-impersonators.html https://www.nytimes.com/2020/04/03/us/maeve-kennedy-granddaughter-missing.html https://www.nytimes.com/2020/04/04/us/detroit-bus-driver-coronavirus.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html
+https://www.nytimes.com/2020/04/01/business/coronavirus-stimulus-social-security.html https://www.nytimes.com/2020/04/04/business/economy/apollo-federal-reserve-lending-talf.html https://www.nytimes.com/2020/04/05/us/politics/democrats-mnuchin-airline-bailout-coronavirus.html https://www.nytimes.com/2020/04/06/business/coronavirus-car-insurance.html https://www.nytimes.com/2020/04/07/us/politics/trump-inspector-general-brian-miller-virus.html
+https://www.nytimes.com/2020/04/01/style/modern-love-podcast-coronavirus-relationships.html
+https://www.nytimes.com/2020/04/01/business/media/deblasio-coronavirus-response.html https://www.nytimes.com/2020/04/05/business/media/brothers-cuomo-andrew-chris.html
+https://www.nytimes.com/2020/04/01/business/economy/trump-tariffs-coronavirus.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-trump-china.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/06/business/economy/peter-navarro-coronavirus-defense-production-act.html
+https://www.nytimes.com/interactive/2020/04/01/magazine/coronavirus-workers.html
+https://www.nytimes.com/2020/04/01/arts/design/daniel-lind-ramos-art-virtual-tour.html
+https://www.nytimes.com/2020/04/01/smarter-living/time-management-projects.html
+https://www.nytimes.com/2020/04/01/obituaries/lorena-borjas-dead-coronavirus.html https://www.nytimes.com/2020/04/03/arts/harriet-glickman-dead-peanuts.html https://www.nytimes.com/2020/04/06/arts/television/james-drury-dies.html https://www.nytimes.com/2020/04/07/arts/music/judy-drucker-dies.html
+https://www.nytimes.com/2020/04/01/us/politics/infrastructure-week-coronavirus.html https://www.nytimes.com/2020/04/01/us/politics/coronavirus-infrastructure-week-timeline.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-paid-leave.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-congress-small-businesses.html
+https://www.nytimes.com/2020/04/01/us/politics/katie-porter-coronavirus.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-nannies-cleaners.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/on-politics-wisconsin-coronavirus.html
+https://www.nytimes.com/2020/04/01/briefing/coronavirus-recession-tiger-king.html https://www.nytimes.com/2020/04/02/briefing/coronavirus-president-trump-democratic-party.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html https://www.nytimes.com/2020/04/03/us/coronavirus-today.html https://www.nytimes.com/2020/04/05/briefing/coronavirus-masks-larry-david.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-wisconsin-pandas.html
+https://www.nytimes.com/2020/04/01/arts/music/adam-schlesinger-dead-coronavirus.html https://www.nytimes.com/2020/04/06/arts/music/weeknd-billboard.html https://www.nytimes.com/2020/04/06/arts/music/universal-music-fire-lawsuit.html
+https://www.nytimes.com/2020/04/01/business/media/tmobile-closes-sprint-merger.html
+https://www.nytimes.com/2020/04/01/opinion/trump-coronavirus.html https://www.nytimes.com/2020/04/07/opinion/coronavirus-trump-solidarity.html
+https://www.nytimes.com/2020/04/01/us/politics/coronavirus-ventilators.html https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/climate/fema-staff-shortage-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html
+https://www.nytimes.com/2020/04/01/business/coronavirus-retail-workers-masks.html https://www.nytimes.com/2020/04/06/business/arbitration-overload.html
+https://www.nytimes.com/2020/04/01/nyregion/kevin-thomas-duffy-dead-coronavirus.html
+https://www.nytimes.com/2020/04/01/us/politics/kelly-loeffler-stocks-coronavirus.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-congress-oversight-trump.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html
+https://www.nytimes.com/2020/04/01/us/politics/devin-nunes-coronavirus-trump.html https://www.nytimes.com/2020/04/01/business/n95-face-masks-home-depot-virus.html https://www.nytimes.com/2020/04/02/us/hobby-lobby-colorado-virus.html https://www.nytimes.com/2020/04/02/us/hasher-jallal-taheb-white-house-attack.html https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-doctors-protective-equipment.html https://www.nytimes.com/2020/04/04/opinion/sunday/covid-whats-next.html
+https://www.nytimes.com/2020/04/01/us/coronavirus-today.html https://www.nytimes.com/2020/04/02/us/coronavirus-today.html https://www.nytimes.com/2020/04/06/us/coronavirus-today.html https://www.nytimes.com/2020/04/07/us/coronavirus-today.html
+https://www.nytimes.com/interactive/2020/04/01/nyregion/nyc-coronavirus-cases-map.html https://www.nytimes.com/2020/04/02/nyregion/coronavirus-yankees-ponchos.html
+https://www.nytimes.com/2020/04/01/us/politics/trump-friend-coronavirus-stanley-chera.html https://www.nytimes.com/2020/04/02/us/politics/jeff-sessions-senate-trump-campaign.html https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/01/reader-center/neediest-cases-covid-19-relief-campaign.html
+https://www.nytimes.com/2020/04/01/us/politics/hannity-limbaugh-trump-coronavirus.html
+https://www.nytimes.com/2020/04/01/nyregion/coronavirus-nyc-playgrounds-closed.html https://www.nytimes.com/2020/04/08/nyregion/coronavirus-rockland-monsey-jews.html
+https://www.nytimes.com/2020/04/01/us/politics/coronavirus-infrastructure-week-timeline.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-paid-leave.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-congress-small-businesses.html
+https://www.nytimes.com/2020/04/01/arts/design/peter-beard-photographer-missing.html
+https://www.nytimes.com/2020/04/01/us/politics/trump-iran-warning.html https://www.nytimes.com/2020/04/02/us/politics/cia-coronavirus-china.html https://www.nytimes.com/2020/04/05/us/politics/us-china-military-funding-virus.html
+https://www.nytimes.com/interactive/2020/04/01/us/coronavirus-covid-19-symptoms-data.html https://www.nytimes.com/interactive/2020/04/05/world/europe/italy-coronavirus-lockdown-reopen.html
+https://www.nytimes.com/2020/04/01/business/economy/wework-softbank-stock.html https://www.nytimes.com/2020/04/03/business/economy/coronavirus-business-bailouts.html https://www.nytimes.com/2020/04/06/business/energy-environment/pge-bankruptcy-wildfire-victims.html
+https://www.nytimes.com/interactive/2020/04/01/business/coronavirus-gun-sales.html https://www.nytimes.com/2020/04/02/business/trader-joes-unionization-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-cruise-industry-carnival.html
+https://www.nytimes.com/2020/04/01/business/n95-face-masks-home-depot-virus.html https://www.nytimes.com/2020/04/02/us/hobby-lobby-colorado-virus.html https://www.nytimes.com/2020/04/02/us/hasher-jallal-taheb-white-house-attack.html https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/01/crosswords/daily-puzzle-2020-04-02.html https://www.nytimes.com/2020/04/02/crosswords/daily-puzzle-2020-04-03.html https://www.nytimes.com/2020/04/05/crosswords/daily-puzzle-2020-04-06.html https://www.nytimes.com/2020/04/06/crosswords/daily-puzzle-2020-04-07.html https://www.nytimes.com/2020/04/07/crosswords/heck-isao-aoki-golf-crosswords.html https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/2020/04/01/opinion/coronavirus-black-people.html https://www.nytimes.com/2020/04/05/opinion/coronavirus-social-distancing.html
+https://www.nytimes.com/2020/04/01/health/coronavirus-emt-workers.html
+https://www.nytimes.com/2020/04/01/arts/music/ellis-marsalis-dead-virus.html https://www.nytimes.com/2020/04/02/us/politics/trump-coronavirus-economy.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-polls.html https://www.nytimes.com/2020/04/03/us/coronavirus-police-impersonators.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/03/us/maeve-kennedy-granddaughter-missing.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/04/us/detroit-bus-driver-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/01/us/politics/coronavirus-fauci-security.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-white-house-face-masks.html https://www.nytimes.com/2020/04/03/us/politics/barr-coronavirus-prisons-release.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html
+https://www.nytimes.com/2020/04/01/pageoneplus/corrections-april-2-2020.html
+https://www.nytimes.com/2020/04/01/arts/television/magicians-showrunners-series-finale.html
+https://www.nytimes.com/2020/04/02/realestate/coronavirus-spring-buying-season-new-york.html https://www.nytimes.com/2020/04/02/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html
+https://www.nytimes.com/2020/04/02/world/coronavirus-live-news-updates.html
+https://www.nytimes.com/2020/04/02/business/stocks-today-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/politics/joe-biden-fallon-democratic-convention.html https://www.nytimes.com/2020/04/02/us/politics/milwaukee-democratic-convention-delayed.html https://www.nytimes.com/2020/04/06/us/politics/democrats-youtube-advertising.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-pandemic-primary-republicans.html
+https://www.nytimes.com/2020/04/02/briefing/global-recession-coronavirus-wimbledon.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-us-unemployment-policing.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-italy-nordic-preppers.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-climate-change.html https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/04/02/us/hobby-lobby-colorado-virus.html https://www.nytimes.com/2020/04/02/us/hasher-jallal-taheb-white-house-attack.html https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/02/arts/television/whats-on-tv-thursday-the-virtues-and-blinded-by-the-light.html https://www.nytimes.com/2020/04/03/arts/television/whats-on-tv-friday-invisible-life-and-home-before-dark.html https://www.nytimes.com/2020/04/08/arts/television/whats-on-tv-wednesday-parasite-and-modern-family.html
+https://www.nytimes.com/2020/04/02/learning/word-quiz-parlous.html
+https://www.nytimes.com/2020/04/02/arts/television/trevor-noah-trump-coronavirus.html https://www.nytimes.com/2020/04/03/arts/television/late-night-anthony-fauci-coronavirus.html https://www.nytimes.com/2020/04/07/arts/television/late-night-trump-mask-coronavirus.html https://www.nytimes.com/2020/04/08/arts/television/late-night-wisconsin-voting-coronavirus.html
+https://www.nytimes.com/2020/04/02/style/fire-movement-stock-market-coronavirus.html https://www.nytimes.com/2020/04/07/style/internet-archive-library-congress.html
+https://www.nytimes.com/2020/04/02/learning/looking-back.html
+https://www.nytimes.com/2020/04/02/business/coronavirus-public-pension.html
+https://www.nytimes.com/2020/04/02/us/coronavirus-apocalypse-religion.html https://www.nytimes.com/2020/04/05/us/kate-bowler-cancer-coronavirus.html https://www.nytimes.com/2020/04/08/us/passover-seder-plagues-coronavirus.html
+https://www.nytimes.com/2020/04/02/world/asia/philippines-manila-duterte-market-three.html
+https://www.nytimes.com/2020/04/02/todayspaper/quotation-of-the-day-for-people-of-many-religions-crisis-has-signs-of-apocalypse.html
+https://www.nytimes.com/2020/04/02/theater/coronavirus-paris-review.html https://www.nytimes.com/2020/04/07/books/annie-ernaux-a-girls-story.html
+https://www.nytimes.com/2020/04/02/books/review/my-dark-vanessa-kate-elizabeth-russell.html https://www.nytimes.com/2020/04/02/books/tiger-king-netflix-books.html https://www.nytimes.com/2020/04/07/books/coronavirus-kid-books-to-read.html
+https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-county-epidemics.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/04/us/coronavirus-georgia-beaches.html https://www.nytimes.com/2020/04/05/us/coronavirus-aid-governors-pearl-harbor.html
+https://www.nytimes.com/2020/04/02/books/review/cool-town-athens-music-grace-elizabeth-hale.html
+https://www.nytimes.com/2020/04/02/books/review/beverly-jenkins-by-the-book-interview.html
+https://www.nytimes.com/2020/04/02/magazine/poem-bad-sons-anonymous.html
+https://www.nytimes.com/interactive/2020/04/02/realestate/02hunt-cullen.html
+https://www.nytimes.com/video/sports/olympics/100000007065772/coronavirus-2020-olympics-athletes.html
+https://www.nytimes.com/2020/04/02/well/family/coronavirus-pediatricians-Italy-children-families.html https://www.nytimes.com/2020/04/07/well/family/virus-children-songs-WWII-safety.html
+https://www.nytimes.com/2020/04/02/movies/lazy-susan-review.html
+https://www.nytimes.com/2020/04/02/opinion/sunday/coronavirus-food-storage.html
+https://www.nytimes.com/2020/04/02/well/family/high-blood-pressure-pregnancy-preeclampsia-autism-hyperactivity-epilepsy-developmental-problems.html https://www.nytimes.com/2020/04/02/well/eat/do-tea-drinkers-live-longer.html https://www.nytimes.com/2020/04/06/well/eat/high-fiber-foods-linked-to-lower-breast-cancer-risk.html
+https://www.nytimes.com/2020/04/02/learning/is-the-coronavirus-pandemic-bringing-your-extended-family-closer-together.html https://www.nytimes.com/2020/04/06/learning/kryptos-code-lesson.html https://www.nytimes.com/2020/04/07/learning/holidays-and-birthdays-are-moments-to-come-together-how-are-you-adapting-during-the-pandemic.html https://www.nytimes.com/2020/04/08/learning/lesson-of-the-day-college-made-them-feel-equal-the-virus-exposed-how-unequal-their-lives-are.html
+https://www.nytimes.com/2020/04/02/opinion/the-argument-trump-federal-aid-coronavirus.html
+https://www.nytimes.com/2020/04/02/opinion/sunday/coronavirus-doctors-duty.html
+https://www.nytimes.com/2020/04/02/opinion/sunday/coronavirus-trump-leadership.html
+https://www.nytimes.com/2020/04/02/business/coronavirus-work-neighbors.html
+https://www.nytimes.com/2020/04/02/upshot/coronavirus-europe-america-comparison.html
+https://www.nytimes.com/2020/04/02/us/politics/coronavirus-trump-china.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/06/business/economy/peter-navarro-coronavirus-defense-production-act.html
+https://www.nytimes.com/2020/04/02/opinion/baldwin-lgbt-politicians.html
+https://www.nytimes.com/2020/04/02/arts/video-games-alternatives-coronavirus-covid-virus.html
+https://www.nytimes.com/2020/04/02/opinion/governors-states-coronavirus.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-new-york-bodies.html https://www.nytimes.com/2020/04/03/nyregion/coronavirus-new-york-death-toll.html https://www.nytimes.com/2020/04/06/nyregion/mass-graves-nyc-parks-coronavirus.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-curve.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-freelance-gig-workers.html
+https://www.nytimes.com/2020/04/02/arts/design/richard-prince-robert-rubin-cowboy-book.html https://www.nytimes.com/2020/04/04/arts/suellen-rocca-dead.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-ice-immigration-detention.html
+https://www.nytimes.com/2020/04/02/world/americas/virus-tourism-caribbean.html
+https://www.nytimes.com/2020/04/02/arts/television/kim-kardashian-prison-reform.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-nyc-fear.html https://www.nytimes.com/2020/04/02/nyregion/spanish-flu-nyc-virus.html
+https://www.nytimes.com/2020/04/02/sports/olympics/coronavirus-olympics-tokyo-delayed.html https://www.nytimes.com/2020/04/06/sports/trump-sports-return-coronavirus.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-alcoholics-anonymous-online.html
+https://www.nytimes.com/2020/04/02/fashion/coronavirus-fashion-bankruptcy.html https://www.nytimes.com/2020/04/06/obituaries/leila-menchari-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/sergio-rossi-dead-coronavirus.html https://www.nytimes.com/2020/04/08/fashion/fauci-birx-cuomo-style-influencers.html
+https://www.nytimes.com/2020/04/02/us/coronavirus-undocumented-immigrant-farmworkers-agriculture.html
+https://www.nytimes.com/2020/04/02/us/politics/joe-biden-vice-president-choice.html https://www.nytimes.com/2020/04/02/us/politics/milwaukee-democratic-convention-delayed.html https://www.nytimes.com/2020/04/04/us/politics/biden-sanders-vice-president-running-mate.html https://www.nytimes.com/2020/04/07/us/politics/joe-biden-john-lewis.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-election-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/joe-biden-donald-trump-2020-election.html
+https://www.nytimes.com/2020/04/02/travel/36-hours-quarantine.html
+https://www.nytimes.com/2020/04/02/nyregion/spanish-flu-nyc-virus.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-men-women.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-nyc.html
+https://www.nytimes.com/2020/04/02/briefing/coronavirus-jobs-ellis-marsalis-jr.html https://www.nytimes.com/interactive/2020/04/03/briefing/coronavirus-ventilators-ellis-marsalis-jr-news-quiz.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-jobs.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-boris-johnson-economy.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-wisconsin.html https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/2020/04/02/world/asia/pakistan-daniel-pearl.html https://www.nytimes.com/2020/04/03/world/asia/pakistan-daniel-pearl-arrests.html
+https://www.nytimes.com/2020/04/02/realestate/coronavirus-brooklyn-artist-lesley-dill.html https://www.nytimes.com/2020/04/08/realestate/600000-homes-in-kentucky-massachusetts-and-minnesota.html
+https://www.nytimes.com/2020/04/02/business/lamborghini-huaracan-audi.html
+https://www.nytimes.com/2020/04/02/podcasts/the-daily/coronavirus-fauci.html
+https://www.nytimes.com/2020/04/02/world/europe/european-court-refugees-hungary-poland-czech-republic.html https://www.nytimes.com/2020/04/05/world/europe/scientists-coronavirus-heroes.html https://www.nytimes.com/2020/04/08/world/europe/eu-coronavirus-aid.html
+https://www.nytimes.com/2020/04/02/business/dealbook/coronavirus-startups-layoffs.html
+https://www.nytimes.com/2020/04/02/movies/the-other-lamb-review.html
+https://www.nytimes.com/2020/04/02/movies/coffee-and-kareem-review.html
+https://www.nytimes.com/2020/04/02/movies/clover-review.html
+https://www.nytimes.com/2020/04/02/movies/almost-love-review.html
+https://www.nytimes.com/2020/04/02/movies/slay-the-dragon-review-vote-early-vote-often-it-wont-matter.html https://www.nytimes.com/2020/04/02/movies/alfred-hitchcock-rope.html
+https://www.nytimes.com/2020/04/02/us/politics/trump-coronavirus-economy.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-polls.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/02/books/booker-international-prize-shortlist-kehlman-ogawa.html https://www.nytimes.com/2020/04/03/arts/coronavirus-bafta-game-awards.html https://www.nytimes.com/2020/04/08/arts/design/humboldt-forum-explosion.html
+https://www.nytimes.com/2020/04/02/learning/lesson-of-the-day-diy-coronavirus-solutions-are-gaining-steam.html https://www.nytimes.com/2020/04/03/learning/what-are-some-ways-to-travel-without-traveling-during-the-pandemic.html https://www.nytimes.com/interactive/2020/04/07/learning/07News-Quiz-for-Students.html
+https://www.nytimes.com/2020/04/02/technology/zoom-linkedin-data.html
+https://www.nytimes.com/2020/04/02/business/economy/coronavirus-unemployment-claims.html https://www.nytimes.com/2020/04/04/business/coronavirus-rural-america-oregon.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-desantis-trump.html https://www.nytimes.com/2020/04/03/opinion/coronavirus-united-states-europe.html https://www.nytimes.com/2020/04/06/opinion/coronavirus-stimulus-democrats.html https://www.nytimes.com/2020/04/08/opinion/trump-inspector-general-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/coronavirus-cruise-zaandam-rotterdam-florida.html https://www.nytimes.com/2020/04/06/world/americas/nicaragua-daniel-ortega-coronavirus.html
+https://www.nytimes.com/2020/04/02/style/fleeing-the-city-nonessential-travel-advice.html
+https://www.nytimes.com/2020/04/02/realestate/how-do-lower-mortgage-rates-affect-your-buying-power.html
+https://www.nytimes.com/2020/04/02/t-magazine/art-wrestling-magazine-tlist.html
+https://www.nytimes.com/2020/04/02/technology/amazon-making-video-games.html https://www.nytimes.com/2020/04/03/arts/video-games-kids-parents-covid-virus-coronavirus.html https://www.nytimes.com/2020/04/08/technology/google-stadia-free-virus.html
+https://www.nytimes.com/slideshow/2020/04/02/realestate/on-the-market-in-new-york-city.html
+https://www.nytimes.com/2020/04/02/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html
+https://www.nytimes.com/slideshow/2020/04/02/realestate/on-the-market-in-the-new-york-region.html
+https://www.nytimes.com/2020/04/02/realestate/homes-for-sale-in-new-york-and-new-jersey.html
+https://www.nytimes.com/2020/04/02/health/stem-cell-treatment-coronavirus.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/health/coronavirus-testing-us.html
+https://www.nytimes.com/2020/04/02/parenting/coronavirus-children-online-etiquette.html
+https://www.nytimes.com/2020/04/02/world/asia/modi-india-press-media.html https://www.nytimes.com/2020/04/08/world/asia/india-pollution-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/la-county-essential-business-coronavirus.html https://www.nytimes.com/2020/04/03/us/coronavirus-shelter-in-place-california.html https://www.nytimes.com/2020/04/04/us/coronavirus-cases-california-county.html https://www.nytimes.com/2020/04/06/us/coronavirus-schools-attendance-absent.html https://www.nytimes.com/2020/04/07/us/coronavirus-blood-plasma-donation.html https://www.nytimes.com/2020/04/08/us/coronavirus-california-rep-katie-porter.html
+https://www.nytimes.com/2020/04/02/smarter-living/coronavirus-clean-home-house-disinfect.html
+https://www.nytimes.com/2020/04/02/arts/david-tennant-favorites.html
+https://www.nytimes.com/2020/04/02/arts/coronavirus-rehearsal.html https://www.nytimes.com/2020/04/02/arts/music/tekashi69-free-prison-coronavirus.html
+https://www.nytimes.com/2020/04/02/arts/music/bucky-pizzarelli-dead-coronavirus.html
+https://www.nytimes.com/2020/04/02/business/caesars-gambling-uk-fine.html https://www.nytimes.com/2020/04/08/business/coronavirus-jigsaw-puzzles.html
+https://www.nytimes.com/2020/04/02/parenting/coronavirus-amazon-worker-family-life.html
+https://www.nytimes.com/2020/04/02/style/influencers-leave-new-york-coronavirus.html https://www.nytimes.com/2020/04/03/technology/zoom-harassment-abuse-racism-fbi-warning.html https://www.nytimes.com/2020/04/06/style/hollywood-agents-influencers.html https://www.nytimes.com/2020/04/07/style/zoom-security-tips.html
+https://www.nytimes.com/2020/04/02/realestate/why-wont-my-building-tell-me-if-a-resident-has-coronavirus.html https://www.nytimes.com/2020/04/02/smarter-living/protect-your-home-against-the-onslaught.html
+https://www.nytimes.com/2020/04/02/learning/teenagers-in-the-times-march-2020.html
+https://www.nytimes.com/2020/04/02/movies/netflix-happy-documentaries-virus.html https://www.nytimes.com/2020/04/02/arts/television/movies-tv-new-netflix-amazon-stan-australia-april.html
+https://www.nytimes.com/2020/04/02/us/train-crash-los-angeles-coronavirus.html https://www.nytimes.com/2020/04/02/health/fda-blood-donations-coronavirus.html
+https://www.nytimes.com/2020/04/02/world/australia/coronavirus-police-lockdowns.html https://www.nytimes.com/2020/04/03/world/asia/solomon-islands-cyclone-harold-ferry.html https://www.nytimes.com/2020/04/03/world/africa/uganda-museveni-nyanzi.html https://www.nytimes.com/2020/04/03/obituaries/nur-hussein-dead-coronavirus.html https://www.nytimes.com/2020/04/06/world/australia/great-barrier-reefs-bleaching-dying.html https://www.nytimes.com/2020/04/06/world/australia/cardinal-george-pell-conviction.html https://www.nytimes.com/2020/04/07/world/australia/cardinal-george-pell-acquittal.html
+https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.html https://www.nytimes.com/2020/04/02/us/politics/trump-russia-saudi-arabia-oil.html
+https://www.nytimes.com/2020/04/02/theater/theater-novels-coronavirus.html https://www.nytimes.com/2020/04/07/theater/addams-family-musical-history.html
+https://www.nytimes.com/2020/04/02/business/small-business-coronavirus-stimulus.html https://www.nytimes.com/2020/04/03/business/sba-loans-coronavirus.html https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/2020/04/02/smarter-living/protect-your-home-against-the-onslaught.html
+https://www.nytimes.com/2020/04/02/upshot/powell-career-path-crisis-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/politics/milwaukee-democratic-convention-delayed.html https://www.nytimes.com/2020/04/04/us/politics/biden-sanders-vice-president-running-mate.html https://www.nytimes.com/2020/04/06/us/politics/democrats-youtube-advertising.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/joe-biden-john-lewis.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-pandemic-primary-republicans.html https://www.nytimes.com/2020/04/08/us/politics/joe-biden-donald-trump-2020-election.html
+https://www.nytimes.com/2020/04/02/sports/football/derek-jeter-tampa-mansion-tom-brady.html https://www.nytimes.com/2020/04/02/sports/premier-league-djokovic-enes-kanter-coronavirus.html https://www.nytimes.com/2020/04/03/sports/sumo-cycling-olympics.html https://www.nytimes.com/2020/04/06/sports/Nurmagomedov-Ferguson-UFC-virus.html https://www.nytimes.com/2020/04/07/sports/paris-curfew-outdoor-sports.html https://www.nytimes.com/2020/04/08/sports/coronavirus-track-and-field.html
+https://www.nytimes.com/2020/04/02/business/stock-market-predictions-coronavirus-shiller.html
+https://www.nytimes.com/2020/04/02/technology/doctor-zelenko-coronavirus-drugs.html
+https://www.nytimes.com/2020/04/02/dining/pantry-recipe-coronavirus.html https://www.nytimes.com/2020/04/03/dining/asparagus-salad-coronavirus.html https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html https://www.nytimes.com/2020/04/06/dining/pasta-carbonara-coronavirus.html https://www.nytimes.com/2020/04/07/dining/garlicky-braised-greens-coronavirus.html
+https://www.nytimes.com/2020/04/02/science/amber-mating-flies-australia.html
+https://www.nytimes.com/2020/04/02/theater/gerald-freedman-dead.html https://www.nytimes.com/2020/04/03/arts/music/bill-withers-dead.html https://www.nytimes.com/2020/04/03/obituaries/gita-ramjee-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/vincent-lionti-dead-coronavirus.html https://www.nytimes.com/2020/04/07/obituaries/david-driskell-dead.html
+https://www.nytimes.com/2020/04/02/arts/design/art-galleries-virtual-tour.html https://www.nytimes.com/2020/04/02/arts/design/instagram-photographers-coronavirus.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-democracy.html
+https://www.nytimes.com/2020/04/02/arts/music/adam-schlesinger-songs.html
+https://www.nytimes.com/2020/04/02/us/virus-kirkland-life-care-nursing-home.html https://www.nytimes.com/2020/04/06/us/space-crime-allegation-indictment.html https://www.nytimes.com/2020/04/07/us/coronavirus-idaho-bundy-patriot.html
+https://www.nytimes.com/2020/04/02/well/eat/do-tea-drinkers-live-longer.html https://www.nytimes.com/2020/04/06/well/eat/high-fiber-foods-linked-to-lower-breast-cancer-risk.html
+https://www.nytimes.com/2020/04/02/science/john-murray-dead-coronavirus.html https://www.nytimes.com/2020/04/07/science/robert-barth-dead.html
+https://www.nytimes.com/2020/04/02/magazine/afghan-war-casualty-report-april-2020.html
+https://www.nytimes.com/2020/04/02/arts/television/tiger-king-style.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/05/obituaries/cristina-dead.html https://www.nytimes.com/2020/04/07/arts/music/drake-toosie-slide-tiktok.html
+https://www.nytimes.com/2020/04/02/learning/whats-going-on-in-this-graph-bus-ridership-in-metropolitan-areas.html
+https://www.nytimes.com/2020/04/02/us/politics/jeff-sessions-senate-trump-campaign.html https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/02/movies/scary-movies-virus.html
+https://www.nytimes.com/2020/04/02/books/review/10-new-books-to-read-this-week.html
+https://www.nytimes.com/2020/04/02/sports/premier-league-djokovic-enes-kanter-coronavirus.html https://www.nytimes.com/2020/04/03/sports/sumo-cycling-olympics.html https://www.nytimes.com/2020/04/06/sports/Nurmagomedov-Ferguson-UFC-virus.html https://www.nytimes.com/2020/04/07/sports/paris-curfew-outdoor-sports.html https://www.nytimes.com/2020/04/08/sports/coronavirus-track-and-field.html
+https://www.nytimes.com/2020/04/02/health/fda-blood-donations-coronavirus.html
+https://www.nytimes.com/2020/04/02/dining/drinks/whiskey-infinity-bottle.html
+https://www.nytimes.com/2020/04/02/technology/coronavirus-layoffs-startups.html https://www.nytimes.com/2020/04/03/technology/video-games-coronavirus.html https://www.nytimes.com/2020/04/06/technology/coronavirus-amazon-workers.html https://www.nytimes.com/2020/04/07/technology/passover-coronavirus.html
+https://www.nytimes.com/2020/04/02/opinion/letters/coronavirus-masks.html
+https://www.nytimes.com/2020/04/02/learning/what-students-are-saying-about-public-preschool-staying-healthy-and-being-trapped-inside.html
+https://www.nytimes.com/2020/04/02/movies/alfred-hitchcock-rope.html
+https://www.nytimes.com/2020/04/02/arts/television/home-before-dark-review.html https://www.nytimes.com/2020/04/03/arts/television/world-on-fire-review.html https://www.nytimes.com/2020/04/07/arts/television/quibi-shows.html
+https://www.nytimes.com/interactive/2020/04/02/burst/coronavirus-how-to-run-safely.html https://www.nytimes.com/2020/04/08/well/move/coronavirus-exercise-depression-anxiety-mood.html
+https://www.nytimes.com/2020/04/02/sports/no-sports-coronavirus.html https://www.nytimes.com/2020/04/06/sports/ncaabasketball/coronavirus-sports-betting.html https://www.nytimes.com/2020/04/06/sports/soccer/qatar-and-russia-bribery-world-cup-fifa.html https://www.nytimes.com/2020/04/07/sports/ufc-249-coronavirus-location.html
+https://www.nytimes.com/2020/04/02/us/politics/wisconsin-election-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-absentee-ballots.html
+https://www.nytimes.com/2020/04/02/world/americas/coronavirus-united-nations-guterres.html
+https://www.nytimes.com/2020/04/02/movies/weekend-viewing-party-virus.html https://www.nytimes.com/2020/04/03/movies/library-congress-streaming-free.html
+https://www.nytimes.com/2020/04/02/education/learning/teaching-coronavirus-online-learning.html
+https://www.nytimes.com/2020/04/02/podcasts/high-fidelity-zoe-kravitz.html https://www.nytimes.com/2020/04/06/magazine/d-nice-has-coronavirus-made-the-internet-better.html
+https://www.nytimes.com/2020/04/02/business/economy/coronavirus-trump-company-finances.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html
+https://www.nytimes.com/2020/04/02/education/learning/college-students-coronavirus.html
+https://www.nytimes.com/2020/04/02/opinion/letters/coronavirus-social-distancing.html
+https://www.nytimes.com/2020/04/02/health/coronavirus-antibody-test.html https://www.nytimes.com/article/pregnancy-coronavirus.html
+https://www.nytimes.com/2020/04/02/opinion/trump-coronavirus-masks.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-funeral-livestream.html
+https://www.nytimes.com/video/opinion/100000007062353/coronavirus-messages-from-quarantine.html https://www.nytimes.com/2020/04/02/opinion/coronavirus-milan-italy-lockdown.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-milan-italy-lockdown.html
+https://www.nytimes.com/2020/04/02/sports/baseball/coronavirus-tommy-john-surgery.html https://www.nytimes.com/2020/04/06/sports/baseball/kbo-baseball-coronavirus.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-detroit.html
+https://www.nytimes.com/2020/04/02/opinion/letters/coronavirus-florida.html
+https://www.nytimes.com/article/report-coronavirus-information.html
+https://www.nytimes.com/2020/04/02/learning/film-club-its-a-pretty-big-bummer-olympic-dreams-on-hold.html
+https://www.nytimes.com/2020/04/02/nyregion/nyc-things-to-do-coronavirus-quarantine.html
+https://www.nytimes.com/2020/04/02/us/observing-passover-during-coronavirus-outbreak.html
+https://www.nytimes.com/2020/04/02/arts/design/instagram-photographers-coronavirus.html https://www.nytimes.com/2020/04/08/arts/dance/american-ballet-theater-coronavirus.html
+https://www.nytimes.com/2020/04/02/world/europe/coronavirus-us-russia-aid.html
+https://www.nytimes.com/article/pregnancy-coronavirus.html
+https://www.nytimes.com/2020/04/02/arts/things-to-do-this-weekend-virus.html
+https://www.nytimes.com/2020/04/02/health/coronavirus-drug-shortages.html https://www.nytimes.com/article/coronavirus-allergies-flu.html
+https://www.nytimes.com/2020/04/02/us/coronavirus-birthday-party.html
+https://www.nytimes.com/article/coronavirus-allergies-flu.html
+https://www.nytimes.com/2020/04/02/us/politics/cia-coronavirus-china.html https://www.nytimes.com/2020/04/05/us/politics/us-china-military-funding-virus.html
+https://www.nytimes.com/2020/04/02/us/politics/jared-kushner-coronavirus-trump.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/climate/fema-staff-shortage-coronavirus.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/04/us/politics/trump-coronavirus-post-impeachment-purge.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/02/business/trader-joes-unionization-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-cruise-industry-carnival.html
+https://www.nytimes.com/article/wine-delivery-service.html https://www.nytimes.com/2020/04/02/dining/drinks/best-wines-under-15-dollars.html
+https://www.nytimes.com/2020/04/02/smarter-living/fear-of-rejection.html
+https://www.nytimes.com/2020/04/02/arts/music/tekashi69-free-prison-coronavirus.html https://www.nytimes.com/2020/04/03/movies/pornhub-shakedown-leilah-weinraub.html
+https://www.nytimes.com/2020/04/02/briefing/coronavirus-crackdowns-policing-duterte.html https://www.nytimes.com/2020/04/05/briefing/coronavirus-assam-tribunals-global-recession.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-japan-state-of-emergency-iran.html https://www.nytimes.com/2020/04/07/briefing/wuhan-japan-emergency-boris-johnson.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-yankees-ponchos.html
+https://www.nytimes.com/2020/04/02/dining/eleven-madison-park-free-meals-coronavirus.html https://www.nytimes.com/2020/04/03/dining/gallaghers-steakhouse-fdny-coronavirus.html https://www.nytimes.com/2020/04/08/dining/passover-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/politics/coronavirus-aircraft-carrier-roosevelt.html https://www.nytimes.com/2020/04/02/us/politics/coronavirus-paid-leave.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-special-operations-forces-pentagon.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-brett-crozier-theodore-roosevelt.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-congress-small-businesses.html
+https://www.nytimes.com/2020/04/02/obituaries/mababa-pape-diouf-dead-coronavirus.html https://www.nytimes.com/2020/04/03/sports/european-soccer-football-canceled.html https://www.nytimes.com/2020/04/06/sports/soccer/qatar-and-russia-bribery-world-cup-fifa.html https://www.nytimes.com/2020/04/08/sports/germany-soccer-coronavirus.html
+https://www.nytimes.com/2020/04/02/style/peter-gatien-limelight-tunnel-club-kid.html
+https://www.nytimes.com/2020/04/02/obituaries/arianne-caoili-dead.html
+https://www.nytimes.com/2020/04/02/us/politics/special-education-coronavirus.html https://www.nytimes.com/2020/04/04/us/politics/black-girls-school-racism.html
+https://www.nytimes.com/2020/04/02/us/nra-guns-coronavirus.html
+https://www.nytimes.com/2020/04/02/dining/drinks/best-wines-under-15-dollars.html
+https://www.nytimes.com/2020/04/02/books/tiger-king-netflix-books.html https://www.nytimes.com/2020/04/07/books/coronavirus-kid-books-to-read.html
+https://www.nytimes.com/2020/04/02/t-magazine/home-hair-care-tips-coronavirus.html
+https://www.nytimes.com/2020/04/02/world/europe/uk-coronavirus-testing.html https://www.nytimes.com/2020/04/04/world/europe/labour-party-keir-starmer.html https://www.nytimes.com/2020/04/05/world/europe/coronavirus-queen-elizabeth-speech.html https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html https://www.nytimes.com/2020/04/07/world/europe/coronavirus-united-kingdom.html https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/politics/coronavirus-congress-oversight-trump.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/04/us/politics/congress-doctors-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/democrats-coronavirus-earnestine.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-economy-stimulus.html https://www.nytimes.com/2020/04/06/opinion/coronavirus-economy.html
+https://www.nytimes.com/2020/04/02/opinion/mental-health-coronavirus.html
+https://www.nytimes.com/2020/04/02/science/skulls-africa-caves.html
+https://www.nytimes.com/2020/04/02/opinion/how-to-cook-a-coronavirus.html https://www.nytimes.com/2020/04/07/opinion/coronavirus-treatment.html
+https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html
+https://www.nytimes.com/2020/04/02/briefing/coronavirus-president-trump-democratic-party.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html https://www.nytimes.com/2020/04/03/us/coronavirus-today.html
+https://www.nytimes.com/2020/04/02/health/masks-coronavirus-cdc.html https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-metro-area-tracker.html https://www.nytimes.com/2020/04/03/upshot/trump-hospitals-coronavirus.html https://www.nytimes.com/2020/04/04/us/coronavirus-community-clinics-seattle.html
+https://www.nytimes.com/2020/04/02/us/politics/coronavirus-nannies-cleaners.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/on-politics-wisconsin-coronavirus.html
+https://www.nytimes.com/2020/04/02/us/coronavirus-today.html https://www.nytimes.com/2020/04/06/us/coronavirus-today.html https://www.nytimes.com/2020/04/07/us/coronavirus-today.html
+https://www.nytimes.com/2020/04/02/opinion/coronavirus-ventilator-shortage.html
+https://www.nytimes.com/2020/04/02/opinion/trump-coronavirus-daca.html
+https://www.nytimes.com/2020/04/02/arts/television/harley-quinn-high-maintenance.html https://www.nytimes.com/2020/04/06/arts/television/schitts-creek-good-fight.html https://www.nytimes.com/2020/04/08/arts/television/the-leftovers.html
+https://www.nytimes.com/2020/04/02/us/hasher-jallal-taheb-white-house-attack.html https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/02/us/politics/coronavirus-paid-leave.html https://www.nytimes.com/2020/04/06/business/economy/coronavirus-economy.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-congress-small-businesses.html
+https://www.nytimes.com/2020/04/02/nyregion/ny-coronavirus-usns-comfort.html https://www.nytimes.com/2020/04/07/nyregion/usns-comfort-crew-coronavirus.html
+https://www.nytimes.com/2020/04/02/arts/television/movies-tv-new-netflix-amazon-stan-australia-april.html
+https://www.nytimes.com/2020/04/02/opinion/jared-kushner-coronavirus.html https://www.nytimes.com/2020/04/06/opinion/abortion-covid.html
+https://www.nytimes.com/2020/04/02/us/politics/trump-russia-saudi-arabia-oil.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html
+https://www.nytimes.com/2020/04/02/nyregion/coronavirus-ny-state-budget.html https://www.nytimes.com/2020/04/03/nyregion/cuomo-trump-coronavirus.html https://www.nytimes.com/2020/04/08/nyregion/coronavirus-rockland-monsey-jews.html
+https://www.nytimes.com/2020/04/02/smarter-living/how-to-give-better-advice.html
+https://www.nytimes.com/2020/04/02/crosswords/daily-puzzle-2020-04-03.html https://www.nytimes.com/2020/04/05/crosswords/daily-puzzle-2020-04-06.html https://www.nytimes.com/2020/04/06/crosswords/daily-puzzle-2020-04-07.html https://www.nytimes.com/2020/04/07/crosswords/heck-isao-aoki-golf-crosswords.html https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/2020/04/02/world/australia/australia-coronavirus-social-distancing-socializing.html
+https://www.nytimes.com/2020/04/02/nyregion/brooklyn-coronavirus-price-gouging.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/02/obituaries/ken-shimura-dead-coronavirus.html https://www.nytimes.com/2020/04/07/world/asia/japan-coronavirus-emergency.html
+https://www.nytimes.com/2020/04/02/pageoneplus/corrections-april-3-2020.html
+https://www.nytimes.com/2020/04/02/todayspaper/quote-of-the-day-unrivaled-job-losses-accelerate-across-us.html
+https://www.nytimes.com/2020/04/03/style/modern-love-coronavirus-isolation-cargo-ship.html
+https://www.nytimes.com/2020/04/03/world/coronavirus-news-updates.html
+https://www.nytimes.com/2020/04/03/briefing/coronavirus-us-unemployment-policing.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-italy-nordic-preppers.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-climate-change.html https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/04/03/sports/wimbledon-grand-slams-canceled.html https://www.nytimes.com/2020/04/07/sports/tennis/platform-tennis-coronavirus.html
+https://www.nytimes.com/2020/04/03/reader-center/coronavirus-times-home.html
+https://www.nytimes.com/2020/04/03/business/stock-market-today-coronavirus.html
+https://www.nytimes.com/2020/04/03/arts/television/whats-on-tv-friday-invisible-life-and-home-before-dark.html https://www.nytimes.com/2020/04/08/arts/television/whats-on-tv-wednesday-parasite-and-modern-family.html
+https://www.nytimes.com/2020/04/03/learning/word-quiz-lacuna.html
+https://www.nytimes.com/2020/04/03/arts/television/late-night-anthony-fauci-coronavirus.html https://www.nytimes.com/2020/04/07/arts/television/late-night-trump-mask-coronavirus.html https://www.nytimes.com/2020/04/08/arts/television/late-night-wisconsin-voting-coronavirus.html
+https://www.nytimes.com/2020/04/03/sports/basketball/terrace-house-rui-hachimura.html
+https://www.nytimes.com/2020/04/03/learning/home-cooking.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-nypd.html
+https://www.nytimes.com/2020/04/03/business/economy/coronavirus-business-bailouts.html https://www.nytimes.com/2020/04/06/business/energy-environment/pge-bankruptcy-wildfire-victims.html
+https://www.nytimes.com/2020/04/03/world/asia/solomon-islands-cyclone-harold-ferry.html https://www.nytimes.com/2020/04/06/world/australia/great-barrier-reefs-bleaching-dying.html https://www.nytimes.com/2020/04/06/world/australia/cardinal-george-pell-conviction.html https://www.nytimes.com/2020/04/07/world/australia/cardinal-george-pell-acquittal.html
+https://www.nytimes.com/interactive/2020/04/03/briefing/coronavirus-ventilators-ellis-marsalis-jr-news-quiz.html https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-jobs.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-boris-johnson-economy.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-wisconsin.html https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/2020/04/03/books/review/freddy-the-pig-and-the-electoral-college-readers-respond.html
+https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-cities-social-distancing-better-employment.html
+https://www.nytimes.com/interactive/2020/04/03/well/live/03healthquiz-04032020.html
+https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-new-orleans-social-distancing.html
+https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html
+https://www.nytimes.com/2020/04/03/books/review/new-paperbacks.html
+https://www.nytimes.com/2020/04/03/books/review/john-kay-mervyn-king-radical-uncertainty-stanislas-dehaene-how-we-learn-anthony-david-into-the-abyss.html
+https://www.nytimes.com/2020/04/03/books/review/hidden-valley-road-robert-kolker.html
+https://www.nytimes.com/interactive/2020/04/03/upshot/coronavirus-metro-area-tracker.html https://www.nytimes.com/2020/04/03/upshot/trump-hospitals-coronavirus.html
+https://www.nytimes.com/2020/04/03/nyregion/co-op-board-coronavirus-nyc.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-medical-students-early-oath.html
+https://www.nytimes.com/2020/04/03/well/family/virus-teenagers-family-quarantine-togetherness.html
+https://www.nytimes.com/2020/04/03/opinion/livestream-religious-services-covid.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-farm-workers.html
+https://www.nytimes.com/2020/04/03/upshot/coronavirus-jobless-rate-great-depression.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-south-africa.html
+https://www.nytimes.com/2020/04/03/travel/staycation-gear.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-pharmacist-drugstore.html
+https://www.nytimes.com/2020/04/03/arts/video-games-kids-parents-covid-virus-coronavirus.html https://www.nytimes.com/2020/04/08/technology/google-stadia-free-virus.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-special-operations-forces-pentagon.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-brett-crozier-theodore-roosevelt.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html
+https://www.nytimes.com/2020/04/03/reader-center/the-journalists-changing-roles-during-the-coronavirus-outbreak.html https://www.nytimes.com/interactive/2020/04/06/learning/Ecuador-Geography-Quiz.html https://www.nytimes.com/interactive/2020/04/07/learning/07News-Quiz-for-Students.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-hospitals-chaplains.html
+https://www.nytimes.com/2020/04/03/nyregion/cuomo-trump-coronavirus.html https://www.nytimes.com/2020/04/08/nyregion/coronavirus-rockland-monsey-jews.html
+https://www.nytimes.com/2020/04/03/fashion/weddings/Coronavirus-front-porch-wedding.html https://www.nytimes.com/2020/04/05/nyregion/coronavirus-chinese-americans-supplies.html
+https://www.nytimes.com/2020/04/03/opinion/defense-protection-act-covid.html
+https://www.nytimes.com/2020/04/03/opinion/covid-trump.html
+https://www.nytimes.com/2020/04/03/business/stock-market-coronavirus-strategy.html
+https://www.nytimes.com/2020/04/03/travel/coronavirus-refund-travel-ota.html https://www.nytimes.com/2020/04/08/travel/hotels-coronavirus-health-care-workers.html
+https://www.nytimes.com/2020/04/03/books/coronavirus-free-books-digital.html https://www.nytimes.com/2020/04/04/books/c-pam-zhang-how-much-of-these-hills-is-gold.html
+https://www.nytimes.com/2020/04/03/style/zoom-galas-and-vlogging.html
+https://www.nytimes.com/2020/04/03/realestate/coronavirus-manhattan-co-op.html
+https://www.nytimes.com/2020/04/03/arts/bronx-zoo-coronavirus.html https://www.nytimes.com/2020/04/07/arts/kennedy-center-national-symphony-orchestra-coronavirus.html
+https://www.nytimes.com/2020/04/03/style/pants-drunk-time.html https://www.nytimes.com/2020/04/03/realestate/coronavirus-moving-home.html https://www.nytimes.com/2020/04/07/nyregion/coronavirus-four-seasons-hotel-new-york.html
+https://www.nytimes.com/2020/04/03/style/ocd-coronavirus-challenges.html
+https://www.nytimes.com/2020/04/03/technology/virus-tech-lobbyists-gains.html https://www.nytimes.com/2020/04/03/us/politics/small-business-administration-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/2020/04/03/style/teddy-bear-scavenger-hunt.html https://www.nytimes.com/2020/04/04/business/coronavirus-uber.html
+https://www.nytimes.com/2020/04/03/science/xenobots-robots-frogs-xenopus.html https://www.nytimes.com/2020/04/07/science/comet-borisov-break-up.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-health-care-candidates.html
+https://www.nytimes.com/2020/04/03/world/europe/coronavirus-language-confusion.html
+https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
+https://www.nytimes.com/2020/04/03/opinion/sunday/coronavirus-china-US.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-nyc.html
+https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-jobs.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-boris-johnson-economy.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-wisconsin.html https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/2020/04/03/world/asia/coronavirus-state-department-tourists.html https://www.nytimes.com/2020/04/05/world/asia/nepal-himalayas-glacier-climate.html
+https://www.nytimes.com/2020/04/03/realestate/coronavirus-moving-home.html https://www.nytimes.com/2020/04/07/nyregion/coronavirus-four-seasons-hotel-new-york.html
+https://www.nytimes.com/2020/04/03/podcasts/the-daily/coronavirus-cuomo-governors.html
+https://www.nytimes.com/2020/04/03/world/africa/uganda-museveni-nyanzi.html https://www.nytimes.com/2020/04/03/obituaries/nur-hussein-dead-coronavirus.html
+https://www.nytimes.com/2020/04/03/world/asia/myanmar-journalists-arrest-arakan.html
+https://www.nytimes.com/2020/04/03/business/dealbook/trump-coronavirus-advisors.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-polls.html https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/03/us/politics/maryland-coronavirus.html https://www.nytimes.com/2020/04/05/obituaries/mary-roman-dead.html
+https://www.nytimes.com/2020/04/03/books/review/when-stars-are-scattered-victoria-jamieson-omar-mohamed.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-ny-updates.html
+https://www.nytimes.com/2020/04/03/sports/european-soccer-football-canceled.html https://www.nytimes.com/2020/04/06/sports/soccer/qatar-and-russia-bribery-world-cup-fifa.html https://www.nytimes.com/2020/04/08/sports/germany-soccer-coronavirus.html
+https://www.nytimes.com/2020/04/03/smarter-living/conversation-starters-non-coronavirus.html
+https://www.nytimes.com/2020/04/03/learning/what-are-some-ways-to-travel-without-traveling-during-the-pandemic.html https://www.nytimes.com/interactive/2020/04/07/learning/07News-Quiz-for-Students.html
+https://www.nytimes.com/2020/04/03/magazine/personal-sacrifice-coronavirus-world-war-ii.html
+https://www.nytimes.com/2020/04/03/climate/epa-fake-coronavirus-cleaners.html https://www.nytimes.com/2020/04/07/climate/air-pollution-coronavirus-covid.html https://www.nytimes.com/2020/04/08/climate/coronavirus-pollution-race.html
+https://www.nytimes.com/2020/04/03/business/economy/coronavirus-jobs-report.html
+https://www.nytimes.com/2020/04/03/your-money/coronavirus-income-tax-deadline.html
+https://www.nytimes.com/2020/04/03/your-money/for-small-business-owners-hard-decisions-become-personal.html
+https://www.nytimes.com/2020/04/03/arts/coronavirus-bafta-game-awards.html https://www.nytimes.com/2020/04/08/arts/design/humboldt-forum-explosion.html
+https://www.nytimes.com/article/coronavirus-hand-sanitizer-home-made-diy.html https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html https://www.nytimes.com/2020/04/08/well/live/coronavirus-face-mask-mistakes.html
+https://www.nytimes.com/2020/04/03/us/coronavirus-shelter-in-place-california.html https://www.nytimes.com/2020/04/04/us/coronavirus-cases-california-county.html https://www.nytimes.com/2020/04/07/us/coronavirus-blood-plasma-donation.html https://www.nytimes.com/2020/04/08/us/coronavirus-california-rep-katie-porter.html
+https://www.nytimes.com/2020/04/03/realestate/two-more-big-sales-at-220-central-park-south.html
+https://www.nytimes.com/2020/04/03/style/etiquette-coronavirus.html https://www.nytimes.com/2020/04/07/well/how-to-celebrate-a-birthday-during-the-coronavirus-shutdown.html
+https://www.nytimes.com/2020/04/03/t-magazine/where-to-donate-arts-coronavirus.html
+https://www.nytimes.com/2020/04/03/technology/coronavirus-masks-shortage.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html
+https://www.nytimes.com/2020/04/03/us/coronavirus-male-female-data-bias.html
+https://www.nytimes.com/2020/04/03/magazine/behind-the-cover-on-the-job.html
+https://www.nytimes.com/2020/04/03/magazine/judge-john-hodgman-on-making-children-save-up-for-lego-hogwarts.html
+https://www.nytimes.com/2020/04/03/movies/abortion-movie-director.html
+https://www.nytimes.com/2020/04/03/movies/pornhub-shakedown-leilah-weinraub.html
+https://www.nytimes.com/2020/04/03/arts/design/an-my-le.html
+https://www.nytimes.com/2020/04/03/business/media/ads-commercials-coronavirus.html
+https://www.nytimes.com/2020/04/03/science/william-frankland-dead-coronavirus.html https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html https://www.nytimes.com/2020/04/08/technology/ai-sports-athletes-machine-learning.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-nyc-landlord-mario-salerno.html
+https://www.nytimes.com/2020/04/03/dining/what-to-cook-this-weekend.html https://www.nytimes.com/2020/04/05/dining/what-to-cook-this-week.html https://www.nytimes.com/2020/04/06/dining/we-are-all-doing-the-best-that-we-can.html https://www.nytimes.com/2020/04/08/dining/you-can-adapt-it-all.html
+https://www.nytimes.com/2020/04/03/science/south-philippine-kingfisher-photo.html
+https://www.nytimes.com/2020/04/03/arts/music/bill-withers-dead.html https://www.nytimes.com/2020/04/03/obituaries/gita-ramjee-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/vincent-lionti-dead-coronavirus.html https://www.nytimes.com/2020/04/07/obituaries/david-driskell-dead.html
+https://www.nytimes.com/video/us/politics/100000007067717/trumps-coronavirus-statements.html https://www.nytimes.com/video/us/politics/100000007075113/wisconsin-2020-primary-coronavirus.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-united-states-europe.html https://www.nytimes.com/2020/04/06/opinion/coronavirus-stimulus-democrats.html https://www.nytimes.com/2020/04/08/opinion/trump-inspector-general-coronavirus.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-carlota-children-ramos.html
+https://www.nytimes.com/2020/04/03/arts/music/simon-woods-league-orchestras.html https://www.nytimes.com/2020/04/07/arts/music/new-york-philharmonic-misconduct.html
+https://www.nytimes.com/2020/04/03/obituaries/gita-ramjee-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/vincent-lionti-dead-coronavirus.html https://www.nytimes.com/2020/04/07/obituaries/david-driskell-dead.html
+https://www.nytimes.com/2020/04/03/opinion/sunday/coronavirus-fake-news.html
+https://www.nytimes.com/2020/04/03/world/europe/britain-coronavirus-triage.html https://www.nytimes.com/2020/04/08/world/middleeast/coronavirus-saudi-royal-infections.html
+https://www.nytimes.com/2020/04/03/books/review/crime-fiction-peter-swanson-eight-perfect-murders.html
+https://www.nytimes.com/2020/04/03/us/coronavirus-police-impersonators.html https://www.nytimes.com/2020/04/03/us/maeve-kennedy-granddaughter-missing.html https://www.nytimes.com/2020/04/04/us/detroit-bus-driver-coronavirus.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-nyc-chris-smalls-amazon.html
+https://www.nytimes.com/2020/04/03/opinion/letters/coronavirus-remote-learning.html
+https://www.nytimes.com/2020/04/03/sports/golf/us-open-postponed-lpga.html https://www.nytimes.com/2020/04/06/sports/golf/masters-us-open-british-rescheduled.html
+https://www.nytimes.com/2020/04/03/us/politics/pete-buttigieg-win-the-era-pac.html https://www.nytimes.com/2020/04/06/us/politics/biden-trump-coronavirus-call.html
+https://www.nytimes.com/2020/04/03/dining/asparagus-salad-coronavirus.html https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html https://www.nytimes.com/2020/04/06/dining/pasta-carbonara-coronavirus.html https://www.nytimes.com/2020/04/07/dining/garlicky-braised-greens-coronavirus.html
+https://www.nytimes.com/2020/04/03/business/bluestone-lane-nick-stone.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-3m-masks.html https://www.nytimes.com/2020/04/03/climate/fema-staff-shortage-coronavirus.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/business/economy/peter-navarro-coronavirus-defense-production-act.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/03/opinion/sunday/gina-raimondo.html https://www.nytimes.com/2020/04/06/opinion/trump-coronavirus-empathy.html https://www.nytimes.com/2020/04/08/opinion/coronavirus-trump-dr-oz.html
+https://www.nytimes.com/2020/04/03/arts/music/music-meditation-zoom-coronavirus.html
+https://www.nytimes.com/2020/04/03/dining/anything-for-dinner-is-ok.html https://www.nytimes.com/2020/04/06/dining/kosher-dairy-restaurant-book-ben-katchor.html
+https://www.nytimes.com/2020/04/03/books/youre-quarantined-and-your-kid-runs-out-of-books-to-read.html
+https://www.nytimes.com/2020/04/03/parenting/coronavirus-day-care.html
+https://www.nytimes.com/2020/04/03/briefing/11-of-our-best-weekend-reads.html
+https://www.nytimes.com/2020/04/03/nyregion/new-york-coronavirus-doctors.html
+https://www.nytimes.com/2020/04/03/us/corona-virus-lawsuits.html
+https://www.nytimes.com/2020/04/03/style/love-letter-dating-in-the-middle-of-the-atlantic-ocean.html
+https://www.nytimes.com/2020/04/03/arts/music/playlist-mavis-staples-dababy-1975.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/04/arts/music/bill-withers.html https://www.nytimes.com/2020/04/05/obituaries/cristina-dead.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/07/arts/music/drake-toosie-slide-tiktok.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/03/technology/video-games-coronavirus.html https://www.nytimes.com/2020/04/06/technology/coronavirus-amazon-workers.html https://www.nytimes.com/2020/04/07/technology/passover-coronavirus.html
+https://www.nytimes.com/2020/04/03/dining/pantry-poundcake-coronavirus.html https://www.nytimes.com/2020/04/06/dining/pasta-carbonara-coronavirus.html https://www.nytimes.com/2020/04/07/dining/garlicky-braised-greens-coronavirus.html
+https://www.nytimes.com/2020/04/03/books/margaret-atwood-virtual-book-tour-coronavirus.html https://www.nytimes.com/2020/04/03/world/canada/Ontario-British-Columbia-Coronavirus-Models.html
+https://www.nytimes.com/2020/04/03/theater/maries-crisis-facebook-live.html
+https://www.nytimes.com/interactive/2020/04/03/style/self-care/coronavirus-guided-meditation-nature.html
+https://www.nytimes.com/2020/04/03/world/asia/pakistan-daniel-pearl-arrests.html
+https://www.nytimes.com/2020/04/03/dining/csa-farm-food-delivery-coronavirus.html https://www.nytimes.com/2020/04/08/dining/takeout-restaurant-ethics-coronavirus.html
+https://www.nytimes.com/2020/04/03/opinion/letters/coronavirus-hazard-pay.html
+https://www.nytimes.com/2020/04/03/books/review/podcast-lisa-damour.html
+https://www.nytimes.com/2020/04/03/dining/mediterranean-menu-coronavirus.html
+https://www.nytimes.com/2020/04/03/movies/library-congress-streaming-free.html
+https://www.nytimes.com/2020/04/03/parenting/kids-independent-play-coronavirus-quarantine.html
+https://www.nytimes.com/2020/04/03/arts/television/world-on-fire-review.html https://www.nytimes.com/2020/04/07/arts/television/quibi-shows.html
+https://www.nytimes.com/2020/04/03/technology/zoom-harassment-abuse-racism-fbi-warning.html https://www.nytimes.com/2020/04/06/style/hollywood-agents-influencers.html https://www.nytimes.com/2020/04/07/style/zoom-security-tips.html
+https://www.nytimes.com/2020/04/03/sports/sumo-cycling-olympics.html https://www.nytimes.com/2020/04/06/sports/Nurmagomedov-Ferguson-UFC-virus.html https://www.nytimes.com/2020/04/07/sports/paris-curfew-outdoor-sports.html https://www.nytimes.com/2020/04/08/sports/coronavirus-track-and-field.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-deblasio-nyc.html
+https://www.nytimes.com/2020/04/03/business/private-equity-hedge-funds-coronavirus.html
+https://www.nytimes.com/2020/04/03/parenting/single-parents-coronavirus.html
+https://www.nytimes.com/2020/04/03/business/economy/coronavirus-fed-business-credit.html https://www.nytimes.com/2020/04/04/business/economy/apollo-federal-reserve-lending-talf.html https://www.nytimes.com/2020/04/06/business/economy/federal-reserve-small-business-loans.html
+https://www.nytimes.com/2020/04/03/world/asia/coronavirus-china-grief-deaths.html
+https://www.nytimes.com/2020/04/03/world/europe/coronavirus-Berlin-self-employed.html
+https://www.nytimes.com/2020/04/03/opinion/sunday/coronavirus-icu-nurse.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-jails-prisons.html
+https://www.nytimes.com/2020/04/03/opinion/sunday/undocumented-immigrant-father.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-crozier-roosevelt.html
+https://www.nytimes.com/2020/04/03/arts/design/leslie-lohman-museum-interim-director.html
+https://www.nytimes.com/2020/04/03/business/coronavirus-corona-beer.html https://www.nytimes.com/2020/04/04/arts/little-women-water-bottles.html https://www.nytimes.com/2020/04/07/us/winston-skip-morris-body-found-1969.html
+https://www.nytimes.com/2020/04/03/smarter-living/coronavirus-relationship-advice.html
+https://www.nytimes.com/2020/04/03/books/patricia-bosworth-dead-virus.html
+https://www.nytimes.com/2020/04/03/us/maeve-kennedy-granddaughter-missing.html https://www.nytimes.com/2020/04/04/us/detroit-bus-driver-coronavirus.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html
+https://www.nytimes.com/2020/04/03/parenting/self-quarantine-family-coronavirus-callout.html
+https://www.nytimes.com/2020/04/03/obituaries/nur-hussein-dead-coronavirus.html
+https://www.nytimes.com/2020/04/03/us/coronavirus-san-antonio-nursing-home.html
+https://www.nytimes.com/2020/04/03/style/dapper-dans-grandson-akil-loving-gucci.html https://www.nytimes.com/2020/04/07/arts/music/yves-tumor-heaven-to-a-tortured-mind.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-health-care-workers-layoffs.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-brett-crozier-theodore-roosevelt.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html
+https://www.nytimes.com/2020/04/03/magazine/how-a-bouncy-ball-changed-the-way-i-see-the-world.html
+https://www.nytimes.com/2020/04/03/smarter-living/talking-out-problems.html
+https://www.nytimes.com/2020/04/03/world/europe/russian-virus-doctor-detained.html
+https://www.nytimes.com/2020/04/03/style/how-to-remove-your-acrylics-or-gels-at-home.html
+https://www.nytimes.com/2020/04/03/us/trump-justin-walker-appeals-court.html https://www.nytimes.com/2020/04/05/us/politics/congress-campaigns-coronavirus.html
+https://www.nytimes.com/2020/04/03/dining/gallaghers-steakhouse-fdny-coronavirus.html https://www.nytimes.com/2020/04/08/dining/passover-coronavirus.html
+https://www.nytimes.com/2020/04/03/health/coronavirus-n95-kn95-masks.html https://www.nytimes.com/2020/04/08/science/nasa-logo-worm-spacex.html
+https://www.nytimes.com/2020/04/03/upshot/trump-hospitals-coronavirus.html
+https://www.nytimes.com/2020/04/03/us/politics/fbi-fisa-court-surveillance-applications.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/michael-atkinson-inspector-general-fired.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/03/health/coronavirus-bcg-vaccine.html https://www.nytimes.com/article/quarantine-coronavirus.html https://www.nytimes.com/2020/04/07/health/coronavirus-new-york-men.html
+https://www.nytimes.com/2020/04/03/climate/fema-staff-shortage-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html
+https://www.nytimes.com/2020/04/03/podcasts/sugar-calling-george-saunders-coronavirus.html
+https://www.nytimes.com/2020/04/03/us/coronavirus-states-without-stay-home.html https://www.nytimes.com/interactive/2020/04/08/us/coronavirus-rural-america-cases.html
+https://www.nytimes.com/2020/04/03/briefing/coronavirus-masks-bill-withers.html
+https://www.nytimes.com/2020/04/03/magazine/how-to-pass-time-in-a-pandemic.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-recovery-mark-frilot-heaven-frilot.html https://www.nytimes.com/2020/04/04/us/politics/greg-abbott-texas.html https://www.nytimes.com/2020/04/07/us/politics/trump-florida.html
+https://www.nytimes.com/2020/04/03/business/sba-loans-coronavirus.html https://www.nytimes.com/2020/04/06/business/economy/federal-reserve-small-business-loans.html https://www.nytimes.com/2020/04/06/business/coronavirus-wells-fargo-ppp.html https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/2020/04/03/arts/harriet-glickman-dead-peanuts.html https://www.nytimes.com/2020/04/06/arts/television/james-drury-dies.html https://www.nytimes.com/2020/04/07/arts/music/judy-drucker-dies.html
+https://www.nytimes.com/2020/04/03/opinion/toilet-paper-hoarding-bidets.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-congress-voting.html
+https://www.nytimes.com/2020/04/03/opinion/wisconsin-primary-coronavirus.html
+https://www.nytimes.com/2020/04/03/podcasts/daily-newsletter-fauci-coronavirus.html
+https://www.nytimes.com/2020/04/03/science/blue-dye-beets.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-Tennessee-southern-states.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-white-house-face-masks.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html
+https://www.nytimes.com/2020/04/03/us/coronavirus-today.html https://www.nytimes.com/2020/04/05/briefing/coronavirus-masks-larry-david.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-wisconsin-pandas.html https://www.nytimes.com/2020/04/08/travel/cruises-coronavirus-stimulus.html
+https://www.nytimes.com/interactive/2020/04/03/world/coronavirus-flatten-the-curve-countries.html
+https://www.nytimes.com/2020/04/03/nyregion/coronavirus-new-york-death-toll.html https://www.nytimes.com/2020/04/06/nyregion/mass-graves-nyc-parks-coronavirus.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-curve.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-future.html https://www.nytimes.com/2020/04/07/opinion/coronavirus-trump-solidarity.html
+https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-county-epidemics.html https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html
+https://www.nytimes.com/2020/04/03/us/politics/coronavirus-trump-medical-advisers.html https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/04/us/politics/trump-coronavirus-post-impeachment-purge.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/03/world/canada/Ontario-British-Columbia-Coronavirus-Models.html
+https://www.nytimes.com/2020/04/03/podcasts/the-daily/sugar-calling-cheryl-strayed-george-saunders-coronavirus.html
+https://www.nytimes.com/2020/04/03/opinion/coronavirus-pandemic.html
+https://www.nytimes.com/2020/04/03/us/politics/small-business-administration-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/video/t-magazine/100000007066012/make-t-something-mary-ping.html
+https://www.nytimes.com/2020/04/03/crosswords/daily-puzzle-2020-04-04.html https://www.nytimes.com/2020/04/04/crosswords/variety-puns-and-anagrams.html https://www.nytimes.com/2020/04/04/crosswords/daily-puzzle-2020-04-05.html
+https://www.nytimes.com/2020/04/03/sports/hockey/03rangers-racism-kandre-miller.html
+https://www.nytimes.com/2020/04/03/us/trump-inspector-general-intelligence-fired.html https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/michael-atkinson-inspector-general-fired.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/03/pageoneplus/corrections-april-4-2020.html
+https://www.nytimes.com/2020/04/03/us/politics/barr-coronavirus-prisons-release.html
+https://www.nytimes.com/2020/04/04/world/coronavirus-live-news-updates.html
+https://www.nytimes.com/2020/04/04/arts/television/whats-on-tv-saturday-good-boys-money-heist.html https://www.nytimes.com/2020/04/05/arts/television/whats-on-tv-sunday-world-on-fire-and-our-country.html https://www.nytimes.com/2020/04/07/arts/television/whats-on-tv-tuesday-schitts-creek-and-what-you-gonna-do.html
+https://www.nytimes.com/2020/04/04/sports/soccer/premier-league-soccer-wages.html
+https://www.nytimes.com/2020/04/04/sports/olympics/coronavirus-olympics-athletes-funding.html https://www.nytimes.com/2020/04/08/sports/running-statues-masks-virus.html
+https://www.nytimes.com/2020/04/04/world/europe/telemedicine-uk-coronavirus.html https://www.nytimes.com/2020/04/07/world/europe/who-is-dominic-raab.html https://www.nytimes.com/2020/04/08/world/europe/coronavirus-doctors-immigrants.html
+https://www.nytimes.com/2020/04/04/us/spanish-flu-oral-history.html
+https://www.nytimes.com/2020/04/04/fashion/weddings/quarantine-date-ideas-coronavirus.html
+https://www.nytimes.com/2020/04/04/books/c-pam-zhang-how-much-of-these-hills-is-gold.html
+https://www.nytimes.com/video/world/asia/100000006963057/modi-muslims-india-citizenship-test.html https://www.nytimes.com/2020/04/04/world/asia/india-modi-citizenship-muslims-assam.html
+https://www.nytimes.com/2020/04/04/nyregion/coronavirus-ny-unemployment-benefits.html
+https://www.nytimes.com/2020/04/04/us/politics/coronavirus-state-department.html
+https://www.nytimes.com/2020/04/04/us/politics/greg-abbott-texas.html https://www.nytimes.com/2020/04/07/us/politics/trump-florida.html
+https://www.nytimes.com/2020/04/04/world/asia/india-modi-citizenship-muslims-assam.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-spanish-flu-philadelphia-pennsylvania.html https://www.nytimes.com/2020/04/07/obituaries/albert-petrocelli-dead-coronavirus.html
+https://www.nytimes.com/2020/04/04/world/europe/italy-coronavirus-antibodies.html
+https://www.nytimes.com/2020/04/04/style/larry-david-curb-your-enthusiasm-coronavirus-psa.html https://www.nytimes.com/2020/04/04/opinion/sunday/coronavirus-trump-jared-kushner.html https://www.nytimes.com/2020/04/07/style/tom-ford-video-chat-tips.html
+https://www.nytimes.com/2020/04/04/us/politics/coronavirus-zoom-college-classes.html
+https://www.nytimes.com/2020/04/04/us/politics/the-growing-culture-of-secrecy-at-guantanamo-bay.html
+https://www.nytimes.com/2020/04/04/nyregion/nyc-closed-business-signs-virus.html
+https://www.nytimes.com/2020/04/04/business/coronavirus-rural-america-oregon.html
+https://www.nytimes.com/2020/04/04/world/europe/labour-party-keir-starmer.html https://www.nytimes.com/2020/04/05/world/europe/coronavirus-queen-elizabeth-speech.html https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html https://www.nytimes.com/2020/04/07/world/europe/coronavirus-united-kingdom.html https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/04/world/europe/germany-coronavirus-death-rate.html https://www.nytimes.com/2020/04/05/world/europe/germany-oberammergau-passion-play-coronavirus.html https://www.nytimes.com/2020/04/08/world/europe/coronavirus-lockdowns-restrictions.html
+https://www.nytimes.com/2020/04/04/well/move/the-rise-of-virtual-races.html
+https://www.nytimes.com/2020/04/04/parenting/coronavirus-kids-safe-online.html
+https://www.nytimes.com/2020/04/04/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/04/world/europe/knife-attack-france.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-china-travel-restrictions.html https://www.nytimes.com/2020/04/05/world/asia/coronavirus-china-students.html
+https://www.nytimes.com/2020/04/04/us/politics/black-girls-school-racism.html
+https://www.nytimes.com/2020/04/04/sports/tennis/tennis-sex-abuse-safesport.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-community-clinics-seattle.html
+https://www.nytimes.com/2020/04/04/us/edward-feightner-dead.html https://www.nytimes.com/2020/04/05/obituaries/tom-dempsey-dead.html https://www.nytimes.com/2020/04/05/sports/football/bobby-mitchell-dead.html https://www.nytimes.com/2020/04/06/sports/baseball/al-kaline-tigers-perennial-all-around-all-star-is-dead-at-85.html
+https://www.nytimes.com/2020/04/04/admin/31-slow-cooker-recipes-to-cook-all-day.html
+https://www.nytimes.com/2020/04/04/arts/music/bill-withers-songs.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/04/business/coronavirus-opec-russia-oil.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-cases-california-county.html https://www.nytimes.com/2020/04/07/us/coronavirus-blood-plasma-donation.html https://www.nytimes.com/2020/04/08/us/coronavirus-california-rep-katie-porter.html
+https://www.nytimes.com/2020/04/04/business/coronavirus-uber.html
+https://www.nytimes.com/2020/04/04/crosswords/variety-puns-and-anagrams.html https://www.nytimes.com/2020/04/04/crosswords/daily-puzzle-2020-04-05.html
+https://www.nytimes.com/2020/04/04/opinion/bill-withers-coronavirus.html
+https://www.nytimes.com/2020/04/04/opinion/coronavirus-octavia-butler-nina-simone.html
+https://www.nytimes.com/2020/04/04/opinion/coronavirus-ventilators.html
+https://www.nytimes.com/2020/04/04/opinion/coronavirus-new-york-hospitals-airlift.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/homeless-los-angeles.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-face-masks-politician.html https://www.nytimes.com/2020/04/04/us/coronavirus-texas-nursing-home.html
+https://www.nytimes.com/2020/04/04/us/politics/biden-sanders-vice-president-running-mate.html https://www.nytimes.com/2020/04/07/us/politics/joe-biden-john-lewis.html
+https://www.nytimes.com/2020/04/04/us/politics/congress-doctors-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/democrats-coronavirus-earnestine.html
+https://www.nytimes.com/2020/04/04/us/airline-travel-coronavirus.html https://www.nytimes.com/2020/04/08/world/asia/hong-kong-coronavirus-quarantine-wristband.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/op-art-recovery-in-isolation.html
+https://www.nytimes.com/2020/04/04/arts/music/bill-withers.html
+https://www.nytimes.com/2020/04/04/sports/basketball/kobe-bryant-basketball-hall-of-fame.html
+https://www.nytimes.com/2020/04/04/todayspaper/quotation-of-the-day-a-200-million-delay-means-lean-times-for-many-olympic-athletes.html
+https://www.nytimes.com/video/opinion/100000007066074/physician-assistants-hospitals-coronavirus.html https://www.nytimes.com/2020/04/04/opinion/physician-assistants-hospitals-coronavirus.html
+https://www.nytimes.com/2020/04/04/opinion/physician-assistants-hospitals-coronavirus.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-24-hours-america.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/coronavirus-trump-jared-kushner.html https://www.nytimes.com/2020/04/07/style/tom-ford-video-chat-tips.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/coronavirus-funerals-easter.html
+https://www.nytimes.com/2020/04/04/arts/suellen-rocca-dead.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/covid-whats-next.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/coronavirus-covid-19.html https://www.nytimes.com/2020/04/07/opinion/coronavirus-science-experts.html
+https://www.nytimes.com/2020/04/04/opinion/my-grandmothers-lost-cookie-recipe.html
+https://www.nytimes.com/2020/04/04/opinion/coronavirus-ebola-racism.html
+https://www.nytimes.com/2020/04/04/opinion/coronavirus-doctors-lawsuits-prosecution.html
+https://www.nytimes.com/2020/04/04/us/jeff-schoep-white-nationalist-reformer.html https://www.nytimes.com/2020/04/07/us/coronavirus-race.html
+https://www.nytimes.com/video/nyregion/100000007065082/coronavirus-brooklyn-hospital-icu-tour.html https://www.nytimes.com/2020/04/04/nyregion/coronavirus-hospital-brooklyn.html
+https://www.nytimes.com/2020/04/04/nyregion/coronavirus-hospital-brooklyn.html
+https://www.nytimes.com/2020/04/04/business/economy/apollo-federal-reserve-lending-talf.html https://www.nytimes.com/2020/04/05/us/politics/democrats-mnuchin-airline-bailout-coronavirus.html https://www.nytimes.com/2020/04/06/business/economy/federal-reserve-small-business-loans.html https://www.nytimes.com/2020/04/07/us/politics/trump-inspector-general-brian-miller-virus.html
+https://www.nytimes.com/2020/04/04/opinion/sunday/coronavirus-america.html
+https://www.nytimes.com/2020/04/04/books/review-broken-don-winslow.html
+https://www.nytimes.com/2020/04/04/us/politics/trump-coronavirus-post-impeachment-purge.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/04/arts/design/michael-mckinnell-dead-coronavirus.html
+https://www.nytimes.com/2020/04/04/crosswords/daily-puzzle-2020-04-05.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-texas-nursing-home.html
+https://www.nytimes.com/2020/04/04/us/detroit-bus-driver-coronavirus.html https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html
+https://www.nytimes.com/2020/04/04/arts/dance/wilhelm-burmann-dead.html
+https://www.nytimes.com/2020/04/04/arts/little-women-water-bottles.html https://www.nytimes.com/2020/04/07/us/winston-skip-morris-body-found-1969.html
+https://www.nytimes.com/2020/04/04/us/coronavirus-georgia-beaches.html https://www.nytimes.com/2020/04/05/us/coronavirus-aid-governors-pearl-harbor.html
+https://www.nytimes.com/2020/04/04/health/coronavirus-drug-trump-hydroxycholoroquine.html
+https://www.nytimes.com/2020/04/04/arts/television/louis-ck-special.html https://www.nytimes.com/2020/04/07/movies/eugene-mirman-brooklyn-comedy.html
+https://www.nytimes.com/2020/04/05/fashion/weddings/michelle-recto-kevin-kulshrestha.html
+https://www.nytimes.com/2020/04/05/fashion/weddings/larissa-garbade-jacob-yosafat.html
+https://www.nytimes.com/2020/04/05/fashion/weddings/daniel-bering-robert-strain.html
+https://www.nytimes.com/2020/04/05/fashion/weddings/jamie-fishkin-seth-faber.html
+https://www.nytimes.com/2020/04/05/world/asia/coronavirus-china-students.html
+https://www.nytimes.com/2020/04/05/world/europe/scientists-coronavirus-heroes.html https://www.nytimes.com/2020/04/08/world/europe/eu-coronavirus-aid.html
+https://www.nytimes.com/2020/04/05/world/coronavirus-live-news-updates.html
+https://www.nytimes.com/2020/04/05/pageoneplus/corrections-april-5-2020.html
+https://www.nytimes.com/2020/04/05/todayspaper/quotation-of-the-day-10-years-of-change-in-one-week-telemedicine-on-fast-track-in-britain.html
+https://www.nytimes.com/2020/04/05/arts/television/whats-on-tv-sunday-world-on-fire-and-our-country.html https://www.nytimes.com/2020/04/07/arts/television/whats-on-tv-tuesday-schitts-creek-and-what-you-gonna-do.html
+https://www.nytimes.com/2020/04/05/world/asia/china-human-rights-lawyer.html
+https://www.nytimes.com/2020/04/05/nyregion/metropolitan-diary.html
+https://www.nytimes.com/2020/04/05/sports/ncaa-eligibility-baseball.html
+https://www.nytimes.com/2020/04/05/books/afropessimism-frank-wilderson-interview.html
+https://www.nytimes.com/interactive/2020/04/05/world/europe/italy-coronavirus-lockdown-reopen.html
+https://www.nytimes.com/2020/04/05/books/review/afterlife-julia-alvarez.html
+https://www.nytimes.com/2020/04/05/magazine/first-coronavirus-patient-new-jersey.html
+https://www.nytimes.com/2020/04/05/style/coronavirus-honeymoon-stranded.html
+https://www.nytimes.com/2020/04/05/us/kate-bowler-cancer-coronavirus.html https://www.nytimes.com/2020/04/08/us/passover-seder-plagues-coronavirus.html
+https://www.nytimes.com/2020/04/05/nyregion/coronavirus-chinese-americans-supplies.html
+https://www.nytimes.com/2020/04/05/us/politics/coronavirus-scams-fraud-price-gouging.html
+https://www.nytimes.com/2020/04/05/technology/coronavirus-amazon-workers.html
+https://www.nytimes.com/2020/04/05/us/politics/congress-campaigns-coronavirus.html
+https://www.nytimes.com/2020/04/05/nyregion/coronavirus-new-jersey-hospitals.html
+https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html https://www.nytimes.com/2020/04/08/well/live/coronavirus-face-mask-mistakes.html
+https://www.nytimes.com/2020/04/05/world/europe/coronavirus-finland-masks.html
+https://www.nytimes.com/2020/04/05/briefing/coronavirus-masks-larry-david.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-wisconsin-pandas.html
+https://www.nytimes.com/2020/04/05/business/the-week-in-business-grim-numbers-get-even-worse.html
+https://www.nytimes.com/2020/04/05/podcasts/the-daily/sea-monkey-fortune.html
+https://www.nytimes.com/2020/04/05/realestate/homes-that-sold-for-around-1-million.html https://www.nytimes.com/2020/04/05/realestate/coronavirus-construction.html
+https://www.nytimes.com/2020/04/05/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/05/arts/music/coronavirus-sirens-music.html
+https://www.nytimes.com/2020/04/05/arts/music/popcast-sam-hunt-kenny-rogers.html
+https://www.nytimes.com/2020/04/05/us/politics/democrats-mnuchin-airline-bailout-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/trump-inspector-general-brian-miller-virus.html
+https://www.nytimes.com/2020/04/05/world/europe/victor-orban-coronavirus.html
+https://www.nytimes.com/2020/04/05/us/coronavirus-dilemmas-mourning.html
+https://www.nytimes.com/2020/04/05/dining/what-to-cook-this-week.html https://www.nytimes.com/2020/04/06/dining/we-are-all-doing-the-best-that-we-can.html https://www.nytimes.com/2020/04/08/dining/you-can-adapt-it-all.html
+https://www.nytimes.com/2020/04/05/obituaries/rafael-gomez-nieto-dead.html https://www.nytimes.com/2020/04/07/world/europe/spain-coronavirus.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-walk-outside.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-church-religion.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-google-searches.html
+https://www.nytimes.com/2020/04/05/magazine/navy-captain-crozier-positive-coronavirus.html https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/magazine/modly-crozier-coronavirus.html
+https://www.nytimes.com/2020/04/05/opinion/letters/coronavirus-climate.html
+https://www.nytimes.com/2020/04/05/opinion/letters/coronavirus-estate-planning.html
+https://www.nytimes.com/2020/04/05/us/coronavirus-deaths-undercount.html
+https://www.nytimes.com/2020/04/05/obituaries/mary-roman-dead.html
+https://www.nytimes.com/2020/04/05/world/europe/germany-oberammergau-passion-play-coronavirus.html https://www.nytimes.com/2020/04/08/world/europe/coronavirus-lockdowns-restrictions.html
+https://www.nytimes.com/2020/04/05/reader-center/coronavirus-sports-reporting.html
+https://www.nytimes.com/2020/04/05/world/europe/coronavirus-queen-elizabeth-speech.html https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html https://www.nytimes.com/2020/04/07/world/europe/coronavirus-united-kingdom.html https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/05/us/maine-shipwreck-colonial.html https://www.nytimes.com/2020/04/06/world/europe/bletchley-park-footage.html
+https://www.nytimes.com/2020/04/05/us/02IHW-virus-tampons-pads-periods-product-shortages.html https://www.nytimes.com/2020/04/07/us/female-doctor-coronavirus-frontline.html https://www.nytimes.com/2020/04/08/dining/passover-coronavirus.html
+https://www.nytimes.com/2020/04/05/arts/bible-museum-artifacts.html
+https://www.nytimes.com/2020/04/05/realestate/coronavirus-construction.html
+https://www.nytimes.com/2020/04/05/world/asia/nepal-himalayas-glacier-climate.html https://www.nytimes.com/2020/04/08/world/asia/india-pollution-coronavirus.html
+https://www.nytimes.com/2020/04/05/obituaries/cristina-dead.html https://www.nytimes.com/2020/04/07/arts/music/drake-toosie-slide-tiktok.html
+https://www.nytimes.com/2020/04/05/business/media/quibi-streaming-app-jeffrey-katzenberg-meg-whitman.html https://www.nytimes.com/2020/04/06/business/media/hollywood-reporter-matthew-belloni.html
+https://www.nytimes.com/2020/04/05/business/economy/coronavirus-economists.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-elmhurst-queens.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-testing-smart-home.html
+https://www.nytimes.com/2020/04/05/briefing/coronavirus-assam-tribunals-global-recession.html https://www.nytimes.com/2020/04/06/briefing/coronavirus-japan-state-of-emergency-iran.html https://www.nytimes.com/2020/04/07/briefing/wuhan-japan-emergency-boris-johnson.html
+https://www.nytimes.com/2020/04/05/us/politics/us-china-military-funding-virus.html
+https://www.nytimes.com/2020/04/05/learning/whats-going-on-in-this-picture-april-6-2020.html
+https://www.nytimes.com/2020/04/05/us/politics/coronavirus-democrats-republicans-trump.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-voting-coronavirus.html
+https://www.nytimes.com/2020/04/05/sports/autoracing/coronavirus-nascar-racing-earnhardt.html https://www.nytimes.com/2020/04/06/sports/ncaabasketball/sister-jean-ncaa-tournament-canceled.html
+https://www.nytimes.com/2020/04/05/us/politics/coronavirus-elections-democrats.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-voting-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-democratic-voters.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-election-coronavirus.html
+https://www.nytimes.com/2020/04/05/crosswords/daily-puzzle-2020-04-06.html https://www.nytimes.com/2020/04/06/crosswords/daily-puzzle-2020-04-07.html https://www.nytimes.com/2020/04/07/crosswords/heck-isao-aoki-golf-crosswords.html https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/2020/04/05/obituaries/tom-dempsey-dead.html https://www.nytimes.com/2020/04/05/sports/football/bobby-mitchell-dead.html https://www.nytimes.com/2020/04/06/sports/baseball/al-kaline-tigers-perennial-all-around-all-star-is-dead-at-85.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-china-us.html
+https://www.nytimes.com/2020/04/05/technology/coronavirus-facebook-masks.html https://www.nytimes.com/2020/04/07/technology/jack-dorsey-donate-1-billion-coronavirus.html
+https://www.nytimes.com/2020/04/05/opinion/trump-coronavirus.html
+https://www.nytimes.com/2020/04/05/opinion/nyc-coronavirus.html
+https://www.nytimes.com/2020/04/05/us/coronavirus-aid-governors-pearl-harbor.html
+https://www.nytimes.com/2020/04/05/us/politics/coronavirus-aircraft-carrier-roosevelt-crozier.html https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/magazine/modly-crozier-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html
+https://www.nytimes.com/2020/04/05/opinion/coronavirus-social-distancing.html
+https://www.nytimes.com/2020/04/05/business/media/brothers-cuomo-andrew-chris.html
+https://www.nytimes.com/2020/04/05/arts/television/westworld-episode-4-recap.html
+https://www.nytimes.com/2020/04/05/us/politics/trump-hydroxychloroquine-coronavirus.html https://www.nytimes.com/2020/04/06/health/coronavirus-testing-us.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/05/todayspaper/quotation-of-the-day-queen-invokes-british-resolve-as-premier-ails.html
+https://www.nytimes.com/2020/04/05/pageoneplus/corrections-april-6-2020.html
+https://www.nytimes.com/2020/04/05/sports/football/bobby-mitchell-dead.html https://www.nytimes.com/2020/04/06/sports/baseball/al-kaline-tigers-perennial-all-around-all-star-is-dead-at-85.html
+https://www.nytimes.com/2020/04/06/well/eat/high-fiber-foods-linked-to-lower-breast-cancer-risk.html
+https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html
+https://www.nytimes.com/2020/04/06/business/coronavirus-stock-market-live.html
+https://www.nytimes.com/2020/04/06/briefing/coronavirus-italy-nordic-preppers.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-climate-change.html https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/04/06/arts/television/whats-on-tv-monday-broken-places-and-pixote.html
+https://www.nytimes.com/2020/04/06/opinion/europe-coronavirus.html
+https://www.nytimes.com/2020/04/06/learning/word-quiz-bandy.html
+https://www.nytimes.com/2020/04/06/sports/ncaabasketball/coronavirus-sports-betting.html https://www.nytimes.com/2020/04/06/sports/soccer/qatar-and-russia-bribery-world-cup-fifa.html https://www.nytimes.com/2020/04/07/sports/ufc-249-coronavirus-location.html
+https://www.nytimes.com/2020/04/06/sports/ncaabasketball/sister-jean-ncaa-tournament-canceled.html
+https://www.nytimes.com/2020/04/06/business/european-banks-coronavirus.html
+https://www.nytimes.com/2020/04/06/world/europe/coronavirus-terrorism-threat-response.html
+https://www.nytimes.com/2020/04/06/us/politics/terrorist-label-white-supremacy-Russian-Imperial-Movement.html https://www.nytimes.com/2020/04/06/us/politics/michael-atkinson-inspector-general-fired.html https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/06/learning/kryptos-code-lesson.html https://www.nytimes.com/2020/04/07/learning/holidays-and-birthdays-are-moments-to-come-together-how-are-you-adapting-during-the-pandemic.html https://www.nytimes.com/2020/04/08/learning/lesson-of-the-day-college-made-them-feel-equal-the-virus-exposed-how-unequal-their-lives-are.html
+https://www.nytimes.com/video/opinion/100000007063646/health-care-workers-ppe-coronavirus.html https://www.nytimes.com/2020/04/06/opinion/health-care-workers-PPE-coronavirus.html
+https://www.nytimes.com/2020/04/06/books/review-death-in-mud-lick-opioid-crisis-west-virginia-eric-eyre.html
+https://www.nytimes.com/2020/04/06/upshot/coronavirus-four-benchmarks-reopening.html
+https://www.nytimes.com/2020/04/06/opinion/health-care-workers-PPE-coronavirus.html
+https://www.nytimes.com/2020/04/06/smarter-living/coronavirus-how-to-help-doctors-nurses.html
+https://www.nytimes.com/2020/04/06/parenting/breastfeeding-babies-coronavirus-mothers.html
+https://www.nytimes.com/2020/04/06/opinion/screen-time-kids-covid.html
+https://www.nytimes.com/2020/04/06/learning/coronavirus-schools-grading.html
+https://www.nytimes.com/2020/04/06/fashion/mens-fashion-work-from-home.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-nyc-house-cleaners.html
+https://www.nytimes.com/2020/04/06/opinion/trump-coronavirus-empathy.html https://www.nytimes.com/2020/04/08/opinion/coronavirus-trump-dr-oz.html
+https://www.nytimes.com/2020/04/06/us/politics/democrats-youtube-advertising.html https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-pandemic-primary-republicans.html
+https://www.nytimes.com/2020/04/06/opinion/atkinson-inspector-general-ukraine-fired.html
+https://www.nytimes.com/2020/04/06/opinion/las-vegas-coronavirus.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-testing.html
+https://www.nytimes.com/2020/04/06/realestate/shopping-for-small-desks.html https://www.nytimes.com/2020/04/06/realestate/virus-organize-pantry-tips.html https://www.nytimes.com/2020/04/07/realestate/atlanta-georgia-budget-renovation.html
+https://www.nytimes.com/2020/04/06/opinion/middleeast-coronavirus.html
+https://www.nytimes.com/2020/04/06/well/eat/Coronavirus-children-nutrition-eating-habits-home-cooking.html
+https://www.nytimes.com/2020/04/06/business/millennials-economic-crisis-virus.html https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html
+https://www.nytimes.com/2020/04/06/world/middleeast/coronavirus-autocrats.html
+https://www.nytimes.com/2020/04/06/business/arbitration-overload.html
+https://www.nytimes.com/2020/04/06/us/coronavirus-schools-attendance-absent.html
+https://www.nytimes.com/2020/04/06/travel/caribou-migration-arctic-alaska.html
+https://www.nytimes.com/2020/04/06/business/economy/coronavirus-economy.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-congress-small-businesses.html
+https://www.nytimes.com/2020/04/06/science/microfibers-plastics-ocean-biology.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-end-social-distancing.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-nyc.html
+https://www.nytimes.com/2020/04/06/briefing/coronavirus-boris-johnson-economy.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-wisconsin.html https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/interactive/2020/04/06/learning/Ecuador-Geography-Quiz.html https://www.nytimes.com/interactive/2020/04/07/learning/07News-Quiz-for-Students.html
+https://www.nytimes.com/2020/04/06/realestate/virus-organize-pantry-tips.html https://www.nytimes.com/2020/04/07/realestate/atlanta-georgia-budget-renovation.html
+https://www.nytimes.com/2020/04/06/podcasts/the-daily/coronavirus-unemployment-crisis.html
+https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/06/business/dealbook/jpmorgan-jamie-dimon-letter.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/06/style/self-care/coronavirus-living-alone.html
+https://www.nytimes.com/slideshow/2020/04/06/realestate/what-you-get-for-1-8-million-in-california.html
+https://www.nytimes.com/2020/04/06/realestate/1-8-million-homes-in-california.html
+https://www.nytimes.com/2020/04/06/us/coronavirus-california-mono-county.html
+https://www.nytimes.com/2020/04/06/nyregion/bronx-zoo-tiger-coronavirus.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-peak.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-stimulus-democrats.html https://www.nytimes.com/2020/04/08/opinion/trump-inspector-general-coronavirus.html
+https://www.nytimes.com/2020/04/06/well/family/coronavirus-passover-easter-quarantine-holidays.html
+https://www.nytimes.com/2020/04/06/arts/virus-wellness-self-care.html
+https://www.nytimes.com/2020/04/06/us/politics/michael-atkinson-inspector-general-fired.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/06/dining/we-are-all-doing-the-best-that-we-can.html https://www.nytimes.com/2020/04/08/dining/you-can-adapt-it-all.html
+https://www.nytimes.com/2020/04/06/world/coronavirus-domestic-violence.html
+https://www.nytimes.com/article/coronavirus-driving-restrictions.html
+https://www.nytimes.com/2020/04/06/sports/golf/masters-us-open-british-rescheduled.html
+https://www.nytimes.com/video/movies/100000007072967/never-rarely-sometimes-always-scene.html https://www.nytimes.com/2020/04/06/movies/never-rarely-sometimes-always-answers-clip.html https://www.nytimes.com/2020/04/08/movies/ai-humans-robots-technology.html
+https://www.nytimes.com/2020/04/06/movies/never-rarely-sometimes-always-answers-clip.html https://www.nytimes.com/2020/04/08/movies/ai-humans-robots-technology.html
+https://www.nytimes.com/2020/04/06/nyregion/mass-graves-nyc-parks-coronavirus.html https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-curve.html https://www.nytimes.com/2020/04/06/nyregion/cathedral-st-john-the-divine-coronavirus-field-hospital.html
+https://www.nytimes.com/2020/04/06/sports/Nurmagomedov-Ferguson-UFC-virus.html https://www.nytimes.com/2020/04/07/sports/paris-curfew-outdoor-sports.html https://www.nytimes.com/2020/04/08/sports/coronavirus-track-and-field.html
+https://www.nytimes.com/2020/04/06/us/supreme-court-traffic-stops-age-bias.html https://www.nytimes.com/2020/04/06/us/politics/supreme-court-voting-wisconsin-virus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-elections-supreme-court.html
+https://www.nytimes.com/2020/04/06/style/hollywood-agents-influencers.html https://www.nytimes.com/2020/04/07/style/zoom-security-tips.html
+https://www.nytimes.com/2020/04/06/magazine/modly-crozier-coronavirus.html https://www.nytimes.com/2020/04/08/magazine/hospital-ship-comfort-new-york-coronavirus.html
+https://www.nytimes.com/2020/04/06/technology/coronavirus-amazon-workers.html https://www.nytimes.com/2020/04/07/technology/passover-coronavirus.html
+https://www.nytimes.com/2020/04/06/movies/honor-blackman-dead.html
+https://www.nytimes.com/2020/04/06/crosswords/crosswords-coronavirus-bizzarri-essay.html
+https://www.nytimes.com/2020/04/06/style/diy-haggadah.html
+https://www.nytimes.com/video/health/100000007056651/covid-ards-acute-respiratory-distress-syndrome.html
+https://www.nytimes.com/2020/04/06/world/australia/jacinda-ardern-easter-bunny-essential-worker-tooth-fairy.html
+https://www.nytimes.com/2020/04/06/science/tiger-cats-coronavirus.html
+https://www.nytimes.com/2020/04/06/arts/music/weeknd-billboard.html https://www.nytimes.com/2020/04/06/arts/music/universal-music-fire-lawsuit.html
+https://www.nytimes.com/2020/04/06/dining/kosher-dairy-restaurant-book-ben-katchor.html
+https://www.nytimes.com/2020/04/06/theater/off-broadway-theater-season.html
+https://www.nytimes.com/2020/04/06/obituaries/leila-menchari-dead-coronavirus.html https://www.nytimes.com/2020/04/06/obituaries/sergio-rossi-dead-coronavirus.html https://www.nytimes.com/2020/04/08/fashion/fauci-birx-cuomo-style-influencers.html
+https://www.nytimes.com/2020/04/06/health/coronavirus-testing-us.html
+https://www.nytimes.com/2020/04/06/science/space/e-margaret-burbidge-dead.html
+https://www.nytimes.com/2020/04/06/opinion/letters/coronavirus-masks.html
+https://www.nytimes.com/2020/04/06/books/review/the-sword-and-the-shield-the-revolutionary-lives-of-malcolm-x-and-martin-luther-king-jr-by-peniel-e-joseph-an-excerpt.html
+https://www.nytimes.com/2020/04/06/dining/pasta-carbonara-coronavirus.html https://www.nytimes.com/2020/04/07/dining/garlicky-braised-greens-coronavirus.html
+https://www.nytimes.com/2020/04/06/opinion/covid-nyt-columnist-chat.html
+https://www.nytimes.com/2020/04/06/world/europe/bletchley-park-footage.html
+https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-election-postponed-coronavirus.html https://www.nytimes.com/2020/04/06/us/politics/on-politics-wisconsin-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-pandemic-primary-republicans.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-absentee-ballots.html
+https://www.nytimes.com/2020/04/06/opinion/letters/coronavirus-navy-captain-crozier.html
+https://www.nytimes.com/2020/04/06/obituaries/sergio-rossi-dead-coronavirus.html https://www.nytimes.com/2020/04/08/fashion/fauci-birx-cuomo-style-influencers.html
+https://www.nytimes.com/2020/04/06/opinion/Coronavirus-remote-work.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-hydroxychloroquine-lupus.html
+https://www.nytimes.com/2020/04/06/world/australia/great-barrier-reefs-bleaching-dying.html https://www.nytimes.com/2020/04/06/world/australia/cardinal-george-pell-conviction.html https://www.nytimes.com/2020/04/07/world/australia/cardinal-george-pell-acquittal.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-authors.html
+https://www.nytimes.com/2020/04/06/obituaries/marguerite-derrida-dead-coronavirus.html
+https://www.nytimes.com/2020/04/06/well/live/coronavirus-doctors-hospitals-emergency-care-heart-attack-stroke.html
+https://www.nytimes.com/2020/04/06/briefing/coronavirus-japan-state-of-emergency-iran.html https://www.nytimes.com/2020/04/07/briefing/wuhan-japan-emergency-boris-johnson.html
+https://www.nytimes.com/2020/04/06/business/economy/federal-reserve-small-business-loans.html https://www.nytimes.com/2020/04/06/business/coronavirus-wells-fargo-ppp.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-doctor-covid.html
+https://www.nytimes.com/2020/04/06/obituaries/john-g-davies-dead.html https://www.nytimes.com/2020/04/07/obituaries/anita-fial-dead-coronavirus.html
+https://www.nytimes.com/2020/04/06/magazine/d-nice-has-coronavirus-made-the-internet-better.html
+https://www.nytimes.com/2020/04/06/dining/carmines-pizza.html
+https://www.nytimes.com/2020/04/06/world/europe/boris-johnson-coronavirus-hospital-intensive-care.html https://www.nytimes.com/2020/04/07/world/europe/coronavirus-united-kingdom.html https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/06/books/review/american-poison-racial-hostility-eduardo-porter.html
+https://www.nytimes.com/2020/04/06/business/coronavirus-wells-fargo-ppp.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/article/quarantine-coronavirus.html https://www.nytimes.com/2020/04/07/health/coronavirus-new-york-men.html
+https://www.nytimes.com/2020/04/06/business/economy/peter-navarro-coronavirus-defense-production-act.html
+https://www.nytimes.com/2020/04/06/world/americas/nicaragua-daniel-ortega-coronavirus.html
+https://www.nytimes.com/2020/04/06/sports/baseball/al-kaline-tigers-perennial-all-around-all-star-is-dead-at-85.html
+https://www.nytimes.com/2020/04/06/us/politics/biden-trump-coronavirus-call.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-curve.html
+https://www.nytimes.com/2020/04/06/business/coronavirus-car-insurance.html
+https://www.nytimes.com/2020/04/06/health/coronavirus-children-us.html
+https://www.nytimes.com/2020/04/06/smarter-living/wirecutter/domestic-abusers-can-control-your-devices-heres-how-to-fight-back.html
+https://www.nytimes.com/2020/04/06/world/middleeast/UN-Syria-Russia-hospital-bombings.html
+https://www.nytimes.com/2020/04/06/books/review/afterlife-by-julia-alvarez-an-excerpt.html
+https://www.nytimes.com/2020/04/06/business/energy-environment/pge-bankruptcy-wildfire-victims.html https://www.nytimes.com/2020/04/07/business/energy-environment/coronavirus-oil-wind-solar-energy.html
+https://www.nytimes.com/2020/04/06/arts/television/schitts-creek-good-fight.html https://www.nytimes.com/2020/04/08/arts/television/the-leftovers.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-freelance-gig-workers.html
+https://www.nytimes.com/2020/04/06/arts/television/james-drury-dies.html https://www.nytimes.com/2020/04/07/arts/music/judy-drucker-dies.html
+https://www.nytimes.com/2020/04/06/opinion/coronavirus-economy.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-medical-students-early-oath.html
+https://www.nytimes.com/2020/04/06/obituaries/vincent-lionti-dead-coronavirus.html https://www.nytimes.com/2020/04/07/obituaries/david-driskell-dead.html
+https://www.nytimes.com/2020/04/06/technology/airbnb-coronavirus-valuation.html
+https://www.nytimes.com/video/us/politics/100000007074126/navy-secretary-coronavirus.html
+https://www.nytimes.com/2020/04/06/us/politics/coronavirus-navy-secretary-roosevelt-crozier.html https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html
+https://www.nytimes.com/2020/04/06/arts/music/universal-music-fire-lawsuit.html
+https://www.nytimes.com/2020/04/06/sports/soccer/qatar-and-russia-bribery-world-cup-fifa.html https://www.nytimes.com/2020/04/07/sports/ufc-249-coronavirus-location.html https://www.nytimes.com/2020/04/08/sports/germany-soccer-coronavirus.html
+https://www.nytimes.com/2020/04/06/sports/trump-sports-return-coronavirus.html https://www.nytimes.com/2020/04/08/sports/basketball/nba-champion-lebron-giannis-lakers.html
+https://www.nytimes.com/2020/04/06/briefing/boris-johnson-coronavirus-wisconsin-primary.html https://www.nytimes.com/2020/04/07/briefing/coronavirus-wisconsin-pandas.html
+https://www.nytimes.com/2020/04/06/nyregion/cathedral-st-john-the-divine-coronavirus-field-hospital.html
+https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html
+https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-peak.html
+https://www.nytimes.com/2020/04/06/us/coronavirus-today.html https://www.nytimes.com/2020/04/07/us/coronavirus-today.html
+https://www.nytimes.com/2020/04/06/dining/save-restaurants.html https://www.nytimes.com/2020/04/06/dining/sirk-vinegar.html https://www.nytimes.com/2020/04/06/dining/rack-of-lamb.html https://www.nytimes.com/2020/04/06/dining/hard-times-cocktail-coronavirus.html https://www.nytimes.com/2020/04/06/dining/a-dozen-cousins-beans.html https://www.nytimes.com/2020/04/06/dining/chocolate-easter-bunny-covid.html https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/06/dining/sirk-vinegar.html https://www.nytimes.com/2020/04/06/dining/rack-of-lamb.html https://www.nytimes.com/2020/04/06/dining/hard-times-cocktail-coronavirus.html https://www.nytimes.com/2020/04/06/dining/a-dozen-cousins-beans.html https://www.nytimes.com/2020/04/06/dining/chocolate-easter-bunny-covid.html https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/06/us/politics/bernie-sanders-wisconsin.html https://www.nytimes.com/2020/04/08/us/politics/bernie-sanders-drops-out.html
+https://www.nytimes.com/2020/04/06/dining/rack-of-lamb.html https://www.nytimes.com/2020/04/06/dining/hard-times-cocktail-coronavirus.html https://www.nytimes.com/2020/04/06/dining/a-dozen-cousins-beans.html https://www.nytimes.com/2020/04/06/dining/chocolate-easter-bunny-covid.html https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/06/dining/hard-times-cocktail-coronavirus.html https://www.nytimes.com/2020/04/06/dining/a-dozen-cousins-beans.html https://www.nytimes.com/2020/04/06/dining/chocolate-easter-bunny-covid.html https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/06/business/media/hollywood-reporter-matthew-belloni.html
+https://www.nytimes.com/2020/04/06/dining/a-dozen-cousins-beans.html https://www.nytimes.com/2020/04/06/dining/chocolate-easter-bunny-covid.html https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/06/dining/chocolate-easter-bunny-covid.html https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/06/pageoneplus/corrections-april-7-2020.html
+https://www.nytimes.com/2020/04/06/us/politics/on-politics-wisconsin-coronavirus.html
+https://www.nytimes.com/2020/04/06/todayspaper/quotation-of-the-day-fired-for-alerting-congress-of-whistle-blower-he-urges-others-to-bravely-speak-up.html
+https://www.nytimes.com/2020/04/06/us/politics/wisconsin-primary-voting-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-democratic-voters.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-election-coronavirus.html
+https://www.nytimes.com/2020/04/06/world/australia/cardinal-george-pell-conviction.html https://www.nytimes.com/2020/04/07/world/australia/cardinal-george-pell-acquittal.html
+https://www.nytimes.com/2020/04/06/opinion/abortion-covid.html
+https://www.nytimes.com/2020/04/06/us/politics/supreme-court-voting-wisconsin-virus.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-elections-supreme-court.html
+https://www.nytimes.com/2020/04/06/us/kennedy-granddaughter-bodies-recovered.html https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/06/world/africa/Hissene-Habre-chad-senegal.html
+https://www.nytimes.com/article/passover-recipes.html https://www.nytimes.com/article/easter-recipes.html
+https://www.nytimes.com/2020/04/06/sports/baseball/kbo-baseball-coronavirus.html
+https://www.nytimes.com/article/easter-recipes.html
+https://www.nytimes.com/2020/04/06/crosswords/daily-puzzle-2020-04-07.html https://www.nytimes.com/2020/04/07/crosswords/heck-isao-aoki-golf-crosswords.html https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/2020/04/06/us/politics/navarro-warning-trump-coronavirus.html https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/06/us/space-crime-allegation-indictment.html https://www.nytimes.com/2020/04/07/us/coronavirus-idaho-bundy-patriot.html
+https://www.nytimes.com/2020/04/06/arts/television/better-call-saul-recap-episode-8.html https://www.nytimes.com/article/coronavirus-video-game-streaming.html
+https://www.nytimes.com/interactive/2020/04/06/us/coronavirus-deaths-united-states.html
+https://www.nytimes.com/2020/04/07/world/coronavirus-updates-news-live.html
+https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-climate-change.html https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/04/07/business/stock-market-today-coronavirus.html
+https://www.nytimes.com/2020/04/07/arts/television/whats-on-tv-tuesday-schitts-creek-and-what-you-gonna-do.html
+https://www.nytimes.com/2020/04/07/opinion/putin-russia-coronavirus.html
+https://www.nytimes.com/2020/04/07/opinion/italy-coronavirus-naples.html
+https://www.nytimes.com/2020/04/07/learning/word-quiz-chthonic.html
+https://www.nytimes.com/2020/04/07/arts/television/late-night-trump-mask-coronavirus.html https://www.nytimes.com/2020/04/08/arts/television/late-night-wisconsin-voting-coronavirus.html
+https://www.nytimes.com/2020/04/07/science/pulsar-xkcd-munroe-stars.html
+https://www.nytimes.com/2020/04/07/science/superfund-plant-microbiome.html
+https://www.nytimes.com/2020/04/07/science/dark-matter-elena-aprile-coronavirus.html https://www.nytimes.com/2020/04/07/science/black-hole-jet-picture.html
+https://www.nytimes.com/2020/04/07/learning/pandemic-projects.html
+https://www.nytimes.com/2020/04/07/sports/tennis/platform-tennis-coronavirus.html
+https://www.nytimes.com/2020/04/07/world/americas/guyana-oil.html
+https://www.nytimes.com/2020/04/07/business/coronavirus-cruise-industry-carnival.html
+https://www.nytimes.com/2020/04/07/learning/lesson-of-the-day-when-humans-are-sheltered-in-place-wild-animals-will-play.html
+https://www.nytimes.com/2020/04/07/books/annie-ernaux-a-girls-story.html
+https://www.nytimes.com/2020/04/07/magazine/how-to-make-hand-sanitizer-in-bulk-coronavirus-hospitals.html
+https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html
+https://www.nytimes.com/2020/04/07/learning/holidays-and-birthdays-are-moments-to-come-together-how-are-you-adapting-during-the-pandemic.html https://www.nytimes.com/2020/04/08/learning/lesson-of-the-day-college-made-them-feel-equal-the-virus-exposed-how-unequal-their-lives-are.html
+https://www.nytimes.com/2020/04/07/books/review/the-ancestor-danielle-trussoni.html
+https://www.nytimes.com/2020/04/07/books/review/nicolas-mathieu-their-children-after-them.html
+https://www.nytimes.com/2020/04/07/books/review/redhead-by-the-side-of-the-road-anne-tyler.html
+https://www.nytimes.com/2020/04/07/books/review/breasts-and-eggs-mieko-kawakami.html
+https://www.nytimes.com/2020/04/07/books/review/coffeeland-augustine-sedgewick.html
+https://www.nytimes.com/2020/04/07/books/review/how-much-of-these-hills-is-gold-c-pam-zhang.html
+https://www.nytimes.com/2020/04/07/books/review/europe-against-the-jews-gotz-aly.html
+https://www.nytimes.com/2020/04/07/books/review/sallie-bingham-doris-duke.html
+https://www.nytimes.com/2020/04/07/style/publicists-marketing-coronavirus.html
+https://www.nytimes.com/2020/04/07/nyregion/dying-alone-coronavirus.html
+https://www.nytimes.com/2020/04/07/books/review/square-haunting-francesca-wade.html
+https://www.nytimes.com/2020/04/07/magazine/if-my-classmates-are-going-to-cheat-on-an-online-exam-why-cant-i.html
+https://www.nytimes.com/2020/04/07/books/review/ordinary-insanity-fear-motherhood-sarah-menkedick.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-child-abuse.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-united-states-leadership.html
+https://www.nytimes.com/2020/04/07/us/memorable-true-crime-stories.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-science-experts.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-trump-solidarity.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-mental-health.html
+https://www.nytimes.com/2020/04/07/dining/corned-ham.html
+https://www.nytimes.com/2020/04/07/travel/coronavirus-fake-travel.html
+https://www.nytimes.com/2020/04/07/us/coronavirus-race.html
+https://www.nytimes.com/2020/04/07/arts/museum-security-coronavirus.html
+https://www.nytimes.com/2020/04/07/arts/animal-crossing-covid-coronavirus-popularity-millennials.html
+https://www.nytimes.com/2020/04/07/us/coronavirus-idaho-bundy-patriot.html
+https://www.nytimes.com/2020/04/07/us/politics/trump-florida.html
+https://www.nytimes.com/2020/04/07/business/energy-environment/coronavirus-oil-wind-solar-energy.html
+https://www.nytimes.com/2020/04/07/books/coronavirus-kid-books-to-read.html
+https://www.nytimes.com/2020/04/07/world/europe/spain-coronavirus.html
+https://www.nytimes.com/slideshow/2020/04/07/realestate/creating-an-oasis-in-atlanta.html
+https://www.nytimes.com/2020/04/07/realestate/atlanta-georgia-budget-renovation.html
+https://www.nytimes.com/2020/04/07/books/review/redhead-by-the-side-of-the-road-by-anne-tyler-an-excerpt.html
+https://www.nytimes.com/2020/04/07/opinion/biden-campaign-covid.html
+https://www.nytimes.com/2020/04/07/world/australia/cyclone-harold-vanuatu.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-smart-quarantine.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-isolation-radicalization.html
+https://www.nytimes.com/2020/04/07/us/winston-skip-morris-body-found-1969.html
+https://www.nytimes.com/2020/04/07/briefing/coronavirus-boris-johnson-wisconsin.html https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/2020/04/07/us/politics/joe-biden-john-lewis.html
+https://www.nytimes.com/2020/04/07/nyregion/coronavirus-nyc.html
+https://www.nytimes.com/2020/04/07/podcasts/the-daily/coronavirus-voting-wisconsin-primary.html
+https://www.nytimes.com/2020/04/07/realestate/home-farming-tips-coronavirus.html
+https://www.nytimes.com/2020/04/07/world/asia/panda-mating-hong-kong.html
+https://www.nytimes.com/2020/04/07/business/dealbook/coronavirus-peak-economy.html
+https://www.nytimes.com/2020/04/07/sports/virtual-running-races-coronavirus.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/07/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/07/books/review/new-this-week.html
+https://www.nytimes.com/2020/04/07/climate/air-pollution-coronavirus-covid.html https://www.nytimes.com/2020/04/08/climate/coronavirus-pollution-race.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-primary-election.html
+https://www.nytimes.com/2020/04/07/world/europe/coronavirus-united-kingdom.html https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/07/world/europe/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/07/business/new-york-commercial-real-estate.html
+https://www.nytimes.com/2020/04/07/business/workplace-telecommuting-coronavirus.html
+https://www.nytimes.com/2020/04/07/technology/tiny-digital-businesses-play-key-role-in-local-economies-study-says.html https://www.nytimes.com/2020/04/08/technology/ai-transcription-human-services.html
+https://www.nytimes.com/2020/04/07/world/asia/japan-coronavirus-emergency.html
+https://www.nytimes.com/2020/04/07/us/coronavirus-blood-plasma-donation.html https://www.nytimes.com/2020/04/08/us/coronavirus-california-rep-katie-porter.html
+https://www.nytimes.com/2020/04/07/world/australia/cardinal-george-pell-acquittal.html
+https://www.nytimes.com/interactive/2020/04/07/learning/07News-Quiz-for-Students.html
+https://www.nytimes.com/2020/04/07/science/coronavirus-uncertainty-scientific-trust.html
+https://www.nytimes.com/2020/04/07/well/how-to-celebrate-a-birthday-during-the-coronavirus-shutdown.html
+https://www.nytimes.com/2020/04/07/science/comet-borisov-break-up.html
+https://www.nytimes.com/2020/04/07/theater/addams-family-musical-history.html
+https://www.nytimes.com/2020/04/07/us/politics/coronavirus-navy-captain-firing.html
+https://www.nytimes.com/2020/04/07/style/internet-archive-library-congress.html
+https://www.nytimes.com/2020/04/07/theater/obie-awards-coronavirus.html https://www.nytimes.com/2020/04/07/theater/coronavirus-williamstown-audible.html https://www.nytimes.com/2020/04/08/theater/broadway-shows-canceled-june-coronavirus.html
+https://www.nytimes.com/2020/04/07/nyregion/usns-comfort-crew-coronavirus.html
+https://www.nytimes.com/2020/04/07/dining/easter-delivery-coronavirus.html https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/07/arts/music/dua-lipa-future-nostalgia-coronavirus.html
+https://www.nytimes.com/article/coronavirus-video-game-streaming.html
+https://www.nytimes.com/2020/04/07/us/politics/kayleigh-mcenany-stephanie-grisham-trump.html
+https://www.nytimes.com/2020/04/07/style/zoom-security-tips.html
+https://www.nytimes.com/2020/04/07/dining/japanese-food-delivery-coronavirus.html
+https://www.nytimes.com/2020/04/07/books/review/how-much-of-these-hills-is-gold-by-c-pam-zhang-an-excerpt.html
+https://www.nytimes.com/2020/04/07/dining/seasonal-restaurants-coronavirus.html
+https://www.nytimes.com/2020/04/07/sports/formula-one-bauer-coronavirus-ppe.html
+https://www.nytimes.com/2020/04/07/arts/dance/trisha-brown-roof-piece.html
+https://www.nytimes.com/2020/04/07/science/black-hole-jet-picture.html
+https://www.nytimes.com/2020/04/07/obituaries/albert-petrocelli-dead-coronavirus.html
+https://www.nytimes.com/2020/04/07/arts/music/drake-toosie-slide-tiktok.html
+https://www.nytimes.com/2020/04/07/crosswords/heck-isao-aoki-golf-crosswords.html https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/2020/04/07/world/europe/who-is-dominic-raab.html https://www.nytimes.com/2020/04/08/world/europe/coronavirus-doctors-immigrants.html
+https://www.nytimes.com/2020/04/07/world/asia/wuhan-coronavirus.html https://www.nytimes.com/2020/04/08/world/asia/coronavirus-china-narrative.html
+https://www.nytimes.com/2020/04/07/world/middleeast/coronavirus-passover-israel.html
+https://www.nytimes.com/2020/04/07/arts/dance/stream-dance-online-virus.html
+https://www.nytimes.com/2020/04/07/world/asia/afghan-prisoner-talks-collapse.html
+https://www.nytimes.com/2020/04/07/style/tom-ford-video-chat-tips.html
+https://www.nytimes.com/2020/04/07/sports/paris-curfew-outdoor-sports.html https://www.nytimes.com/2020/04/08/sports/coronavirus-track-and-field.html
+https://www.nytimes.com/interactive/2020/04/07/burst/manage-stress-coronavirus.html
+https://www.nytimes.com/2020/04/07/parenting/break-up-kids-fight.html
+https://www.nytimes.com/2020/04/07/dining/garlicky-braised-greens-coronavirus.html
+https://www.nytimes.com/2020/04/07/world/canada/quebec-montreal-hip-hop-rapping-franglais.html
+https://www.nytimes.com/2020/04/07/technology/passover-coronavirus.html
+https://www.nytimes.com/2020/04/07/opinion/boris-johnson-coronavirus.html
+https://www.nytimes.com/2020/04/07/us/politics/trump-coronavirus-watchdog-glenn-fine.html
+https://www.nytimes.com/2020/04/07/nyregion/coronavirus-four-seasons-hotel-new-york.html
+https://www.nytimes.com/2020/04/07/learning/special-april-challenge-what-got-your-attention-in-the-times-this-month.html https://www.nytimes.com/2020/04/07/learning/21-things-teenagers-can-do-with-a-new-york-times-subscription.html
+https://www.nytimes.com/2020/04/07/learning/21-things-teenagers-can-do-with-a-new-york-times-subscription.html
+https://www.nytimes.com/2020/04/07/world/asia/china-tycoon-coronavirus.html https://www.nytimes.com/2020/04/08/world/asia/trump-who-coronavirus-china.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-democratic-voters.html https://www.nytimes.com/2020/04/07/us/politics/wisconsin-election-coronavirus.html
+https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-pandemic-primary-republicans.html
+https://www.nytimes.com/2020/04/07/world/americas/ecuador-correa-corruption-verdict.html
+https://www.nytimes.com/2020/04/07/arts/kennedy-center-national-symphony-orchestra-coronavirus.html
+https://www.nytimes.com/2020/04/07/video/coronavirus-essential-workers-stories.html
+https://www.nytimes.com/2020/04/07/well/family/virus-children-songs-WWII-safety.html
+https://www.nytimes.com/2020/04/07/opinion/letters/coronavirus-wisconsin-vote.html
+https://www.nytimes.com/2020/04/07/opinion/letters/coronavirus-trump-drug.html
+https://www.nytimes.com/2020/04/07/business/coronavirus-processed-foods.html
+https://www.nytimes.com/2020/04/07/briefing/wuhan-japan-emergency-boris-johnson.html
+https://www.nytimes.com/2020/04/07/science/robert-barth-dead.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-quarantine-prison.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-neighbors-lockdown.html
+https://www.nytimes.com/2020/04/07/style/tiny-modern-love-stories-coronavirus-the-dumbest-fight.html
+https://www.nytimes.com/2020/04/07/arts/design/zoya-cherkassky-coronavirus.html https://www.nytimes.com/2020/04/08/arts/design/rube-goldberg-bar-of-soap-challenge.html
+https://www.nytimes.com/2020/04/07/world/europe/turkey-virus-erdogan-masks.html
+https://www.nytimes.com/2020/04/07/theater/coronavirus-williamstown-audible.html https://www.nytimes.com/2020/04/08/theater/broadway-shows-canceled-june-coronavirus.html
+https://www.nytimes.com/2020/04/07/style/quinn-quarantine-fox-us-consumer-product-safety-commission-coronavirus.html
+https://www.nytimes.com/2020/04/07/opinion/letters/coronavirus-supplies-kushner.html
+https://www.nytimes.com/2020/04/07/movies/eugene-mirman-brooklyn-comedy.html
+https://www.nytimes.com/2020/04/07/arts/podcast-playlist-fiction-virus.html
+https://www.nytimes.com/2020/04/07/arts/music/new-york-philharmonic-misconduct.html
+https://www.nytimes.com/2020/04/07/arts/national-endowment-for-the-humanities-grants.html
+https://www.nytimes.com/2020/04/07/books/casey-schwartz-attention-love-story.html
+https://www.nytimes.com/2020/04/07/arts/national-poetry-month-coronavirus.html
+https://www.nytimes.com/2020/04/07/us/politics/trump-inspector-general-brian-miller-virus.html
+https://www.nytimes.com/2020/04/07/obituaries/sandra-santos-vizcaino-dead-coronavirus.html
+https://www.nytimes.com/2020/04/07/business/coronavirus-ppp-small-business-aid.html
+https://www.nytimes.com/video/world/asia/100000007076068/wuhan-china-coronavirus.html
+https://www.nytimes.com/2020/04/07/arts/music/yves-tumor-heaven-to-a-tortured-mind.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-elections-supreme-court.html
+https://www.nytimes.com/2020/04/07/arts/music/judy-drucker-dies.html
+https://www.nytimes.com/interactive/2020/04/07/us/elections/results-wisconsin-president-democrat-primary-election.html
+https://www.nytimes.com/2020/04/07/nyregion/jamaica-hospital-queens-maria-correa-coronavirus.html
+https://www.nytimes.com/2020/04/07/obituaries/anita-fial-dead-coronavirus.html
+https://www.nytimes.com/2020/04/07/arts/idelle-weber-dead.html
+https://www.nytimes.com/2020/04/07/smarter-living/how-to-edit-your-own-writing.html
+https://www.nytimes.com/2020/04/07/arts/television/quibi-shows.html
+https://www.nytimes.com/2020/04/07/obituaries/david-driskell-dead.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-treatment.html
+https://www.nytimes.com/2020/04/07/opinion/digital-privacy-coronavirus.html
+https://www.nytimes.com/2020/04/07/t-magazine/coronavirus-restaurants-stores-nyc.html
+https://www.nytimes.com/2020/04/07/health/coronavirus-food-allergies.html
+https://www.nytimes.com/2020/04/07/briefing/coronavirus-wisconsin-pandas.html
+https://www.nytimes.com/2020/04/07/technology/jack-dorsey-donate-1-billion-coronavirus.html
+https://www.nytimes.com/2020/04/07/us/female-doctor-coronavirus-frontline.html https://www.nytimes.com/2020/04/08/dining/passover-coronavirus.html
+https://www.nytimes.com/2020/04/07/us/politics/coronavirus-congress-small-businesses.html
+https://www.nytimes.com/2020/04/07/us/coronavirus-child-custody.html
+https://www.nytimes.com/2020/04/07/health/coronavirus-new-york-men.html
+https://www.nytimes.com/2020/04/07/us/coronavirus-citadel-securities-four-seasons-florida.html
+https://www.nytimes.com/2020/04/07/opinion/trump-coronavirus-us.html
+https://www.nytimes.com/2020/04/07/us/ira-einhorn-dead.html
+https://www.nytimes.com/2020/04/07/opinion/trump-coronavirus-press-conference.html
+https://www.nytimes.com/2020/04/07/opinion/passover.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-absentee-ballots.html
+https://www.nytimes.com/2020/04/07/us/politics/2020-vs-2016-election.html
+https://www.nytimes.com/2020/04/07/us/politics/wisconsin-election-coronavirus.html https://www.nytimes.com/2020/04/08/us/politics/joe-biden-donald-trump-2020-election.html
+https://www.nytimes.com/2020/04/07/us/tennessee-truck-stop-stabbing.html
+https://www.nytimes.com/video/us/politics/100000007075113/wisconsin-2020-primary-coronavirus.html
+https://www.nytimes.com/2020/04/07/opinion/coronavirus-blacks.html
+https://www.nytimes.com/2020/04/07/us/coronavirus-today.html
+https://www.nytimes.com/2020/04/07/sports/ufc-249-coronavirus-location.html
+https://www.nytimes.com/2020/04/07/us/politics/coronavirus-trump-who.html
+https://www.nytimes.com/2020/04/07/arts/music/john-prine-dead-coronavirus.html
+https://www.nytimes.com/2020/04/07/crosswords/daily-puzzle-2020-04-08.html
+https://www.nytimes.com/interactive/2020/04/07/magazine/italy-hospitals-covid.html
+https://www.nytimes.com/2020/04/07/todayspaper/quotation-of-the-day-bringing-both-mother-tongues-to-the-mic.html
+https://www.nytimes.com/2020/04/07/pageoneplus/corrections-april-8-2020.html
+https://www.nytimes.com/2020/04/08/world/asia/hong-kong-coronavirus-quarantine-wristband.html
+https://www.nytimes.com/2020/04/08/world/coronavirus-live-news-updates.html
+https://www.nytimes.com/2020/04/08/briefing/coronavirus-boris-johnson-wuhan.html
+https://www.nytimes.com/2020/04/08/business/live-stock-market-coronavirus.html
+https://www.nytimes.com/2020/04/08/arts/television/whats-on-tv-wednesday-parasite-and-modern-family.html
+https://www.nytimes.com/interactive/2020/04/08/us/coronavirus-rural-america-cases.html
+https://www.nytimes.com/2020/04/08/learning/word-quiz-bonanza.html
+https://www.nytimes.com/2020/04/08/arts/television/late-night-wisconsin-voting-coronavirus.html
+https://www.nytimes.com/2020/04/08/learning/stuck-in-paradise.html
+https://www.nytimes.com/2020/04/08/nyregion/new-york-coronavirus-response-delays.html
+https://www.nytimes.com/2020/04/08/world/asia/india-pollution-coronavirus.html
+https://www.nytimes.com/2020/04/08/business/coronavirus-jigsaw-puzzles.html
+https://www.nytimes.com/2020/04/08/learning/lesson-of-the-day-college-made-them-feel-equal-the-virus-exposed-how-unequal-their-lives-are.html
+https://www.nytimes.com/2020/04/08/world/asia/coronavirus-china-narrative.html
+https://www.nytimes.com/2020/04/08/world/europe/eu-coronavirus-aid.html
+https://www.nytimes.com/video/us/100000007059873/coronavirus-rikers-island.html
+https://www.nytimes.com/video/opinion/100000007063653/dogfish-head-hand-sanitizer-coronavirus.html https://www.nytimes.com/2020/04/08/opinion/dogfish-head-hand-sanitizer-coronavirus.html
+https://www.nytimes.com/2020/04/08/us/coronavirus-live-updates.html
+https://www.nytimes.com/2020/04/08/books/review-notes-from-apocalypse-mark-oconnell.html
+https://www.nytimes.com/2020/04/08/opinion/dogfish-head-hand-sanitizer-coronavirus.html
+https://www.nytimes.com/2020/04/08/well/move/coronavirus-exercise-depression-anxiety-mood.html
+https://www.nytimes.com/2020/04/08/opinion/coronavirus-new-orleans-mardi-gras.html
+https://www.nytimes.com/2020/04/08/travel/hotels-coronavirus-health-care-workers.html
+https://www.nytimes.com/2020/04/08/opinion/coronavirus-slums.html
+https://www.nytimes.com/2020/04/08/technology/ai-transcription-human-services.html
+https://www.nytimes.com/2020/04/08/nyregion/coronavirus-rockland-monsey-jews.html
+https://www.nytimes.com/2020/04/08/reader-center/coronavirus-service-journalism.html
+https://www.nytimes.com/2020/04/08/nyregion/coronavirus-nyc-mta-subway.html
+https://www.nytimes.com/2020/04/08/opinion/coronavirus-drug-company-profits.html
+https://www.nytimes.com/2020/04/08/opinion/covid-trump-presidency.html
+https://www.nytimes.com/2020/04/08/opinion/coronavirus-california-washington-.html
+https://www.nytimes.com/2020/04/08/education/college-ai-chatbots-students.html
+https://www.nytimes.com/2020/04/08/arts/design/ai-artists-exhibitions.html
+https://www.nytimes.com/2020/04/08/opinion/bernie-sanders-democratic-party.html
+https://www.nytimes.com/2020/04/08/opinion/nikki-haley-governor-coronavirus-trump.html
+https://www.nytimes.com/2020/04/08/technology/ai-creative-software-language.html
+https://www.nytimes.com/2020/04/08/technology/ai-pets-apps.html
+https://www.nytimes.com/2020/04/08/science/denim-pattern-matching-forensic-crime.html
+https://www.nytimes.com/2020/04/08/world/europe/coronavirus-conspiracy-theories.html
+https://www.nytimes.com/2020/04/08/science/monarch-butterflies-captive.html
+https://www.nytimes.com/2020/04/08/dining/passover-coronavirus.html
+https://www.nytimes.com/2020/04/08/dining/takeout-restaurant-ethics-coronavirus.html
+https://www.nytimes.com/2020/04/08/arts/plague-inc-video-game-gaming-coronavirus-covid-pandemic.html
+https://www.nytimes.com/2020/04/08/dining/ai-food-sorting-machines.html
+https://www.nytimes.com/2020/04/08/movies/ai-humans-robots-technology.html
+https://www.nytimes.com/2020/04/08/science/nasa-logo-worm-spacex.html
+https://www.nytimes.com/2020/04/08/magazine/hospital-ship-comfort-new-york-coronavirus.html
+https://www.nytimes.com/2020/04/08/style/coronavirus-hiv.html
+https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html https://www.nytimes.com/2020/04/08/technology/ai-sports-athletes-machine-learning.html
+https://www.nytimes.com/2020/04/08/travel/coronavirus-wine-tastings.html
+https://www.nytimes.com/2020/04/08/business/economy/coronavirus-rent.html
+https://www.nytimes.com/2020/04/08/fashion/fauci-birx-cuomo-style-influencers.html
+https://www.nytimes.com/2020/04/08/science/ai-ocean-whales-study.html
+https://www.nytimes.com/2020/04/08/technology/ai-sports-athletes-machine-learning.html
+https://www.nytimes.com/2020/04/08/travel/cruises-coronavirus-stimulus.html
+https://www.nytimes.com/2020/04/08/us/coronavirus-college-students.html
+https://www.nytimes.com/2020/04/08/us/passover-seder-plagues-coronavirus.html
+https://www.nytimes.com/2020/04/08/opinion/coronavirus-tips-new-york-san-francisco.html
+https://www.nytimes.com/2020/04/08/arts/east-river-virtual-tour-virus.html
+https://www.nytimes.com/2020/04/08/nyregion/coronavirus-nyc.html
+https://www.nytimes.com/2020/04/08/arts/television/twin-peaks-anniversary.html
+https://www.nytimes.com/2020/04/08/briefing/news-today.html
+https://www.nytimes.com/2020/04/08/podcasts/the-daily/coronavirus-navy-captain-crozier.html
+https://www.nytimes.com/2020/04/08/style/self-care/seder-easter-zoom-coronavirus.html
+https://www.nytimes.com/2020/04/08/style/self-care/digital-gatherings-coronavirus.html
+https://www.nytimes.com/2020/04/08/crosswords/crosswords-jigsaw-puzzles-essay-berstein.html
+https://www.nytimes.com/2020/04/08/arts/design/humboldt-forum-explosion.html
+https://www.nytimes.com/2020/04/08/sports/running-statues-masks-virus.html
+https://www.nytimes.com/2020/04/08/us/politics/trump-coronavirus-glenn-fine.html
+https://www.nytimes.com/2020/04/08/business/dealbook/jack-dorsey-donations.html
+https://www.nytimes.com/2020/04/08/world/asia/trump-who-coronavirus-china.html
+https://www.nytimes.com/2020/04/08/nyregion/coronavirus-new-york-update.html
+https://www.nytimes.com/2020/04/08/sports/athletes-doctors-coronavirus.html
+https://www.nytimes.com/2020/04/08/opinion/trump-inspector-general-coronavirus.html
+https://www.nytimes.com/2020/04/08/sports/germany-soccer-coronavirus.html
+https://www.nytimes.com/2020/04/08/parenting/coronavirus-self-care.html
+https://www.nytimes.com/2020/04/08/us/coronavirus-california-rep-katie-porter.html
+https://www.nytimes.com/2020/04/08/books/cho-nam-joo-kim-jiyoung-born-1982.html
+https://www.nytimes.com/slideshow/2020/04/08/realestate/what-you-get-for-600000.html
+https://www.nytimes.com/2020/04/08/realestate/600000-homes-in-kentucky-massachusetts-and-minnesota.html
+https://www.nytimes.com/2020/04/08/world/europe/coronavirus-doctors-immigrants.html
+https://www.nytimes.com/2020/04/08/business/economy/coronavirus-gig-unemployment.html
+https://www.nytimes.com/slideshow/2020/04/08/realestate/a-quiet-acre-in-todos-santos-mexico.html
+https://www.nytimes.com/2020/04/08/realestate/house-hunting-in-mexico-a-balinese-style-compound-for-595000.html
+https://www.nytimes.com/2020/04/08/well/live/coronavirus-face-mask-mistakes.html
+https://www.nytimes.com/2020/04/08/arts/television/the-leftovers.html
+https://www.nytimes.com/2020/04/08/sports/basketball/nba-champion-lebron-giannis-lakers.html
+https://www.nytimes.com/2020/04/08/world/europe/coronavirus-lockdowns-restrictions.html
+https://www.nytimes.com/2020/04/08/dining/you-can-adapt-it-all.html
+https://www.nytimes.com/2020/04/08/arts/design/rube-goldberg-bar-of-soap-challenge.html
+https://www.nytimes.com/2020/04/08/well/live/coronavirus-and-the-cancer-patient.html
+https://www.nytimes.com/2020/04/08/theater/broadway-shows-canceled-june-coronavirus.html
+https://www.nytimes.com/2020/04/08/sports/coronavirus-track-and-field.html
+https://www.nytimes.com/2020/04/08/us/politics/democrats-coronavirus-earnestine.html
+https://www.nytimes.com/2020/04/08/us/politics/bernie-sanders-drops-out.html
+https://www.nytimes.com/2020/04/08/world/europe/poland-judges-eu-court.html
+https://www.nytimes.com/2020/04/08/us/politics/joe-biden-donald-trump-2020-election.html
+https://www.nytimes.com/2020/04/08/arts/music/paul-dessau-classical-music.html
+https://www.nytimes.com/2020/04/08/climate/coronavirus-pollution-race.html
+https://www.nytimes.com/2020/04/08/arts/dance/american-ballet-theater-coronavirus.html
+https://www.nytimes.com/2020/04/08/technology/google-stadia-free-virus.html
+https://www.nytimes.com/2020/04/08/world/europe/adults-parents-home-coronavirus.html
+https://www.nytimes.com/article/zoom-privacy-lessons.html
+https://www.nytimes.com/2020/04/08/us/coronavirus-baby-boom.html
+https://www.nytimes.com/2020/04/08/opinion/coronavirus-trump-dr-oz.html
+https://www.nytimes.com/article/doctors-treating-coronavirus.html
+https://www.nytimes.com/2020/04/08/t-magazine/art-coronavirus.html
+https://www.nytimes.com/2020/04/08/world/middleeast/coronavirus-saudi-royal-infections.html

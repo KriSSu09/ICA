@@ -1,0 +1,1133 @@
+#C:\Users\crist\Desktop\ICA Sem 2\SNA\RealDataNetwork\keyword_reduced.py
+# GMT Sat May 18 17:33:45 2024
+# 
+https://www.nytimes.com/2019/03/31/todayspaper/quotation-of-the-day-ripped-off-riffs-better-not-to-risk-it.html
+https://www.nytimes.com/2019/03/31/world/europe/turkey-election-erdogan.html https://www.nytimes.com/2019/04/01/world/europe/turkey-erdogan-election-loss.html https://www.nytimes.com/2019/04/02/world/europe/turkey-elections-erdogan.html https://www.nytimes.com/2019/04/03/world/europe/turkey-istanbul-erdogan-ekrem-imamoglu.html
+https://www.nytimes.com/2019/03/31/theater/do-you-feel-anger-review.html https://www.nytimes.com/2019/04/04/theater/king-lear-review-glenda-jackson.html https://www.nytimes.com/2019/04/07/theater/oklahoma-review.html
+https://www.nytimes.com/2019/03/31/theater/what-the-constitution-means-to-me-review.html https://www.nytimes.com/2019/04/03/theater/the-cradle-will-rock-review.html https://www.nytimes.com/2019/04/04/theater/sincerely-oscar-review.html
+https://www.nytimes.com/2019/03/31/theater/the-white-devil-review.html https://www.nytimes.com/2019/04/03/arts/television/youre-the-worst-finale-chris-geere.html https://www.nytimes.com/2019/04/04/theater/titus-andronicus.html https://www.nytimes.com/2019/04/04/theater/nyc-this-weekend-theater.html https://www.nytimes.com/2019/04/07/arts/television/fosse-verdon.html
+https://www.nytimes.com/2019/03/31/sports/yankees-orioles.html https://www.nytimes.com/2019/04/01/sports/yankees-giancarlo-stanton.html https://www.nytimes.com/2019/04/04/sports/gleyber-torres-yankees.html https://www.nytimes.com/2019/04/05/sports/carlos-beltran-yankees.html https://www.nytimes.com/2019/04/07/sports/yankees-injuries.html https://www.nytimes.com/2019/04/07/sports/gary-sanchez-yankees-orioles.html
+https://www.nytimes.com/2019/03/31/arts/television/case-against-adnan-syed-dna-hbo-finale.html
+https://www.nytimes.com/2019/03/31/arts/television/billions-chickentown-review.html https://www.nytimes.com/2019/04/07/arts/television/billions-recap.html
+https://www.nytimes.com/2019/03/31/world/middleeast/netanyahu-fake-twitter.html
+https://www.nytimes.com/2019/03/31/us/willie-mccoy-shooting-video.html https://www.nytimes.com/2019/04/02/us/sharp-grossmont-hospital-recording-women.html https://www.nytimes.com/2019/04/07/us/politics/kevin-mcaleenan-dhs-cbp.html
+https://www.nytimes.com/2019/03/31/world/asia/kim-jong-nam-trial-verdict.html https://www.nytimes.com/2019/04/03/world/asia/najib-case-malaysia.html https://www.nytimes.com/2019/04/04/world/asia/thailand-elections-future-forward-junta.html
+https://www.nytimes.com/2019/03/31/arts/music/nipsey-hussle-dead.html https://www.nytimes.com/video/arts/music/100000006389803/billie-eilish-bury-a-friend.html https://www.nytimes.com/2019/04/01/arts/music/billie-eilish-bury-a-friend.html https://www.nytimes.com/2019/04/01/us/unc-unsung-founders-memorial.html https://www.nytimes.com/2019/04/02/us/nipsey-hussle-eric-holder.html https://www.nytimes.com/2019/04/04/arts/music/nipsey-hussle-shooting-death.html https://www.nytimes.com/2019/04/04/us/violence-against-women-act-reauthorization.html https://www.nytimes.com/2019/04/05/arts/music/mick-jagger-surgery.html https://www.nytimes.com/2019/04/06/nyregion/judge-john-russo-new-jersey.html https://www.nytimes.com/2019/04/07/us/native-languages-decline.html https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/01/reader-center/april-fools-day-a-stranger-times.html
+https://www.nytimes.com/2019/04/01/briefing/brexit-us-border-india.html https://www.nytimes.com/2019/04/02/briefing/brexit-erdogan-ukraine-security-clearance.html https://www.nytimes.com/2019/04/02/briefing/brexit-algeria-erdogan-cholera.html https://www.nytimes.com/2019/04/04/briefing/rupert-murdoch-trump-tax-returns-mueller.html https://www.nytimes.com/2019/04/04/briefing/china-boeing-trump-uber-drivers.html https://www.nytimes.com/2019/04/07/briefing/china-honduras-brexit-candida.html
+https://www.nytimes.com/2019/04/01/us/politics/joe-biden-accused-touching.html
+https://www.nytimes.com/2019/04/01/world/asia/nepal-storm-dead.html
+https://www.nytimes.com/2019/04/01/arts/television/whats-on-tv-monday-the-twilight-zone-and-punk.html https://www.nytimes.com/2019/04/02/arts/television/whats-on-tv-tuesday-this-is-us-and-the-last-og.html https://www.nytimes.com/2019/04/04/arts/design/high-line-simone-leigh-brick-house.html https://www.nytimes.com/2019/04/06/arts/television/whats-on-tv-saturday-native-son-saturday-night-live.html https://www.nytimes.com/2019/04/08/arts/television/whats-on-tv-monday-noir-movies-and-white-boy.html
+https://www.nytimes.com/2019/04/01/world/europe/natalia-fileva-s7-plane-crash.html https://www.nytimes.com/2019/04/01/world/asia/singapore-fake-news-law.html https://www.nytimes.com/2019/04/02/world/europe/naked-police-officer-arrest-sweden.html https://www.nytimes.com/2019/04/08/world/asia/maldives-election-ibrahim-solih.html https://www.nytimes.com/2019/04/08/world/asia/japan-catholic-church-sexual-abuse.html
+https://www.nytimes.com/2019/04/01/learning/01WODLN.html
+https://www.nytimes.com/2019/04/01/sports/mlb-catchers.html https://www.nytimes.com/2019/04/05/reader-center/tyler-kepner-baseball-book.html https://www.nytimes.com/2019/04/06/sports/mlb-pitching-coaches-wes-johnson.html
+https://www.nytimes.com/2019/04/01/nyregion/metropolitan-diary.html
+https://www.nytimes.com/2019/04/01/health/sacklers-oxycontin-lawsuits.html https://www.nytimes.com/2019/04/05/well/eat/is-the-saturated-fat-in-chocolate-as-bad-as-the-fat-in-meat.html
+https://www.nytimes.com/2019/04/01/fashion/roberto-cavalli-store-closures.html https://www.nytimes.com/2019/04/04/fashion/qatar-luxury-fashion-national-museum-blockade.html https://www.nytimes.com/2019/04/04/fashion/mary-quant-miniskirt-london.html
+https://www.nytimes.com/2019/04/01/learning/learning-with-breaches-everywhere-flooding-bursts-midwest-levees-and-tough-questions-follow.html https://www.nytimes.com/2019/04/01/learning/do-you-think-school-is-boring.html https://www.nytimes.com/2019/04/08/learning/learning-with-with-indigenous-languages-in-steep-decline-summer-camps-offer-hope.html https://www.nytimes.com/2019/04/08/learning/after-home-and-school-where-do-you-find-the-strongest-feeling-of-community.html
+https://www.nytimes.com/video/arts/music/100000006389803/billie-eilish-bury-a-friend.html https://www.nytimes.com/2019/04/01/arts/music/billie-eilish-bury-a-friend.html https://www.nytimes.com/2019/04/04/arts/music/nipsey-hussle-shooting-death.html
+https://www.nytimes.com/2019/04/01/world/asia/china-bans-fentanyl-trump.html https://www.nytimes.com/2019/04/01/world/asia/china-fire-sichuan.html
+https://www.nytimes.com/2019/04/01/world/asia/japan-emperor-era-reiwa.html https://www.nytimes.com/2019/04/04/business/carlos-ghosn-carole-wife-japan-nissan-arrest.html https://www.nytimes.com/2019/04/06/world/asia/naomi-osaka-citizenship.html
+https://www.nytimes.com/2019/04/01/learning/do-you-think-school-is-boring.html https://www.nytimes.com/interactive/2019/04/01/learning/BotswanaGeographyQuiz.html https://www.nytimes.com/2019/04/08/learning/learning-with-with-indigenous-languages-in-steep-decline-summer-camps-offer-hope.html https://www.nytimes.com/2019/04/08/learning/after-home-and-school-where-do-you-find-the-strongest-feeling-of-community.html https://www.nytimes.com/interactive/2019/04/08/learning/PanamaGeographyQuiz.html
+https://www.nytimes.com/2019/04/01/well/live/brain-booster-in-a-bottle-dont-bother.html https://www.nytimes.com/2019/04/08/well/eat/a-guide-to-sustainable-eating.html
+https://www.nytimes.com/2019/04/01/arts/music/billie-eilish-bury-a-friend.html https://www.nytimes.com/2019/04/04/arts/music/nipsey-hussle-shooting-death.html
+https://www.nytimes.com/2019/04/01/well/family/how-to-minimize-exposures-to-hormone-disrupters.html https://www.nytimes.com/2019/04/08/well/family/dealing-with-aggression-in-children.html
+https://www.nytimes.com/interactive/2019/04/01/magazine/robert-caro-working-memoir.html
+https://www.nytimes.com/2019/04/01/us/politics/us-china-trade-trump.html https://www.nytimes.com/2019/04/01/us/politics/trump-border-closing-economy.html https://www.nytimes.com/2019/04/02/us/politics/trump-mexico-border-economy.html https://www.nytimes.com/2019/04/04/business/economy/trump-xi-china-trade-meeting.html https://www.nytimes.com/2019/04/05/business/china-trade-trump-jobs-decoupling.html
+https://www.nytimes.com/2019/04/01/us/politics/supreme-court-gay-bias-charles-rhines.html https://www.nytimes.com/2019/04/01/us/politics/supreme-court-death-penalty.html
+https://www.nytimes.com/2019/04/01/realestate/moving-for-the-l-train.html
+https://www.nytimes.com/2019/04/01/nyregion/nypd-detective-louis-scarcella.html https://www.nytimes.com/2019/04/03/us/politics/trump-school-lunch-standards.html https://www.nytimes.com/2019/04/07/nyregion/www-bret-hart-attacked.html
+https://www.nytimes.com/2019/04/01/us/politics/trump-putin-venezuela-red-line.html https://www.nytimes.com/2019/04/03/technology/personaltech/david-sanger-national-security.html https://www.nytimes.com/2019/04/04/us/politics/nato-anniversary.html
+https://www.nytimes.com/2019/04/01/books/april-fools-literary-hoaxes.html https://www.nytimes.com/2019/04/05/books/review/raise-your-hand-alice-paul-tapper-best-seller.html
+https://www.nytimes.com/2019/04/01/world/canada/china-dissident-harassment-sheng-xue.html https://www.nytimes.com/2019/04/05/world/canada/sheng-xue-chinese-activist-smear-campaign.html https://www.nytimes.com/2019/04/06/reader-center/sheng-xue-chinese-activist-canada-smear-campaign.html
+https://www.nytimes.com/2019/04/01/us/beatrice-six-nebraska.html https://www.nytimes.com/2019/04/04/us/fake-uber-driver-assaults.html
+https://www.nytimes.com/2019/04/01/books/review/nell-freudenberger-lost-and-wanted.html
+https://www.nytimes.com/2019/04/01/upshot/trump-era-molding-young-voters.html https://www.nytimes.com/2019/04/04/upshot/the-streets-were-never-free-congestion-pricing-finally-makes-that-plain.html
+https://www.nytimes.com/interactive/2019/04/01/learning/BotswanaGeographyQuiz.html https://www.nytimes.com/interactive/2019/04/08/learning/PanamaGeographyQuiz.html
+https://www.nytimes.com/2019/04/01/briefing/joe-biden-turkey-nipsey-hussle.html https://www.nytimes.com/2019/04/02/briefing/security-clearance-chicago-nipsey-hussle.html https://www.nytimes.com/2019/04/03/briefing/lori-lightfoot-brunei-russell-westbrook.html https://www.nytimes.com/2019/04/04/briefing/boeing-robert-mueller-measles.html https://www.nytimes.com/interactive/2019/04/05/briefing/05weeklynewsquiz.html https://www.nytimes.com/2019/04/05/briefing/herman-cain-brexit-final-four.html https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/01/podcasts/the-daily/brexit-uk-theresa-may.html
+https://www.nytimes.com/2019/04/01/opinion/economy-debt-inflation.html
+https://www.nytimes.com/2019/04/01/opinion/tennessee-state-museum-quilts.html https://www.nytimes.com/2019/04/08/opinion/nfl-nashville-cherry-trees.html
+https://www.nytimes.com/2019/04/01/opinion/mueller-report-trump.html
+https://www.nytimes.com/2019/04/01/opinion/trans-women-feminism.html
+https://www.nytimes.com/2019/04/01/opinion/trump-mueller-barr-letter.html
+https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html https://www.nytimes.com/2019/04/02/technology/cryptocurrency-bust-wall-street.html
+https://www.nytimes.com/interactive/2019/04/01/opinion/april-fools-quiz.html
+https://www.nytimes.com/2019/04/01/nyregion/newyorktoday/nyc-news-state-budget.html https://www.nytimes.com/2019/04/02/nyregion/newyorktoday/nyc-news-women-equal-pay-day.html https://www.nytimes.com/2019/04/03/nyregion/newyorktoday/nyc-news-women-mayor-election.html https://www.nytimes.com/2019/04/04/nyregion/newyorktoday/nyc-news-the-city-jere-hester.html https://www.nytimes.com/2019/04/05/nyregion/newyorktoday/nyc-news-shed-hudson-yards.html https://www.nytimes.com/2019/04/08/nyregion/newyorktoday/nyc-news-de-blasio-president.html
+https://www.nytimes.com/2019/04/01/business/dealbook/aramco-profits.html
+https://www.nytimes.com/2019/04/01/travel/vietnam-wildlife-species-ecotravel-tourism.html
+https://www.nytimes.com/2019/04/01/world/asia/china-fire-sichuan.html
+https://www.nytimes.com/2019/04/01/business/saudi-aramco-profit.html
+https://www.nytimes.com/2019/04/01/sports/final-four-preview.html https://www.nytimes.com/2019/04/04/sports/unc-scandal.html https://www.nytimes.com/2019/04/04/sports/notre-dame-uconn-final-four-arike-ogunbowale.html https://www.nytimes.com/2019/04/04/sports/north-carolina-sylvia-hatchell.html https://www.nytimes.com/2019/04/06/sports/michigan-state-final-four.html https://www.nytimes.com/2019/04/06/sports/ncaa-mens-final-four-preview.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/01/us/politics/pete-buttiegieg-fundraising.html https://www.nytimes.com/2019/04/01/us/politics/kamala-harris-fundraising-2020.html https://www.nytimes.com/2019/04/02/us/politics/bernie-sanders-fundraising-18-million-2020.html https://www.nytimes.com/2019/04/03/us/politics/beto-fundraising.html https://www.nytimes.com/interactive/2019/04/05/us/politics/2020-democrats-campaign-stops.html https://www.nytimes.com/2019/04/07/us/politics/cory-booker-2020-fundraising.html
+https://www.nytimes.com/2019/04/01/arts/television/best-tv-movies-netflix-amazon-hulu-hbo-april.html https://www.nytimes.com/2019/04/01/arts/television/game-of-thrones-season-6.html https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-season-6.html
+https://www.nytimes.com/2019/04/01/fashion/leggings-notre-dame-controversy.html https://www.nytimes.com/2019/04/01/fashion/jb-pritzker-dress-advice.html https://www.nytimes.com/2019/04/04/style/beyonce-adidas-collaboration.html https://www.nytimes.com/2019/04/05/fashion/patagonia-fleece-fintech-banking.html https://www.nytimes.com/2019/04/05/fashion/andrew-rosen-theory-contemporary-fashion.html
+https://www.nytimes.com/2019/04/01/fashion/jb-pritzker-dress-advice.html https://www.nytimes.com/2019/04/04/style/beyonce-adidas-collaboration.html https://www.nytimes.com/2019/04/05/fashion/patagonia-fleece-fintech-banking.html https://www.nytimes.com/2019/04/05/fashion/andrew-rosen-theory-contemporary-fashion.html
+https://www.nytimes.com/2019/04/01/us/california-police-deadly-force-kosher-marijuana.html https://www.nytimes.com/2019/04/02/us/california-san-francisco-homelessness-nipsey-hussle.html https://www.nytimes.com/2019/04/03/us/california-nipsey-hussle-fatburger-suspect.html https://www.nytimes.com/2019/04/04/us/nyt-keeping-up-with-the-kardashians.html https://www.nytimes.com/2019/04/05/us/california-virtual-solar-power-sunrun.html
+https://www.nytimes.com/2019/04/01/us/politics/trump-security-clearances.html https://www.nytimes.com/2019/04/01/us/politics/first-step-act-donald-trump.html https://www.nytimes.com/2019/04/01/us/politics/mueller-report-subpoena.html https://www.nytimes.com/2019/04/02/us/politics/obamacare-donald-trump.html https://www.nytimes.com/2019/04/03/us/politics/mueller-report-subpoena-house.html https://www.nytimes.com/2019/04/03/us/politics/house-intelligence-trump-inaugural.html https://www.nytimes.com/2019/04/03/us/politics/william-barr-mueller-report.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/01/opinion/peter-georgescu-capitalism.html https://www.nytimes.com/2019/04/02/opinion/joe-biden-inappropriate-touching.html https://www.nytimes.com/2019/04/03/opinion/ron-wyden-tax-inequality.html https://www.nytimes.com/2019/04/04/opinion/sex-americans-internet.html https://www.nytimes.com/2019/04/05/opinion/wisconsin-supreme-court-democrats.html https://www.nytimes.com/2019/04/08/opinion/trump-tax-returns-democrats.html
+https://www.nytimes.com/2019/04/01/us/politics/nra-domestic-violence-congress.html https://www.nytimes.com/2019/04/02/us/politics/joe-biden-women-me-too.html https://www.nytimes.com/2019/04/03/us/politics/house-democrats-yemen-anti-semitism.html
+https://www.nytimes.com/2019/04/01/dining/what-to-cook-right-now.html https://www.nytimes.com/2019/04/03/dining/what-to-cook-in-an-air-fryer.html https://www.nytimes.com/2019/04/05/dining/what-to-cook-this-weekend.html https://www.nytimes.com/2019/04/07/dining/what-to-cook-this-week.html
+https://www.nytimes.com/video/opinion/100000006424693/venezuela-us-hands-off-joanna-hausmann.html https://www.nytimes.com/2019/04/01/opinion/contributors/venezuela-us-hands-off-joanna-hausmann.html
+https://www.nytimes.com/2019/04/01/opinion/general-motors-bailout.html
+https://www.nytimes.com/2019/04/01/opinion/contributors/venezuela-us-hands-off-joanna-hausmann.html
+https://www.nytimes.com/2019/04/01/opinion/venezuelans-are-in-the-heart-of-darkness.html
+https://www.nytimes.com/2019/04/01/crosswords/what-the-heck-is-that-crosswords-pips.html https://www.nytimes.com/2019/04/02/crosswords/daily-puzzle-2019-04-03.html https://www.nytimes.com/2019/04/03/crosswords/daily-puzzle-2019-04-04.html https://www.nytimes.com/2019/04/04/crosswords/daily-puzzle-2019-04-05.html https://www.nytimes.com/2019/04/07/crosswords/daily-puzzle-2019-04-08.html
+https://www.nytimes.com/2019/04/01/us/politics/first-step-act-donald-trump.html https://www.nytimes.com/2019/04/01/us/politics/trump-e-score-rating.html https://www.nytimes.com/2019/04/02/us/politics/obamacare-donald-trump.html https://www.nytimes.com/2019/04/02/us/trump-puerto-rico.html https://www.nytimes.com/2019/04/03/us/politics/house-intelligence-trump-inaugural.html https://www.nytimes.com/2019/04/04/us/politics/mexico-border-trump.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/01/nyregion/nyc-restaurants-bars-regulars.html
+https://www.nytimes.com/2019/04/01/style/sam-rockwell.html https://www.nytimes.com/2019/04/01/style/confirm-or-deny-sam-rockwell.html https://www.nytimes.com/2019/04/06/opinion/sunday/game-of-thrones-emilia-clarke.html
+https://www.nytimes.com/2019/04/01/style/confirm-or-deny-sam-rockwell.html https://www.nytimes.com/2019/04/06/opinion/sunday/game-of-thrones-emilia-clarke.html
+https://www.nytimes.com/2019/04/01/us/politics/betsy-devos-sexual-assault-title-ix.html https://www.nytimes.com/2019/04/03/us/politics/trump-school-lunch-standards.html https://www.nytimes.com/2019/04/05/us/politics/betsy-devos-student-loan-debt-relief.html
+https://www.nytimes.com/2019/04/01/dining/madhur-jaffrey-rap-video-mr-cardamom.html
+https://www.nytimes.com/2019/04/01/arts/television/jane-the-virgin-crazy-ex-girlfriend-final-season.html https://www.nytimes.com/2019/04/05/arts/television/killing-eve-villanelle-jodie-comer.html
+https://www.nytimes.com/2019/04/01/arts/television/game-of-thrones-season-6.html https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-season-6.html
+https://www.nytimes.com/2019/04/01/sports/uefa-champions-league.html https://www.nytimes.com/2019/04/05/sports/afc-sheikh-salman.html https://www.nytimes.com/2019/04/06/world/americas/brazil-soccer-fire.html
+https://www.nytimes.com/2019/04/01/world/asia/singapore-fake-news-law.html https://www.nytimes.com/2019/04/02/world/europe/naked-police-officer-arrest-sweden.html https://www.nytimes.com/2019/04/08/world/asia/maldives-election-ibrahim-solih.html https://www.nytimes.com/2019/04/08/world/asia/japan-catholic-church-sexual-abuse.html
+https://www.nytimes.com/2019/04/01/well/eat/asthma-symptoms-diet-foods-omega-3-fats.html https://www.nytimes.com/2019/04/04/automobiles/a-diet-to-ward-off-gum-disease.html https://www.nytimes.com/2019/04/05/health/night-shifts-may-raise-the-risk-of-miscarriage.html
+https://www.nytimes.com/2019/04/01/science/bees-flowers-pollen-honey.html
+https://www.nytimes.com/2019/04/01/sports/yankees-giancarlo-stanton.html https://www.nytimes.com/2019/04/04/sports/gleyber-torres-yankees.html https://www.nytimes.com/2019/04/05/sports/carlos-beltran-yankees.html https://www.nytimes.com/2019/04/07/sports/yankees-injuries.html https://www.nytimes.com/2019/04/07/sports/gary-sanchez-yankees-orioles.html
+https://www.nytimes.com/2019/04/01/books/review/clive-thompson-coders.html
+https://www.nytimes.com/2019/04/01/us/politics/supreme-court-death-penalty.html
+https://www.nytimes.com/2019/04/01/science/poaching-wildlife-scientists.html
+https://www.nytimes.com/2019/04/01/theater/life-sucks-review.html https://www.nytimes.com/2019/04/03/theater/katrina-lenk-the-bands-visit.html
+https://www.nytimes.com/2019/04/01/opinion/letters/aipac-israel-lobby.html
+https://www.nytimes.com/2019/04/01/books/susan-choi-trust-exercise-review.html
+https://www.nytimes.com/2019/04/01/us/politics/ben-ray-lujan-senate.html https://www.nytimes.com/2019/04/04/us/politics/pete-buttigieg-all-lives-matter.html
+https://www.nytimes.com/2019/04/01/arts/dance/harkness-dance-center-92y-expansion.html
+https://www.nytimes.com/2019/04/01/arts/music/nav-bad-habits-motley-crue-billboard-chart.html https://www.nytimes.com/2019/04/03/business/dealbook/iheartmedia-ipo-radio.html https://www.nytimes.com/2019/04/05/business/media/lil-nas-x-billy-ray-cyrus-billboard.html
+https://www.nytimes.com/2019/04/01/us/montana-bernhardt-reich-murder.html https://www.nytimes.com/2019/04/02/us/border-patrol-protest-univ-of-arizona.html https://www.nytimes.com/2019/04/04/us/vincent-j-rogers-ww2.html
+https://www.nytimes.com/2019/04/01/world/europe/ukraine-presidential-election-runoff.html https://www.nytimes.com/2019/04/04/world/europe/russia-whale-jail.html
+https://www.nytimes.com/2019/04/01/world/africa/algeria-bouteflika-resign.html https://www.nytimes.com/2019/04/02/world/africa/Abdelaziz-Bouteflika-resigns.html https://www.nytimes.com/2019/04/03/world/africa/algeria-bouteflika-what-now.html https://www.nytimes.com/2019/04/06/world/europe/france-china-wine.html
+https://www.nytimes.com/2019/04/01/business/economy/labor-department-joint-employer.html
+https://www.nytimes.com/2019/04/01/us/politics/mueller-report-subpoena.html https://www.nytimes.com/2019/04/03/us/politics/mueller-report-subpoena-house.html https://www.nytimes.com/2019/04/03/us/politics/william-barr-mueller-report.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html
+https://www.nytimes.com/2019/04/01/us/lightfoot-preckwinkle.html https://www.nytimes.com/2019/04/02/us/chicago-election-lightfoot-preckwinkle.html https://www.nytimes.com/2019/04/02/us/chicago-election-results.html https://www.nytimes.com/2019/04/03/us/lori-lightfoot-chicago.html https://www.nytimes.com/2019/04/05/us/chicago-mayor-election-lightfoot-photos.html
+https://www.nytimes.com/2019/04/01/science/mars-methane-gas.html https://www.nytimes.com/2019/04/03/science/israel-beresheet-moon.html https://www.nytimes.com/2019/04/04/science/beresheet-israel-moon-orbit.html https://www.nytimes.com/2019/04/04/science/mars-eclipse-moons-phobos-deimos.html https://www.nytimes.com/2019/04/04/science/hayabusa2-ryugu-crater.html
+https://www.nytimes.com/2019/04/01/dining/air-fryer.html https://www.nytimes.com/2019/04/01/dining/air-fryer-recipes.html https://www.nytimes.com/2019/04/05/dining/brisket-recipe.html
+https://www.nytimes.com/2019/04/01/dining/air-fryer-recipes.html https://www.nytimes.com/2019/04/05/dining/brisket-recipe.html
+https://www.nytimes.com/video/world/africa/100000006404260/algeria-protests-bouteflika-resigns.html https://www.nytimes.com/video/us/politics/100000006439696/lori-lightfoot-chicago-mayor.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-music.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-stage-screen.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-arts-styles.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-books.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-business-economics.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-politics-public-affairs.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-science-technology.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths-sports.html
+https://www.nytimes.com/interactive/2019/obituaries/notable-deaths.html
+https://www.nytimes.com/2019/04/01/opinion/trump-central-america-aid.html
+https://www.nytimes.com/2019/04/01/theater/local-theater-readers-respond.html
+https://www.nytimes.com/2019/04/01/world/asia/afghanistan-wedding-shooting.html https://www.nytimes.com/2019/04/07/world/asia/afghanistan-taliban-peace-talks.html
+https://www.nytimes.com/2019/04/01/briefing/brexit-singapore-japan.html https://www.nytimes.com/2019/04/02/briefing/brexit-india-lion-air-your-wednesday-briefing.html https://www.nytimes.com/2019/04/04/arts/design/cj-hendry-instagram-drawings.html
+https://www.nytimes.com/2019/04/01/technology/lyft-stock.html
+https://www.nytimes.com/2019/04/01/opinion/abortion-supreme-court-judges.html
+https://www.nytimes.com/2019/04/01/business/british-business-brexit.html
+https://www.nytimes.com/2019/04/01/opinion/letters/democrats-net-neutrality.html
+https://www.nytimes.com/2019/04/01/opinion/letters/joe-biden-sexual-harassment.html
+https://www.nytimes.com/2019/04/01/nyregion/new-york-congestion-pricing.html https://www.nytimes.com/2019/04/04/nyregion/congestion-pricing-trucks-new-jersey.html
+https://www.nytimes.com/2019/04/01/technology/india-elections-facebook.html
+https://www.nytimes.com/2019/04/01/arts/david-blaine-sexual-assault-investigation.html https://www.nytimes.com/2019/04/02/movies/dumbo-michael-buffer-lets-get-ready-to-rumble.html https://www.nytimes.com/2019/04/04/movies/terry-gilliam-don-quixote.html https://www.nytimes.com/2019/04/04/arts/television/star-trek-discovery-through-the-valley-of-shadows-recap.html
+https://www.nytimes.com/2019/04/01/arts/design/confederate-flag-fabric-workshop-museum-sonya-clark.html https://www.nytimes.com/2019/04/02/business/new-york-marketplace-remembers-its-immigrant-past.html
+https://www.nytimes.com/2019/04/01/science/romeo-juliet-frogs.html https://www.nytimes.com/2019/04/05/science/shark-kelp-video.html
+https://www.nytimes.com/2019/04/01/world/americas/mexico-migration-border.html https://www.nytimes.com/2019/04/05/world/americas/us-mexico-border-delays.html
+https://www.nytimes.com/2019/04/01/smarter-living/how-to-make-your-phone-limit-your-screen-time-for-you.html
+https://www.nytimes.com/2019/04/01/world/europe/turkey-erdogan-election-loss.html https://www.nytimes.com/2019/04/02/world/europe/turkey-elections-erdogan.html https://www.nytimes.com/2019/04/03/world/europe/turkey-istanbul-erdogan-ekrem-imamoglu.html
+https://www.nytimes.com/2019/04/01/opinion/trump-close-border.html https://www.nytimes.com/2019/04/04/opinion/algerias-rush-toward-the-future.html
+https://www.nytimes.com/2019/04/01/world/europe/uk-parliament-soft-brexit-may.html https://www.nytimes.com/2019/04/02/world/europe/theresa-may-labour-brexit.html https://www.nytimes.com/2019/04/03/world/europe/theresa-may-jeremy-corbyn-brexit.html https://www.nytimes.com/2019/04/04/world/europe/brexit-extension.html
+https://www.nytimes.com/2019/04/01/world/europe/customs-union-brexit.html
+https://www.nytimes.com/2019/04/01/us/nipsey-hussle-vigil.html https://www.nytimes.com/2019/04/02/us/eric-holder-arrested-nipsey-hussle.html
+https://www.nytimes.com/2019/04/01/briefing/security-clearances-nipsey-hussle-april-fools.html https://www.nytimes.com/2019/04/02/briefing/health-care-brexit-joe-biden.html
+https://www.nytimes.com/2019/04/01/books/new-books-april.html https://www.nytimes.com/2019/04/04/books/isabella-hammad-the-parisian.html https://www.nytimes.com/2019/04/05/books/review/new-paperbacks.html
+https://www.nytimes.com/2019/04/01/us/politics/on-politics-biden-flores-women.html https://www.nytimes.com/2019/04/04/reader-center/biden-responses-metoo.html https://www.nytimes.com/2019/04/04/us/politics/on-politics-joe-biden-women-reaction.html https://www.nytimes.com/2019/04/05/us/politics/joe-biden-controversy.html
+https://www.nytimes.com/2019/04/01/opinion/republicans-health-care.html https://www.nytimes.com/2019/04/04/opinion/trump-deadly-deregulation.html
+https://www.nytimes.com/2019/04/01/opinion/pete-buttigieg-2020.html https://www.nytimes.com/2019/04/04/opinion/canada-poverty-record.html https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html
+https://www.nytimes.com/2019/04/01/dining/soba-noodles-japan-society.html https://www.nytimes.com/2019/04/01/dining/drinks/som-cordials-pok-pok-andy-ricker.html https://www.nytimes.com/2019/04/01/dining/gravlax-durhams-tracklements.html https://www.nytimes.com/2019/04/01/dining/drinks/wine-lesson-charlie-bird.html https://www.nytimes.com/2019/04/01/dining/cedric-grolet-pastry-nyc.html https://www.nytimes.com/2019/04/01/dining/fromages-book-dominique-bouchait.html https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/01/dining/drinks/som-cordials-pok-pok-andy-ricker.html https://www.nytimes.com/2019/04/01/dining/gravlax-durhams-tracklements.html https://www.nytimes.com/2019/04/01/dining/drinks/wine-lesson-charlie-bird.html https://www.nytimes.com/2019/04/01/dining/cedric-grolet-pastry-nyc.html https://www.nytimes.com/2019/04/01/dining/fromages-book-dominique-bouchait.html https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/01/us/catherine-pugh-healthy-holly-book-scandal.html
+https://www.nytimes.com/2019/04/01/dining/gravlax-durhams-tracklements.html https://www.nytimes.com/2019/04/01/dining/drinks/wine-lesson-charlie-bird.html https://www.nytimes.com/2019/04/01/dining/cedric-grolet-pastry-nyc.html https://www.nytimes.com/2019/04/01/dining/fromages-book-dominique-bouchait.html https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/01/dining/drinks/wine-lesson-charlie-bird.html https://www.nytimes.com/2019/04/01/dining/cedric-grolet-pastry-nyc.html https://www.nytimes.com/2019/04/01/dining/fromages-book-dominique-bouchait.html https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/01/dining/cedric-grolet-pastry-nyc.html https://www.nytimes.com/2019/04/01/dining/fromages-book-dominique-bouchait.html https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/01/dining/fromages-book-dominique-bouchait.html https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/01/us/politics/joe-biden-amy-lappos.html https://www.nytimes.com/2019/04/02/us/politics/joe-biden-women-me-too.html https://www.nytimes.com/2019/04/03/us/politics/trump-republican-party.html https://www.nytimes.com/2019/04/03/us/politics/joe-biden-women-video.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet-meme.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/06/us/politics/biden-2020.html
+https://www.nytimes.com/2019/04/01/nyregion/new-york-budget-progressive-democrats.html https://www.nytimes.com/2019/04/05/nyregion/todd-howe-sentencing-percoco-cuomo.html https://www.nytimes.com/2019/04/08/nyregion/trump-tax-returns-ny-state.html
+https://www.nytimes.com/2019/04/01/us/politics/trump-border-closing-economy.html https://www.nytimes.com/2019/04/02/us/politics/trump-mexico-border-economy.html https://www.nytimes.com/2019/04/04/business/economy/trump-xi-china-trade-meeting.html
+https://www.nytimes.com/2019/04/01/sports/santa-anita-horse-deaths.html
+https://www.nytimes.com/2019/04/01/opinion/egypt-sisi-trump.html
+https://www.nytimes.com/2019/04/01/us/politics/tricia-newbold-whistle-blower-white-house.html https://www.nytimes.com/2019/04/03/us/politics/mar-a-lago-chinese-malware.html
+https://www.nytimes.com/2019/04/01/business/boeing-737-max-software-fix.html https://www.nytimes.com/2019/04/04/business/thasunda-duckett-jpmorgan-corner-office.html https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html https://www.nytimes.com/2019/04/05/business/boeing-737-production.html
+https://www.nytimes.com/2019/04/01/us/politics/trump-e-score-rating.html https://www.nytimes.com/2019/04/02/us/trump-puerto-rico.html https://www.nytimes.com/2019/04/04/us/politics/mexico-border-trump.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html
+https://www.nytimes.com/2019/04/01/business/economy/stephen-moore-divorce.html https://www.nytimes.com/2019/04/02/us/politics/trump-mexico-border-economy.html https://www.nytimes.com/2019/04/02/business/trump-fed-stephen-moore.html https://www.nytimes.com/2019/04/03/us/politics/senate-republicans-nuclear-option.html https://www.nytimes.com/2019/04/05/business/economy/mmt-wall-street.html https://www.nytimes.com/2019/04/05/business/economy/trump-fed-interest-rates.html
+https://www.nytimes.com/2019/04/01/opinion/trump-border-mexico.html
+https://www.nytimes.com/2019/04/01/us/politics/puerto-rico-aid.html https://www.nytimes.com/2019/04/02/us/politics/democrats-budget-spending-caps.html https://www.nytimes.com/2019/04/04/us/politics/nra-violence-against-women-act.html https://www.nytimes.com/2019/04/04/us/politics/national-emergency-act-lawsuit.html https://www.nytimes.com/2019/04/06/us/politics/trump-jews-border-asylum.html
+https://www.nytimes.com/2019/04/01/pageoneplus/corrections-april-2-2019.html
+https://www.nytimes.com/2019/04/01/todayspaper/quotation-of-the-day-23rd-death-at-track-puts-sport-in-danger.html
+https://www.nytimes.com/2019/04/01/opinion/new-york-state-budget.html
+https://www.nytimes.com/2019/04/01/sports/-zion-williamson-world-cup.html https://www.nytimes.com/2019/04/02/sports/porzingis-rape-investigation-mavericks.html
+https://www.nytimes.com/2019/04/01/opinion/joe-biden-lucy-flores.html
+https://www.nytimes.com/2019/04/01/us/politics/kamala-harris-fundraising-2020.html https://www.nytimes.com/interactive/2019/04/05/us/politics/2020-democrats-campaign-stops.html https://www.nytimes.com/2019/04/07/us/politics/cory-booker-2020-fundraising.html
+https://www.nytimes.com/2019/04/01/world/americas/trump-central-america-aid.html https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html https://www.nytimes.com/2019/04/06/world/europe/veggie-discs.html
+https://www.nytimes.com/2019/04/01/crosswords/daily-puzzle-2019-04-02.html https://www.nytimes.com/2019/04/05/crosswords/daily-puzzle-2019-04-06.html https://www.nytimes.com/2019/04/06/crosswords/variety-cryptic-crossword.html https://www.nytimes.com/2019/04/06/crosswords/daily-puzzle-2019-04-07.html
+https://www.nytimes.com/2019/04/01/us/raniya-wright-school-fight.html https://www.nytimes.com/2019/04/04/us/violence-against-women-act-reauthorization.html https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/01/nyregion/karina-vetrano-trial-verdict.html https://www.nytimes.com/2019/04/05/nyregion/ny-prosecutors-cuomo.html
+https://www.nytimes.com/2019/04/01/reader-center/natasha-lyonne-crossword-puzzle.html
+https://www.nytimes.com/2019/04/01/smarter-living/stop-asking-kids-what-they-want-to-be-when-they-grow-up.html https://www.nytimes.com/2019/04/05/smarter-living/how-to-deal-with-a-jerk-without-being-a-jerk.html
+https://www.nytimes.com/2019/04/01/arts/television/hannah-gadsby-australia.html
+https://www.nytimes.com/2019/04/01/us/unc-unsung-founders-memorial.html https://www.nytimes.com/2019/04/06/nyregion/judge-john-russo-new-jersey.html https://www.nytimes.com/2019/04/07/us/native-languages-decline.html https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/01/sports/baseball/mets-marlins-pete-alonso-home-run.html https://www.nytimes.com/2019/04/03/sports/mets-marlins.html https://www.nytimes.com/2019/04/03/sports/jacob-degrom-mets-marlins.html https://www.nytimes.com/2019/04/04/sports/mets-home-opener.html https://www.nytimes.com/2019/04/06/sports/mets-nationals-keon-broxton-jd-davis.html https://www.nytimes.com/2019/04/07/sports/mets-nationals.html
+https://www.nytimes.com/2019/04/02/books/lori-gottlieb-maybe-you-should-talk-to-someone.html
+https://www.nytimes.com/2019/04/02/briefing/brexit-erdogan-ukraine-security-clearance.html https://www.nytimes.com/2019/04/02/briefing/brexit-algeria-erdogan-cholera.html https://www.nytimes.com/2019/04/04/briefing/rupert-murdoch-trump-tax-returns-mueller.html https://www.nytimes.com/2019/04/04/briefing/china-boeing-trump-uber-drivers.html https://www.nytimes.com/2019/04/07/briefing/china-honduras-brexit-candida.html
+https://www.nytimes.com/2019/04/02/us/politics/white-house-whistle-blower.html
+https://www.nytimes.com/2019/04/02/us/nipsey-hussle-eric-holder.html https://www.nytimes.com/2019/04/04/us/violence-against-women-act-reauthorization.html https://www.nytimes.com/2019/04/05/us/hart-family-murder-suicide.html https://www.nytimes.com/2019/04/05/arts/music/mick-jagger-surgery.html
+https://www.nytimes.com/2019/04/02/health/americans-health-care-debt-borrowing.html
+https://www.nytimes.com/2019/04/02/arts/television/whats-on-tv-tuesday-this-is-us-and-the-last-og.html https://www.nytimes.com/2019/04/04/arts/design/high-line-simone-leigh-brick-house.html https://www.nytimes.com/2019/04/06/arts/television/whats-on-tv-saturday-native-son-saturday-night-live.html https://www.nytimes.com/2019/04/08/arts/television/whats-on-tv-monday-noir-movies-and-white-boy.html
+https://www.nytimes.com/2019/04/02/world/europe/naked-police-officer-arrest-sweden.html https://www.nytimes.com/2019/04/08/world/asia/maldives-election-ibrahim-solih.html https://www.nytimes.com/2019/04/08/world/asia/japan-catholic-church-sexual-abuse.html
+https://www.nytimes.com/2019/04/02/learning/02WODLN.html
+https://www.nytimes.com/2019/04/02/sports/esports-league-of-legends.html
+https://www.nytimes.com/2019/04/02/health/organ-transplant-drugs-medicare.html https://www.nytimes.com/2019/04/03/science/predatory-journals-ftc-omics.html
+https://www.nytimes.com/2019/04/02/health/klotho-brain-enhancement-dementia-alzheimers.html
+https://www.nytimes.com/2019/04/02/learning/referees.html https://www.nytimes.com/interactive/2019/04/02/learning/02Weekly-News-Quiz-for-Students.html https://www.nytimes.com/2019/04/03/learning/batman-on-a-couch.html https://www.nytimes.com/2019/04/03/learning/learning-with-in-afghanistan-we-laugh-differently.html https://www.nytimes.com/2019/04/04/learning/signs-of-spring.html https://www.nytimes.com/2019/04/04/learning/have-you-ever-felt-like-an-outsider.html https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/02/nyregion/suny-new-paltz-slave-owners.html https://www.nytimes.com/2019/04/04/nyregion/boy-rescued-subway-tracks.html
+https://www.nytimes.com/2019/04/02/learning/learning-with-adaptive-video-game-controllers-open-worlds-for-gamers-with-disabilities.html https://www.nytimes.com/2019/04/02/learning/would-you-want-to-live-a-life-without-ever-feeling-pain.html https://www.nytimes.com/2019/04/03/learning/what-is-hard-about-being-a-boy.html https://www.nytimes.com/2019/04/04/learning/learning-with-how-the-trump-era-is-molding-the-next-generation-of-voters.html https://www.nytimes.com/2019/04/05/learning/learning-with-did-dietary-changes-bring-us-f-words-study-tackles-complexities-of-languages-origins.html https://www.nytimes.com/2019/04/05/learning/would-you-want-to-be-proposed-to-on-a-jumbotron.html
+https://www.nytimes.com/2019/04/02/lens/elia-alba-supper-club.html
+https://www.nytimes.com/2019/04/02/style/self-care/rickey-thompson-instagram.html
+https://www.nytimes.com/2019/04/02/learning/would-you-want-to-live-a-life-without-ever-feeling-pain.html https://www.nytimes.com/2019/04/03/learning/what-is-hard-about-being-a-boy.html https://www.nytimes.com/2019/04/04/learning/learning-with-how-the-trump-era-is-molding-the-next-generation-of-voters.html https://www.nytimes.com/2019/04/05/learning/learning-with-did-dietary-changes-bring-us-f-words-study-tackles-complexities-of-languages-origins.html https://www.nytimes.com/2019/04/05/learning/would-you-want-to-be-proposed-to-on-a-jumbotron.html
+https://www.nytimes.com/2019/04/02/magazine/how-to-dig-up-a-grave.html
+https://www.nytimes.com/2019/04/02/well/live/rituals-of-honor-in-hospital-hallways.html
+https://www.nytimes.com/2019/04/02/style/lip-gloss-trend.html
+https://www.nytimes.com/2019/04/02/magazine/letter-of-recommendation-personality-cafe.html
+https://www.nytimes.com/2019/04/02/magazine/ethicist-plagiarism-cheating-classmate.html
+https://www.nytimes.com/2019/04/02/books/review/barry-lopez-horizon-environment-ecology-travel.html
+https://www.nytimes.com/2019/04/02/travel/european-delayed-or-canceled-flight-compensation.html
+https://www.nytimes.com/2019/04/02/books/review/changing-earth-last-whalers.html
+https://www.nytimes.com/2019/04/02/world/middleeast/israel-election-menachem-begin.html https://www.nytimes.com/2019/04/05/world/middleeast/israel-elections-feiglin-zehut-marijuana.html
+https://www.nytimes.com/2019/04/02/us/arctic-oil-drilling-well-data.html
+https://www.nytimes.com/2019/04/02/magazine/taylor-mac-gary-broadway.html
+https://www.nytimes.com/2019/04/02/us/sharp-grossmont-hospital-recording-women.html https://www.nytimes.com/2019/04/07/us/politics/kevin-mcaleenan-dhs-cbp.html
+https://www.nytimes.com/2019/04/02/us/virginia-scandal-northam-fairfax.html
+https://www.nytimes.com/2019/04/02/travel/new-york-city-52-places.html
+https://www.nytimes.com/2019/04/02/technology/cryptocurrency-bust-wall-street.html
+https://www.nytimes.com/2019/04/02/realestate/the-easy-way-to-create-a-smart-home.html https://www.nytimes.com/2019/04/08/realestate/shopping-for-mugs.html
+https://www.nytimes.com/2019/04/02/world/asia/nasa-india-space-debris.html
+https://www.nytimes.com/2019/04/02/nyregion/newyorktoday/nyc-news-women-equal-pay-day.html https://www.nytimes.com/2019/04/03/nyregion/newyorktoday/nyc-news-women-mayor-election.html https://www.nytimes.com/2019/04/04/nyregion/newyorktoday/nyc-news-the-city-jere-hester.html https://www.nytimes.com/2019/04/05/nyregion/newyorktoday/nyc-news-shed-hudson-yards.html https://www.nytimes.com/2019/04/08/nyregion/newyorktoday/nyc-news-de-blasio-president.html
+https://www.nytimes.com/2019/04/02/arts/television/stephen-colbert-joe-biden-misconduct.html https://www.nytimes.com/2019/04/03/arts/television/stephen-colbert-trump-mcconnell-health-care.html https://www.nytimes.com/2019/04/03/arts/music/public-records-gowanus-music-scene.html https://www.nytimes.com/2019/04/04/arts/television/trevor-noah-trump-father-germany.html https://www.nytimes.com/2019/04/05/arts/television/stephen-colbert-barr-letter.html https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/02/briefing/security-clearance-chicago-nipsey-hussle.html https://www.nytimes.com/2019/04/03/briefing/lori-lightfoot-brunei-russell-westbrook.html https://www.nytimes.com/2019/04/04/briefing/boeing-robert-mueller-measles.html https://www.nytimes.com/interactive/2019/04/05/briefing/05weeklynewsquiz.html https://www.nytimes.com/2019/04/05/briefing/herman-cain-brexit-final-four.html https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/02/world/europe/turkey-elections-erdogan.html https://www.nytimes.com/2019/04/03/world/europe/turkey-istanbul-erdogan-ekrem-imamoglu.html
+https://www.nytimes.com/2019/04/02/world/asia/boeing-max-8-lion-air.html https://www.nytimes.com/2019/04/04/books/review/bangkok-veeraporn-nitiprapha-pitchaya-sudbanthad.html https://www.nytimes.com/2019/04/04/world/asia/ethiopia-crash-boeing.html https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html
+https://www.nytimes.com/2019/04/02/opinion/trump-mueller-obamacare.html https://www.nytimes.com/2019/04/03/opinion/joe-biden.html https://www.nytimes.com/2019/04/05/opinion/israel-election-gantz-netanyahu.html https://www.nytimes.com/2019/04/05/opinion/sex-women-abortion-heartbeat-bills.html
+https://www.nytimes.com/2019/04/02/opinion/fcc-wireless-regulation.html
+https://www.nytimes.com/2019/04/02/opinion/joe-biden-2020-presidential-campaign.html https://www.nytimes.com/2019/04/06/opinion/the-best-year-of-our-lives.html
+https://www.nytimes.com/2019/04/02/podcasts/the-daily/black-students-nyc-high-school.html
+https://www.nytimes.com/2019/04/02/opinion/turkey-erdogan-election-defeat.html
+https://www.nytimes.com/2019/04/02/business/dealbook/lyft-ipo-shares.html
+https://www.nytimes.com/2019/04/02/movies/the-wall-review.html https://www.nytimes.com/2019/04/04/movies/the-public-review.html https://www.nytimes.com/2019/04/04/movies/nyc-this-weekend-film-series.html
+https://www.nytimes.com/2019/04/02/us/chicago-election-lightfoot-preckwinkle.html https://www.nytimes.com/2019/04/02/us/chicago-election-results.html https://www.nytimes.com/2019/04/03/us/chicago-mayor-lori-lightfoot.html https://www.nytimes.com/2019/04/03/us/lori-lightfoot-chicago.html
+https://www.nytimes.com/2019/04/02/world/europe/theresa-may-eu-brexit.html
+https://www.nytimes.com/interactive/2019/04/02/learning/02Weekly-News-Quiz-for-Students.html https://www.nytimes.com/2019/04/03/learning/batman-on-a-couch.html https://www.nytimes.com/2019/04/03/learning/learning-with-in-afghanistan-we-laugh-differently.html https://www.nytimes.com/2019/04/04/learning/signs-of-spring.html https://www.nytimes.com/2019/04/04/learning/have-you-ever-felt-like-an-outsider.html https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/02/arts/dance/martha-graham-pam-tanowitz-maxine-doyle.html https://www.nytimes.com/2019/04/03/arts/dance/dance-theater-of-harlem-arthur-mitchells-dream-at-50.html https://www.nytimes.com/2019/04/04/arts/dance/secular-games-martha-graham-speaking-in-dance.html https://www.nytimes.com/2019/04/04/arts/dance/nyc-this-weekend-dance.html
+https://www.nytimes.com/2019/04/02/realestate/commercial/new-york-commercial-real-estate.html https://www.nytimes.com/2019/04/03/technology/whole-foods-prices.html
+https://www.nytimes.com/2019/04/02/business/new-york-marketplace-remembers-its-immigrant-past.html
+https://www.nytimes.com/2019/04/02/opinion/joe-biden-inappropriate-touching.html https://www.nytimes.com/2019/04/03/opinion/ron-wyden-tax-inequality.html https://www.nytimes.com/2019/04/04/opinion/sex-americans-internet.html https://www.nytimes.com/2019/04/05/opinion/wisconsin-supreme-court-democrats.html https://www.nytimes.com/2019/04/08/opinion/trump-tax-returns-democrats.html
+https://www.nytimes.com/2019/04/02/world/europe/uk-house-of-commons-protest.html https://www.nytimes.com/2019/04/03/world/europe/jeremy-corbyn-soldiers.html https://www.nytimes.com/2019/04/06/world/europe/uk-british-passport-brexit.html https://www.nytimes.com/2019/04/06/arts/television/uk-coronation-street-black-family.html
+https://www.nytimes.com/2019/04/02/us/california-san-francisco-homelessness-nipsey-hussle.html https://www.nytimes.com/2019/04/03/us/california-nipsey-hussle-fatburger-suspect.html https://www.nytimes.com/2019/04/04/us/nyt-keeping-up-with-the-kardashians.html https://www.nytimes.com/2019/04/05/us/california-virtual-solar-power-sunrun.html
+https://www.nytimes.com/2019/04/02/us/politics/obamacare-donald-trump.html https://www.nytimes.com/2019/04/03/us/politics/trump-obamacare.html https://www.nytimes.com/2019/04/03/us/politics/house-intelligence-trump-inaugural.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/02/world/europe/plastic-whale-dead-italy.html https://www.nytimes.com/2019/04/03/world/asia/brunei-stoning-gay-sex.html https://www.nytimes.com/2019/04/04/world/europe/parliament-water-leak.html https://www.nytimes.com/2019/04/07/world/europe/novichok-charlie-rowley-russian-skripal.html
+https://www.nytimes.com/2019/04/02/world/asia/philippines-duterte-drug-war.html https://www.nytimes.com/2019/04/07/world/asia/philippines-illegal-guns.html
+https://www.nytimes.com/2019/04/02/dining/zagat-guide-infatuation.html https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/02/movies/christ-stopped-at-eboli-levi-rosi.html
+https://www.nytimes.com/2019/04/02/us/politics/bernie-sanders-fundraising-18-million-2020.html https://www.nytimes.com/2019/04/03/us/politics/beto-fundraising.html
+https://www.nytimes.com/2019/04/02/us/politics/prepublication-censorship-system.html https://www.nytimes.com/2019/04/04/us/politics/national-emergency-act-lawsuit.html https://www.nytimes.com/2019/04/07/us/politics/barr-redactions-mueller-report.html
+https://www.nytimes.com/2019/04/02/opinion/letters/new-york-parks-dept-sexual-harassment.html
+https://www.nytimes.com/2019/04/02/opinion/vladimir-nabokov-literary-refugee.html
+https://www.nytimes.com/2019/04/02/opinion/palestinian-peace-plan-us-aid.html
+https://www.nytimes.com/2019/04/02/opinion/fighting-sex-trafficking-at-the-truck-stop.html
+https://www.nytimes.com/2019/04/02/business/equal-pay-day.html https://www.nytimes.com/2019/04/05/us/joe-biden-women-video.html
+https://www.nytimes.com/2019/04/02/movies/dumbo-michael-buffer-lets-get-ready-to-rumble.html https://www.nytimes.com/2019/04/04/movies/terry-gilliam-don-quixote.html https://www.nytimes.com/2019/04/04/arts/television/star-trek-discovery-through-the-valley-of-shadows-recap.html
+https://www.nytimes.com/2019/04/02/dining/catering-lingo.html https://www.nytimes.com/2019/04/02/dining/catering-new-york-city-hotbox-lee-brothers.html
+https://www.nytimes.com/2019/04/02/theater/death-in-venice-ivo-van-hove-nico-muhly.html
+https://www.nytimes.com/2019/04/02/dining/catering-new-york-city-hotbox-lee-brothers.html
+https://www.nytimes.com/slideshow/2019/04/02/dining/standard-grill-nyc.html
+https://www.nytimes.com/2019/04/02/dining/standard-grill-review.html
+https://www.nytimes.com/2019/04/02/reader-center/israel-election-netanyahu.html
+https://www.nytimes.com/2019/04/02/sports/one-done-final-four.html https://www.nytimes.com/2019/04/02/sports/north-carolina-women-basketball.html https://www.nytimes.com/2019/04/03/sports/bryce-harper-bat-flip.html https://www.nytimes.com/2019/04/05/sports/baseball/secondary-average.html https://www.nytimes.com/2019/04/08/sports/ncaa-final-overunder-virginia-texas-tech.html
+https://www.nytimes.com/2019/04/02/sports/north-carolina-women-basketball.html https://www.nytimes.com/2019/04/03/sports/bryce-harper-bat-flip.html https://www.nytimes.com/2019/04/05/sports/baseball/secondary-average.html https://www.nytimes.com/2019/04/08/sports/ncaa-final-overunder-virginia-texas-tech.html
+https://www.nytimes.com/2019/04/02/t-magazine/paul-anthony-smith-art.html
+https://www.nytimes.com/2019/04/02/dining/nyc-restaurant-news.html
+https://www.nytimes.com/2019/04/02/business/wynn-resorts-sexual-misconduct-steve-wynn.html https://www.nytimes.com/2019/04/03/business/jones-day-pregnancy-discrimination.html https://www.nytimes.com/2019/04/04/business/gun-control-banks.html https://www.nytimes.com/2019/04/05/business/motel-6-ice-lawsuit.html https://www.nytimes.com/2019/04/05/business/david-malpass-world-bank.html
+https://www.nytimes.com/2019/04/02/us/robin-hayes-nc-indictment.html https://www.nytimes.com/2019/04/04/us/north-carolina-republicans.html https://www.nytimes.com/2019/04/04/sports/north-carolina-sylvia-hatchell.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html
+https://www.nytimes.com/2019/04/02/nyregion/bowery-savings-bank-records.html
+https://www.nytimes.com/2019/04/02/nyregion/nyc-property-tax-assessments.html
+https://www.nytimes.com/2019/04/02/reader-center/atop-a-300-foot-ladder-a-swaying-tower-and-a-dose-of-empathy.html https://www.nytimes.com/2019/04/03/climate/nyt-climate-fwd-newsletter.html
+https://www.nytimes.com/2019/04/02/world/europe/theresa-may-labour-brexit.html https://www.nytimes.com/2019/04/03/world/europe/theresa-may-jeremy-corbyn-brexit.html https://www.nytimes.com/2019/04/03/world/europe/theresa-may-jeremy-corbyn-brexit-odd-couple.html https://www.nytimes.com/2019/04/04/world/europe/brexit-extension.html
+https://www.nytimes.com/2019/04/02/us/trump-puerto-rico.html https://www.nytimes.com/2019/04/04/us/politics/mexico-border-trump.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html https://www.nytimes.com/2019/04/07/us/puerto-rico-trump-vieques.html
+https://www.nytimes.com/2019/04/02/books/review/brian-switek-skeleton-keys-bone.html
+https://www.nytimes.com/2019/04/02/world/canada/quebec-montreal-head-scarf-religion.html
+https://www.nytimes.com/2019/04/02/opinion/letters/airline-pilots-manual-flight-training.html
+https://www.nytimes.com/2019/04/02/opinion/letters/nra-domestic-abuse.html
+https://www.nytimes.com/2019/04/02/arts/national-endowment-for-the-humanities-grants.html https://www.nytimes.com/2019/04/03/theater/shakespeare-modern-english-play-on-festival.html
+https://www.nytimes.com/2019/04/02/opinion/letters/central-america-aid.html
+https://www.nytimes.com/2019/04/02/arts/music/kings-college-choir-review.html https://www.nytimes.com/2019/04/05/arts/music/phil-the-hall-review.html
+https://www.nytimes.com/2019/04/02/opinion/letters/languages-study.html
+https://www.nytimes.com/2019/04/02/business/airlines-cameras-privacy.html
+https://www.nytimes.com/2019/04/02/obituaries/what-they-left-behind.html
+https://www.nytimes.com/2019/04/02/fashion/weddings/a-destination-wedding-with-cultural-significance.html https://www.nytimes.com/2019/04/05/nyregion/sara-haines-abc-sunday-routine.html https://www.nytimes.com/2019/04/05/travel/five-places-to-shop-around-mumbai.html
+https://www.nytimes.com/2019/04/02/books/review/last-stone-mark-bowden.html
+https://www.nytimes.com/2019/04/02/movies/agnes-varda-memory.html https://www.nytimes.com/2019/04/03/movies/shazam-review.html https://www.nytimes.com/2019/04/04/movies/high-life-review.html
+https://www.nytimes.com/2019/04/02/books/review/ann-beattie-a-wonderful-stroke-of-luck.html
+https://www.nytimes.com/2019/04/02/books/review-women-talking-miriam-toews.html
+https://www.nytimes.com/2019/04/02/opinion/joe-biden-metoo-president.html https://www.nytimes.com/2019/04/05/opinion/sunday/fortnite-social-play-children.html
+https://www.nytimes.com/2019/04/02/briefing/brexit-india-lion-air-your-wednesday-briefing.html https://www.nytimes.com/2019/04/04/arts/design/cj-hendry-instagram-drawings.html
+https://www.nytimes.com/2019/04/02/opinion/government-censorship.html
+https://www.nytimes.com/2019/04/02/parenting/spanking-children.html
+https://www.nytimes.com/2019/04/02/sports/porzingis-rape-investigation-mavericks.html https://www.nytimes.com/2019/04/02/sports/alliance-of-american-football-folding.html
+https://www.nytimes.com/2019/04/02/world/africa/Abdelaziz-Bouteflika-resigns.html https://www.nytimes.com/2019/04/03/world/africa/algeria-bouteflika-what-now.html https://www.nytimes.com/2019/04/06/world/europe/france-china-wine.html
+https://www.nytimes.com/2019/04/02/world/middleeast/iran-floods-trump-sanctions.html
+https://www.nytimes.com/2019/04/02/style/tiny-modern-love-stories-i-kept-falling-in-love-with-other-people.html
+https://www.nytimes.com/2019/04/02/style/winnies-karaoke-bar-chinatown.html
+https://www.nytimes.com/2019/04/02/style/couples-therapy-podcasts.html
+https://www.nytimes.com/2019/04/02/us/bald-eagles-trash-seattle.html https://www.nytimes.com/2019/04/03/us/waco-motorcycle-gang-shootout.html https://www.nytimes.com/2019/04/04/us/timmothy-pitzen-missing.html https://www.nytimes.com/2019/04/05/us/chris-darden-nipsey-hussle-public-defender.html
+https://www.nytimes.com/2019/04/02/business/media/media-companies-take-a-big-gamble-on-apple.html https://www.nytimes.com/2019/04/04/business/media/conde-nast-ceo-roger-lynch.html
+https://www.nytimes.com/2019/04/02/world/europe/rome-jewels-etruscan-museum.html
+https://www.nytimes.com/2019/04/02/us/lesley-mcspadden-loses-election.html
+https://www.nytimes.com/interactive/2019/04/02/climate/pricing-carbon-emissions.html https://www.nytimes.com/2019/04/03/climate/fact-check-trump-windmills.html
+https://www.nytimes.com/2019/04/02/books/review/jericho-brown-tradition-poems.html
+https://www.nytimes.com/2019/04/02/us/border-patrol-protest-univ-of-arizona.html https://www.nytimes.com/2019/04/04/us/vincent-j-rogers-ww2.html
+https://www.nytimes.com/2019/04/02/sports/alliance-of-american-football-folding.html
+https://www.nytimes.com/2019/04/02/books/review/ben-shapiro-the-right-side-of-history-michael-a-cohen-micah-zenko-clear-and-present-safety.html
+https://www.nytimes.com/2019/04/02/parenting/child-discipline.html
+https://www.nytimes.com/2019/04/02/world/americas/us-immigration-crackdown.html
+https://www.nytimes.com/2019/04/02/smarter-living/wirecutter/how-to-find-a-sports-bra-that-actually-fits.html
+https://www.nytimes.com/2019/04/02/us/eric-holder-arrested-nipsey-hussle.html
+https://www.nytimes.com/2019/04/02/technology/for-him-for-hers-get-roman.html https://www.nytimes.com/2019/04/03/health/drug-prices-insulin-express-scripts.html https://www.nytimes.com/2019/04/03/technology/amazon-facial-recognition-technology.html https://www.nytimes.com/2019/04/04/health/memorial-sloan-kettering-conflicts-.html
+https://www.nytimes.com/2019/04/02/us/mar-a-lago-zhang-chinese-secret-service.html
+https://www.nytimes.com/2019/04/02/obituaries/charles-sanna-dead.html https://www.nytimes.com/2019/04/03/obituaries/david-fechheimer-dead.html https://www.nytimes.com/2019/04/05/obituaries/sydel-silverman-dead.html
+https://www.nytimes.com/2019/04/02/style/modern-love-college-students-100-word-tiny-love-stories.html
+https://www.nytimes.com/2019/04/02/world/middleeast/saudi-arabia-khashoggi-children-payments.html https://www.nytimes.com/2019/04/03/world/middleeast/israel-election-ads-netanyahu-gantz.html https://www.nytimes.com/2019/04/03/world/middleeast/israel-zachary-baumel-recovered.html https://www.nytimes.com/2019/04/04/world/middleeast/israel-election-rap-tamer-nafar.html https://www.nytimes.com/2019/04/04/world/africa/libya-tripoli-militia-hifter.html https://www.nytimes.com/2019/04/05/world/middleeast/american-detainees-saudi-arabia.html https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/02/nyregion/murders-brooklyn-gangs-nyc.html
+https://www.nytimes.com/2019/04/02/briefing/health-care-brexit-joe-biden.html https://www.nytimes.com/2019/04/03/briefing/rupert-murdoch-joe-biden-mozambique.html https://www.nytimes.com/2019/04/04/briefing/trade-boeing-jeff-bezos-.html https://www.nytimes.com/2019/04/05/briefing/fed-boeing-lil-nas-x.html https://www.nytimes.com/2019/04/07/briefing/mueller-report-fed-mindfulness.html
+https://www.nytimes.com/2019/04/02/business/media/disney-gender-discrimination-lawsuit.html https://www.nytimes.com/2019/04/03/business/media/woody-allen-amazon-lawsuit.html https://www.nytimes.com/2019/04/07/movies/shazam-box-office-pet-sematary.html https://www.nytimes.com/2019/04/07/business/media/movie-rentals-red-carpet-home-cinema.html
+https://www.nytimes.com/2019/04/02/world/americas/trump-funding-central-america.html https://www.nytimes.com/2019/04/03/world/europe/ireland-northern-ireland-brexit-backstop.html https://www.nytimes.com/2019/04/05/world/europe/us-icc-prosecutor-afghanistan.html https://www.nytimes.com/2019/04/06/world/middleeast/iran-floods-evacuations.html
+https://www.nytimes.com/2019/04/02/business/boeing-whistleblowers-faa-senate.html https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html
+https://www.nytimes.com/2019/04/02/opinion/trump-border-mexico.html
+https://www.nytimes.com/2019/04/02/world/europe/brexit-no-deal-outcomes.html https://www.nytimes.com/2019/04/05/business/uk-gender-pay-gap.html
+https://www.nytimes.com/2019/04/02/health/mozambique-cyclone-flooding-cholera.html https://www.nytimes.com/2019/04/03/health/measles-outbreaks-ukraine-israel.html
+https://www.nytimes.com/2019/04/02/reader-center/russian-spies-reporting.html
+https://www.nytimes.com/2019/04/02/us/chicago-election-results.html https://www.nytimes.com/2019/04/03/us/chicago-mayor-lori-lightfoot.html https://www.nytimes.com/2019/04/03/us/lori-lightfoot-chicago.html https://www.nytimes.com/2019/04/04/us/timmothy-pitzen-missing.html https://www.nytimes.com/2019/04/05/us/timmothy-pitzen-missing-brian-rini.html
+https://www.nytimes.com/2019/04/02/nyregion/mta-cuomo-congestion-pricing.html https://www.nytimes.com/2019/04/04/nyregion/congestion-pricing-trucks-new-jersey.html
+https://www.nytimes.com/2019/04/02/sports/bob-bryan-hip-surgery.html https://www.nytimes.com/2019/04/04/sports/serena-williams-rafael-nadal.html
+https://www.nytimes.com/2019/04/02/insider/generation-z.html
+https://www.nytimes.com/2019/04/02/us/politics/trump-mexico-border-economy.html https://www.nytimes.com/2019/04/02/business/trump-fed-stephen-moore.html https://www.nytimes.com/2019/04/04/business/economy/trump-xi-china-trade-meeting.html https://www.nytimes.com/2019/04/05/business/economy/trump-fed-interest-rates.html
+https://www.nytimes.com/2019/04/02/opinion/brexit-news.html
+https://www.nytimes.com/2019/04/02/sports/yankees-injuries-miguel-andujar.html https://www.nytimes.com/2019/04/03/sports/yankees-aaron-boone.html
+https://www.nytimes.com/2019/04/02/us/politics/democrats-budget-spending-caps.html https://www.nytimes.com/2019/04/04/us/politics/nra-violence-against-women-act.html https://www.nytimes.com/2019/04/04/us/politics/national-emergency-act-lawsuit.html https://www.nytimes.com/2019/04/06/us/politics/trump-jews-border-asylum.html
+https://www.nytimes.com/2019/04/02/us/politics/joe-biden-women-me-too.html https://www.nytimes.com/2019/04/03/us/politics/joe-biden-women-video.html https://www.nytimes.com/2019/04/03/us/politics/house-democrats-yemen-anti-semitism.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet-meme.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html
+https://www.nytimes.com/2019/04/02/world/canada/trudeau-liberal-expel-minister.html
+https://www.nytimes.com/2019/04/02/world/europe/trump-nato-military-spending.html https://www.nytimes.com/2019/04/03/us/politics/nato-congress-russia-.html
+https://www.nytimes.com/2019/04/02/sports/ronald-acuna-contract-extension-atlanta-braves.html https://www.nytimes.com/2019/04/02/sports/russell-westbrook-nipsey-hussle.html
+https://www.nytimes.com/2019/04/02/sports/nwhl-nhl.html https://www.nytimes.com/2019/04/03/sports/us-womens-national-team-hockey.html
+https://www.nytimes.com/2019/04/02/business/trump-fed-stephen-moore.html https://www.nytimes.com/2019/04/03/us/politics/trump-administration-venezuela-aid.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/steven-mnuchin-ethics-office.html https://www.nytimes.com/2019/04/05/business/economy/trump-fed-interest-rates.html https://www.nytimes.com/2019/04/05/business/herman-cain-federal-reserve.html
+https://www.nytimes.com/2019/04/02/opinion/erdogan-turkey-elections.html
+https://www.nytimes.com/video/us/politics/100000006439696/lori-lightfoot-chicago-mayor.html
+https://www.nytimes.com/2019/04/02/us/politics/house-subpoena-carl-kline.html https://www.nytimes.com/2019/04/04/us/eric-holder-nipsey-hussle.html https://www.nytimes.com/2019/04/04/us/politics/jovita-carranza-small-business-administration.html https://www.nytimes.com/2019/04/06/us/texas-inmate-wool-allergy.html https://www.nytimes.com/2019/04/06/us/family-separation-trump-administration.html
+https://www.nytimes.com/2019/04/02/pageoneplus/corrections-april-3-2019.html
+https://www.nytimes.com/2019/04/02/todayspaper/quotation-of-the-day-sauna-arrest-nabs-fugitive-in-the-flesh.html
+https://www.nytimes.com/2019/04/02/theater/faust-mabou-mines-review.html https://www.nytimes.com/2019/04/07/theater/oasis-review.html
+https://www.nytimes.com/2019/04/02/crosswords/daily-puzzle-2019-04-03.html https://www.nytimes.com/2019/04/03/crosswords/daily-puzzle-2019-04-04.html https://www.nytimes.com/2019/04/04/crosswords/daily-puzzle-2019-04-05.html https://www.nytimes.com/2019/04/07/crosswords/daily-puzzle-2019-04-08.html
+https://www.nytimes.com/2019/04/02/world/americas/venezuela-guaido-immunity.html
+https://www.nytimes.com/2019/04/02/briefing/brexit-algeria-erdogan-cholera.html https://www.nytimes.com/2019/04/04/briefing/rupert-murdoch-trump-tax-returns-mueller.html https://www.nytimes.com/2019/04/04/briefing/china-boeing-trump-uber-drivers.html https://www.nytimes.com/2019/04/07/briefing/china-honduras-brexit-candida.html
+https://www.nytimes.com/2019/04/02/sports/russell-westbrook-nipsey-hussle.html
+https://www.nytimes.com/2019/04/03/world/asia/najib-case-malaysia.html https://www.nytimes.com/2019/04/03/world/asia/hong-kong-extradition-law-china.html https://www.nytimes.com/interactive/2019/04/04/world/asia/xinjiang-china-surveillance-prison.html
+https://www.nytimes.com/2019/04/03/sports/mets-marlins.html https://www.nytimes.com/2019/04/03/sports/jacob-degrom-mets-marlins.html https://www.nytimes.com/2019/04/04/sports/mets-home-opener.html https://www.nytimes.com/2019/04/06/sports/mets-nationals-keon-broxton-jd-davis.html https://www.nytimes.com/2019/04/07/sports/mets-nationals.html
+https://www.nytimes.com/2019/04/03/us/politics/trump-health-care.html
+https://www.nytimes.com/2019/04/03/arts/television/whats-on-tv-wednesday-youre-the-worst-and-brockmire.html https://www.nytimes.com/2019/04/04/arts/television/whats-on-tv-thursday-in-the-dark-and-marvels-cloak-dagger.html https://www.nytimes.com/2019/04/05/arts/television/whats-on-tv-friday-wyatt-cenacs-problem-areas-and-unicorn-store.html https://www.nytimes.com/2019/04/07/arts/television/whats-on-tv-sunday-killing-eve-and-the-chi.html https://www.nytimes.com/2019/04/07/arts/charles-gaines-edward-macdowell-medal.html
+https://www.nytimes.com/2019/04/03/sports/tottenham-hotspur-stadium.html https://www.nytimes.com/2019/04/03/sports/juventus-racism-moise-kean.html https://www.nytimes.com/2019/04/03/sports/tottenham-hotspur-stadium-crystal-palace.html
+https://www.nytimes.com/2019/04/03/learning/03WODLN.html
+https://www.nytimes.com/2019/04/03/learning/batman-on-a-couch.html https://www.nytimes.com/2019/04/03/learning/learning-with-in-afghanistan-we-laugh-differently.html https://www.nytimes.com/2019/04/04/learning/signs-of-spring.html https://www.nytimes.com/2019/04/04/learning/have-you-ever-felt-like-an-outsider.html https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/03/business/economy/japan-economy-china-abenomics.html https://www.nytimes.com/2019/04/03/business/carlos-ghosn-nissan-twitter.html https://www.nytimes.com/2019/04/03/business/carlos-ghosn-arrest.html https://www.nytimes.com/2019/04/04/business/carlos-ghosn-carole-wife-japan-nissan-arrest.html
+https://www.nytimes.com/2019/04/03/arts/television/killing-eve-phoebe-waller-bridge-jodie-comer.html
+https://www.nytimes.com/2019/04/03/arts/television/game-of-thrones-season-8-questions.html https://www.nytimes.com/2019/04/03/arts/television/game-of-thrones-studio-tour-2020.html https://www.nytimes.com/2019/04/04/arts/television/game-of-thrones-series.html https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-locations.html
+https://www.nytimes.com/2019/04/03/business/carlos-ghosn-nissan-twitter.html https://www.nytimes.com/2019/04/03/business/carlos-ghosn-arrest.html https://www.nytimes.com/2019/04/04/business/carlos-ghosn-carole-wife-japan-nissan-arrest.html https://www.nytimes.com/2019/04/05/business/swedbank-money-laundering.html https://www.nytimes.com/2019/04/05/business/eu-collusion-bmw-vw-daimler-emissions.html https://www.nytimes.com/2019/04/06/business/swedbank-danske-bank-scandal.html
+https://www.nytimes.com/2019/04/03/learning/learning-with-in-afghanistan-we-laugh-differently.html https://www.nytimes.com/2019/04/04/learning/signs-of-spring.html https://www.nytimes.com/2019/04/04/learning/have-you-ever-felt-like-an-outsider.html https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/03/lens/what-if-mexico-still-included-california-nevada-and-texas.html https://www.nytimes.com/2019/04/05/universal/es/migrantes-cubanos-mexico.html https://www.nytimes.com/video/t-magazine/100000006447310/on-set-virgil-abloh.html
+https://www.nytimes.com/2019/04/03/arts/television/game-of-thrones-studio-tour-2020.html https://www.nytimes.com/2019/04/04/arts/television/game-of-thrones-series.html https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-locations.html
+https://www.nytimes.com/video/magazine/100000006349886/fox-news-trump-administration.html https://www.nytimes.com/interactive/2019/04/03/magazine/rupert-murdoch-fox-news-trump.html https://www.nytimes.com/interactive/2019/04/03/magazine/james-murdoch-lachlan-succession.html https://www.nytimes.com/interactive/2019/04/03/magazine/new-fox-corporation-disney-deal.html
+https://www.nytimes.com/2019/04/03/arts/television/stephen-colbert-trump-mcconnell-health-care.html https://www.nytimes.com/2019/04/03/arts/music/public-records-gowanus-music-scene.html https://www.nytimes.com/2019/04/04/arts/television/trevor-noah-trump-father-germany.html https://www.nytimes.com/2019/04/05/arts/television/stephen-colbert-barr-letter.html https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/03/travel/when-it-comes-to-travel-rewards-younger-travelers-are-being-heard.html
+https://www.nytimes.com/2019/04/03/learning/what-is-hard-about-being-a-boy.html https://www.nytimes.com/2019/04/04/learning/learning-with-how-the-trump-era-is-molding-the-next-generation-of-voters.html https://www.nytimes.com/2019/04/05/learning/learning-with-did-dietary-changes-bring-us-f-words-study-tackles-complexities-of-languages-origins.html https://www.nytimes.com/2019/04/05/learning/would-you-want-to-be-proposed-to-on-a-jumbotron.html
+https://www.nytimes.com/2019/04/03/magazine/lead-poisoning-military-soldiers.html
+https://www.nytimes.com/2019/04/03/well/family/how-to-raise-vegetable-eaters.html
+https://www.nytimes.com/2019/04/03/well/move/heart-health-swimming-running-exercise.html
+https://www.nytimes.com/2019/04/03/magazine/lionel-messis-viral-goals.html
+https://www.nytimes.com/2019/04/03/magazine/date-and-walnut-bars-food-for-the-gods.html
+https://www.nytimes.com/2019/04/03/upshot/americas-biggest-economic-challenge-may-be-demographic-decline.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/05/upshot/the-march-job-numbers-tell-us-the-economy-is-still-doing-fine.html https://www.nytimes.com/2019/04/06/upshot/fed-moore-cain-risk-partisanship.html https://www.nytimes.com/2019/04/06/upshot/australia-lessons-economic-miracle.html
+https://www.nytimes.com/2019/04/03/world/middleeast/sisi-egypt-soap-opera.html
+https://www.nytimes.com/2019/04/03/travel/plan-a-careful-budget-then-get-ready-to-splurge.html
+https://www.nytimes.com/2019/04/03/sports/us-womens-national-team-hockey.html
+https://www.nytimes.com/2019/04/03/arts/design/christos-next-project-wrapping-the-arc-de-triomphe.html https://www.nytimes.com/2019/04/04/arts/design/guide-the-shed-hudson-yards.html https://www.nytimes.com/2019/04/07/arts/the-shed-soundtrack-of-america-reich-richter-part-trisha-donnelly.html
+https://www.nytimes.com/2019/04/03/business/economy/immigration-labor-economy.html
+https://www.nytimes.com/2019/04/03/books/review/adam-higginbotham-midnight-in-chernobyl.html
+https://www.nytimes.com/2019/04/03/us/politics/trump-republican-party.html https://www.nytimes.com/2019/04/03/us/politics/joe-biden-women-video.html https://www.nytimes.com/2019/04/06/us/politics/biden-2020.html
+https://www.nytimes.com/2019/04/03/us/usc-admissions-scandal-students.html
+https://www.nytimes.com/2019/04/03/technology/personaltech/apple-airpods-review.html
+https://www.nytimes.com/2019/04/03/nyregion/new-york-city-women-in-the-house-of-representatives.html
+https://www.nytimes.com/slideshow/2019/04/03/realestate/living-in-long-beach-ny.html
+https://www.nytimes.com/2019/04/03/realestate/long-beach-ny-a-bedroom-community-that-began-as-a-resort.html https://www.nytimes.com/2019/04/05/realestate/hudson-yards-a-city-within-a-city.html https://www.nytimes.com/2019/04/07/realestate/homes-that-sold-for-around-450000.html
+https://www.nytimes.com/interactive/2019/04/03/magazine/rupert-murdoch-fox-news-trump.html https://www.nytimes.com/interactive/2019/04/03/magazine/james-murdoch-lachlan-succession.html https://www.nytimes.com/interactive/2019/04/03/magazine/new-fox-corporation-disney-deal.html
+https://www.nytimes.com/interactive/2019/04/03/magazine/james-murdoch-lachlan-succession.html https://www.nytimes.com/interactive/2019/04/03/magazine/new-fox-corporation-disney-deal.html
+https://www.nytimes.com/interactive/2019/04/03/magazine/murdoch-family-investigation.html https://www.nytimes.com/2019/04/04/nyregion/thomas-alonzo-bolin-white-supremacist.html
+https://www.nytimes.com/interactive/2019/04/03/magazine/new-fox-corporation-disney-deal.html
+https://www.nytimes.com/2019/04/03/world/asia/china-school-knife-attack-hunan.html
+https://www.nytimes.com/2019/04/03/nyregion/newyorktoday/nyc-news-women-mayor-election.html https://www.nytimes.com/2019/04/04/nyregion/newyorktoday/nyc-news-the-city-jere-hester.html https://www.nytimes.com/2019/04/05/nyregion/newyorktoday/nyc-news-shed-hudson-yards.html https://www.nytimes.com/2019/04/08/nyregion/newyorktoday/nyc-news-de-blasio-president.html
+https://www.nytimes.com/2019/04/03/briefing/lori-lightfoot-brunei-russell-westbrook.html https://www.nytimes.com/2019/04/04/briefing/boeing-robert-mueller-measles.html https://www.nytimes.com/interactive/2019/04/05/briefing/05weeklynewsquiz.html https://www.nytimes.com/2019/04/05/briefing/herman-cain-brexit-final-four.html https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/03/opinion/latino-voters.html
+https://www.nytimes.com/2019/04/03/opinion/iran-trump-sanctions.html
+https://www.nytimes.com/2019/04/03/opinion/joe-biden-media.html
+https://www.nytimes.com/2019/04/03/podcasts/the-daily/trump-health-care-aca.html
+https://www.nytimes.com/2019/04/03/opinion/mount-athos-monks.html
+https://www.nytimes.com/2019/04/03/health/drug-prices-insulin-express-scripts.html https://www.nytimes.com/2019/04/04/health/memorial-sloan-kettering-conflicts-.html
+https://www.nytimes.com/2019/04/03/business/dealbook/murdoch-fox.html
+https://www.nytimes.com/2019/04/03/world/europe/jeremy-corbyn-soldiers.html https://www.nytimes.com/2019/04/06/world/europe/uk-british-passport-brexit.html https://www.nytimes.com/2019/04/06/arts/television/uk-coronation-street-black-family.html
+https://www.nytimes.com/2019/04/03/arts/design/review-siobhan-liddell-design-art-gallery.html https://www.nytimes.com/2019/04/04/arts/design/whitney-museum-nam-june-paik.html
+https://www.nytimes.com/2019/04/03/world/europe/theresa-may-jeremy-corbyn-brexit.html https://www.nytimes.com/2019/04/04/world/europe/brexit-extension.html
+https://www.nytimes.com/2019/04/03/us/chicago-mayor-lori-lightfoot.html https://www.nytimes.com/2019/04/03/us/lori-lightfoot-chicago.html
+https://www.nytimes.com/2019/04/03/technology/personaltech/david-sanger-national-security.html https://www.nytimes.com/2019/04/04/us/politics/nato-anniversary.html
+https://www.nytimes.com/2019/04/03/arts/dance/dance-theater-of-harlem-arthur-mitchells-dream-at-50.html https://www.nytimes.com/2019/04/04/arts/dance/secular-games-martha-graham-speaking-in-dance.html https://www.nytimes.com/2019/04/04/arts/dance/nyc-this-weekend-dance.html
+https://www.nytimes.com/2019/04/03/opinion/ron-wyden-tax-inequality.html https://www.nytimes.com/2019/04/04/opinion/sex-americans-internet.html https://www.nytimes.com/2019/04/05/opinion/wisconsin-supreme-court-democrats.html https://www.nytimes.com/2019/04/08/opinion/trump-tax-returns-democrats.html
+https://www.nytimes.com/2019/04/03/world/asia/hong-kong-extradition-law-china.html https://www.nytimes.com/interactive/2019/04/04/world/asia/xinjiang-china-surveillance-prison.html
+https://www.nytimes.com/2019/04/03/world/europe/ireland-northern-ireland-brexit-backstop.html https://www.nytimes.com/2019/04/05/world/europe/brexit-extension-theresa-may.html https://www.nytimes.com/2019/04/05/world/europe/us-icc-prosecutor-afghanistan.html https://www.nytimes.com/2019/04/06/world/middleeast/iran-floods-evacuations.html https://www.nytimes.com/2019/04/07/world/europe/theresa-may-brexit-compromise.html
+https://www.nytimes.com/2019/04/03/business/dealbook/iheartmedia-ipo-radio.html https://www.nytimes.com/2019/04/05/business/media/lil-nas-x-billy-ray-cyrus-billboard.html https://www.nytimes.com/2019/04/07/technology/pinterest-ipo.html
+https://www.nytimes.com/slideshow/2019/04/03/realestate/what-you-get-for-875000.html
+https://www.nytimes.com/2019/04/03/realestate/875000-homes-in-north-carolina-wisconsin-and-california.html
+https://www.nytimes.com/2019/04/03/us/california-nipsey-hussle-fatburger-suspect.html https://www.nytimes.com/2019/04/04/us/nyt-keeping-up-with-the-kardashians.html https://www.nytimes.com/2019/04/05/us/california-virtual-solar-power-sunrun.html
+https://www.nytimes.com/2019/04/03/us/transatlantic-slave-trade-last-survivor.html https://www.nytimes.com/2019/04/06/business/fisher-price-rock-n-play-recall.html
+https://www.nytimes.com/slideshow/2019/04/03/realestate/a-waterfront-villa-in-montenegro.html
+https://www.nytimes.com/2019/04/03/realestate/house-hunting-in-montenegro.html
+https://www.nytimes.com/2019/04/03/business/media/accenture-droga5-advertising.html
+https://www.nytimes.com/2019/04/03/theater/john-kani-antony-sher-kunene-and-the-king.html
+https://www.nytimes.com/2019/04/03/sports/juventus-racism-moise-kean.html https://www.nytimes.com/2019/04/03/sports/tottenham-hotspur-stadium-crystal-palace.html
+https://www.nytimes.com/2019/04/03/us/politics/mueller-report-subpoena-house.html https://www.nytimes.com/2019/04/03/us/politics/william-barr-mueller-report.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html
+https://www.nytimes.com/2019/04/03/dining/what-to-cook-in-an-air-fryer.html https://www.nytimes.com/2019/04/05/dining/what-to-cook-this-weekend.html https://www.nytimes.com/2019/04/07/dining/what-to-cook-this-week.html
+https://www.nytimes.com/2019/04/03/health/stem-cells-fda.html
+https://www.nytimes.com/2019/04/03/arts/design/american-folk-art-museum-leader-stepping-down.html https://www.nytimes.com/2019/04/03/nyregion/trump-twitter-block-lawsuit.html
+https://www.nytimes.com/2019/04/03/movies/joker-trailer-joaquin-phoenix.html
+https://www.nytimes.com/2019/04/03/obituaries/gerry-stickells-dead.html https://www.nytimes.com/2019/04/03/obituaries/joe-bellino-dead.html https://www.nytimes.com/2019/04/05/obituaries/vonda-n-mcintyre-dead.html
+https://www.nytimes.com/2019/04/03/health/measles-outbreaks-ukraine-israel.html
+https://www.nytimes.com/2019/04/03/opinion/egypt-activist-alaa-abd-el-fattah-prison-release.html
+https://www.nytimes.com/2019/04/03/opinion/is-being-trans-like-being-an-immigrant.html
+https://www.nytimes.com/2019/04/03/opinion/border-honduras-separation-gangs.html
+https://www.nytimes.com/2019/04/03/opinion/parenting-vaccines-measles.html
+https://www.nytimes.com/video/us/politics/100000006443197/mueller-report-nadler.html
+https://www.nytimes.com/2019/04/03/world/philippines-hotel-influencers-social-media.html https://www.nytimes.com/2019/04/05/us/crispr-albino-lizard.html
+https://www.nytimes.com/2019/04/03/opinion/letters/trump-aid-central-america.html
+https://www.nytimes.com/2019/04/03/world/asia/brunei-stoning-gay-sex.html https://www.nytimes.com/2019/04/04/world/europe/parliament-water-leak.html https://www.nytimes.com/2019/04/07/world/europe/novichok-charlie-rowley-russian-skripal.html
+https://www.nytimes.com/2019/04/03/fashion/southern-clothing-brands.html
+https://www.nytimes.com/2019/04/03/us/alabama-prisons-doj-investigation.html https://www.nytimes.com/2019/04/04/us/politics/barr-summary-mueller.html https://www.nytimes.com/2019/04/05/us/politics/barr-justice-department-gay-lesbian-transgender-employees.html
+https://www.nytimes.com/2019/04/03/t-magazine/kitchen-organization.html
+https://www.nytimes.com/2019/04/03/sports/bryce-harper-bat-flip.html https://www.nytimes.com/2019/04/05/sports/baseball/secondary-average.html https://www.nytimes.com/2019/04/08/sports/ncaa-final-overunder-virginia-texas-tech.html
+https://www.nytimes.com/2019/04/03/technology/amazon-facial-recognition-technology.html
+https://www.nytimes.com/2019/04/03/us/felicity-huffman-lori-loughlin-college-admissions-scandal.html https://www.nytimes.com/2019/04/05/us/harvard-coach-admissions.html
+https://www.nytimes.com/2019/04/03/world/middleeast/israel-election-ads-netanyahu-gantz.html https://www.nytimes.com/2019/04/03/world/middleeast/israel-zachary-baumel-recovered.html https://www.nytimes.com/2019/04/04/world/middleeast/israel-election-rap-tamer-nafar.html https://www.nytimes.com/2019/04/04/world/africa/libya-tripoli-militia-hifter.html https://www.nytimes.com/2019/04/05/world/middleeast/american-detainees-saudi-arabia.html https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/03/climate/nyt-climate-fwd-newsletter.html
+https://www.nytimes.com/interactive/2019/04/03/world/white-extremist-terrorism-christchurch.html https://www.nytimes.com/interactive/2019/04/05/us/politics/2020-democrats-campaign-stops.html
+https://www.nytimes.com/2019/04/03/us/waco-motorcycle-gang-shootout.html https://www.nytimes.com/2019/04/04/us/timmothy-pitzen-missing.html https://www.nytimes.com/2019/04/05/us/chris-darden-nipsey-hussle-public-defender.html
+https://www.nytimes.com/2019/04/03/world/africa/american-kidnap-safari-uganda.html https://www.nytimes.com/2019/04/07/world/africa/uganda-safari-kidnap-kimberly-endicott.html https://www.nytimes.com/2019/04/07/world/africa/sudan-protests-al-bashir.html
+https://www.nytimes.com/slideshow/2019/04/03/style/the-shed-at-hudson-yards-celebrates-its-founders.html
+https://www.nytimes.com/2019/04/03/style/the-shed-hudson-yards-met-museum-rock-music.html https://www.nytimes.com/2019/04/04/style/game-of-thrones-premiere.html
+https://www.nytimes.com/2019/04/03/style/stefania-lavie-owen-beach-bum-harmony-korine.html
+https://www.nytimes.com/2019/04/03/theater/katrina-lenk-the-bands-visit.html
+https://www.nytimes.com/2019/04/03/world/australia/great-barrier-reef-corals-bleaching.html
+https://www.nytimes.com/2019/04/03/books/review-womens-work-megan-stack.html
+https://www.nytimes.com/2019/04/03/world/europe/sinn-fein-mps-brexit.html
+https://www.nytimes.com/2019/04/03/opinion/letters/guns-new-york.html
+https://www.nytimes.com/2019/04/03/opinion/letters/prisons-inmate-deaths.html
+https://www.nytimes.com/2019/04/03/opinion/letters/afghanistan-united-states-war.html
+https://www.nytimes.com/2019/04/03/opinion/letters/whistle-blowers-federal-government.html
+https://www.nytimes.com/2019/04/03/obituaries/sn-goenka-overlooked.html
+https://www.nytimes.com/2019/04/03/opinion/letters/women-travel-solo.html
+https://www.nytimes.com/2019/04/03/fashion/weddings/one-wedding-ceremony-and-12-tiny-receptions.html
+https://www.nytimes.com/2019/04/03/arts/music/public-records-gowanus-music-scene.html https://www.nytimes.com/2019/04/04/arts/television/trevor-noah-trump-father-germany.html https://www.nytimes.com/2019/04/05/arts/television/stephen-colbert-barr-letter.html https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/03/us/politics/beto-fundraising.html
+https://www.nytimes.com/2019/04/03/books/review/what-doesnt-kill-you-makes-you-blacker-damon-young.html
+https://www.nytimes.com/2019/04/03/arts/design/new-york-art-galleries-what-to-see-right-now.html
+https://www.nytimes.com/2019/04/03/books/review/arthur-c-brooks-love-your-enemies.html
+https://www.nytimes.com/2019/04/03/opinion/pete-buttigieg-joe-biden.html
+https://www.nytimes.com/2019/04/03/arts/music/khalid-free-spirit-review.html https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/the-shed-soundtrack-of-america-reich-richter-part-trisha-donnelly.html
+https://www.nytimes.com/2019/04/03/us/politics/trump-obamacare.html
+https://www.nytimes.com/2019/04/03/world/americas/brazil-paternity-dna.html
+https://www.nytimes.com/2019/04/03/world/africa/algeria-bouteflika-what-now.html https://www.nytimes.com/2019/04/06/world/europe/france-china-wine.html
+https://www.nytimes.com/2019/04/03/us/politics/house-intelligence-trump-inaugural.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/03/opinion/facebook-youtube-disinformation.html https://www.nytimes.com/2019/04/06/opinion/internet-meme-joe-biden-trump.html
+https://www.nytimes.com/2019/04/03/opinion/apple-steve-jobs.html
+https://www.nytimes.com/2019/04/03/movies/the-best-of-enemies-review.html https://www.nytimes.com/2019/04/04/movies/peterloo-review.html
+https://www.nytimes.com/2019/04/03/briefing/brunei-najib-razak-great-barrier-reef.html https://www.nytimes.com/2019/04/04/briefing/boeing-robert-mueller-measles.html https://www.nytimes.com/2019/04/04/briefing/boeing-kashgar-congress-party.html
+https://www.nytimes.com/2019/04/03/world/europe/turkey-istanbul-erdogan-ekrem-imamoglu.html
+https://www.nytimes.com/2019/04/03/us/civil-rights-center-fire.html https://www.nytimes.com/2019/04/04/us/texas-immigration-raid.html https://www.nytimes.com/2019/04/07/science/casimir-pulaski-intersex.html
+https://www.nytimes.com/2019/04/03/us/politics/joe-biden-women-video.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet-meme.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/06/us/politics/biden-2020.html
+https://www.nytimes.com/2019/04/03/us/politics/senate-republicans-nuclear-option.html
+https://www.nytimes.com/2019/04/03/theater/shakespeare-modern-english-play-on-festival.html
+https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html https://www.nytimes.com/2019/04/06/world/europe/veggie-discs.html
+https://www.nytimes.com/2019/04/03/technology/whole-foods-prices.html https://www.nytimes.com/2019/04/04/technology/bezos-divorce-mackenzie.html
+https://www.nytimes.com/2019/04/03/business/jones-day-pregnancy-discrimination.html https://www.nytimes.com/2019/04/04/business/gun-control-banks.html https://www.nytimes.com/2019/04/05/business/motel-6-ice-lawsuit.html https://www.nytimes.com/2019/04/05/business/david-malpass-world-bank.html
+https://www.nytimes.com/2019/04/03/us/politics/nato-congress-russia-.html
+https://www.nytimes.com/2019/04/03/world/europe/germany-artist-holocaust-memorial-investigation.html https://www.nytimes.com/2019/04/06/world/europe/obama-berlin-germany.html
+https://www.nytimes.com/2019/04/03/magazine/behind-the-cover-murdochs-empire-of-influence.html
+https://www.nytimes.com/2019/04/03/arts/television/warrior-review.html https://www.nytimes.com/2019/04/05/arts/television/the-chi-review-season-2.html
+https://www.nytimes.com/2019/04/03/world/asia/brunei-hotel-boycotts.html
+https://www.nytimes.com/2019/04/03/science/israel-beresheet-moon.html https://www.nytimes.com/2019/04/04/science/beresheet-israel-moon-orbit.html https://www.nytimes.com/2019/04/04/science/mars-eclipse-moons-phobos-deimos.html https://www.nytimes.com/2019/04/04/science/hayabusa2-ryugu-crater.html
+https://www.nytimes.com/2019/04/03/world/middleeast/israel-zachary-baumel-recovered.html https://www.nytimes.com/2019/04/04/world/middleeast/israel-election-rap-tamer-nafar.html https://www.nytimes.com/2019/04/04/world/africa/libya-tripoli-militia-hifter.html https://www.nytimes.com/2019/04/05/world/middleeast/american-detainees-saudi-arabia.html https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/03/world/europe/mueller-trump-russia-deripaska.html https://www.nytimes.com/2019/04/03/obituaries/natalia-fileva-dead.html
+https://www.nytimes.com/2019/04/03/t-magazine/charles-renfro-kenner-building-set.html
+https://www.nytimes.com/2019/04/03/smarter-living/kick-start-your-reading-habit-with-bite-sized-books.html
+https://www.nytimes.com/2019/04/03/science/predatory-journals-ftc-omics.html
+https://www.nytimes.com/2019/04/03/style/modern-love-podcast-natasha-lyonne.html
+https://www.nytimes.com/2019/04/03/movies/shazam-review.html https://www.nytimes.com/2019/04/04/movies/high-life-review.html
+https://www.nytimes.com/2019/04/03/us/politics/trump-school-lunch-standards.html https://www.nytimes.com/2019/04/05/us/politics/betsy-devos-student-loan-debt-relief.html https://www.nytimes.com/2019/04/07/nyregion/www-bret-hart-attacked.html
+https://www.nytimes.com/2019/04/03/us/politics/trump-administration-venezuela-aid.html https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/steven-mnuchin-ethics-office.html https://www.nytimes.com/2019/04/05/business/herman-cain-federal-reserve.html
+https://www.nytimes.com/2019/04/03/us/archbishop-wilton-gregory.html https://www.nytimes.com/2019/04/04/us/lds-church-lgbt.html
+https://www.nytimes.com/2019/04/03/obituaries/natalia-fileva-dead.html
+https://www.nytimes.com/2019/04/03/world/europe/theresa-may-jeremy-corbyn-brexit-odd-couple.html
+https://www.nytimes.com/2019/04/03/briefing/rupert-murdoch-joe-biden-mozambique.html https://www.nytimes.com/2019/04/04/briefing/trade-boeing-jeff-bezos-.html https://www.nytimes.com/2019/04/05/briefing/fed-boeing-lil-nas-x.html https://www.nytimes.com/2019/04/07/briefing/mueller-report-fed-mindfulness.html
+https://www.nytimes.com/2019/04/03/nyregion/trump-twitter-block-lawsuit.html
+https://www.nytimes.com/2019/04/03/technology/artificial-intelligence-privacy-oecd.html
+https://www.nytimes.com/2019/04/03/opinion/trump-china-trade-deal.html
+https://www.nytimes.com/2019/04/03/us/politics/house-democrats-yemen-anti-semitism.html https://www.nytimes.com/2019/04/04/us/politics/yemen-war-end-vote.html https://www.nytimes.com/2019/04/07/us/politics/democrats-liberals-tension.html
+https://www.nytimes.com/2019/04/03/obituaries/lyle-tuttle-dies.html https://www.nytimes.com/2019/04/04/obituaries/a-rapper-who-came-back-for-his-neighborhood.html
+https://www.nytimes.com/2019/04/03/obituaries/david-fechheimer-dead.html https://www.nytimes.com/2019/04/05/obituaries/sydel-silverman-dead.html
+https://www.nytimes.com/2019/04/03/us/lori-lightfoot-chicago.html https://www.nytimes.com/2019/04/04/us/timmothy-pitzen-missing.html https://www.nytimes.com/2019/04/05/us/timmothy-pitzen-missing-brian-rini.html
+https://www.nytimes.com/2019/04/03/nyregion/teacher-selfie.html https://www.nytimes.com/2019/04/04/nyregion/teacher-missing-staten-island.html
+https://www.nytimes.com/2019/04/03/business/boeing-lawsuit-ralph-nader.html
+https://www.nytimes.com/2019/04/03/opinion/venezuela-maduro-russia.html
+https://www.nytimes.com/2019/04/03/sports/augusta-national-women.html https://www.nytimes.com/2019/04/06/sports/ana-inspiration-augusta-womens-amateur.html https://www.nytimes.com/2019/04/07/sports/jin-young-ko-ana-inspiration.html
+https://www.nytimes.com/2019/04/03/science/diet-vegetables.html https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/03/sports/tottenham-hotspur-stadium-crystal-palace.html
+https://www.nytimes.com/2019/04/03/us/politics/william-barr-mueller-report.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html
+https://www.nytimes.com/2019/04/03/obituaries/joe-bellino-dead.html https://www.nytimes.com/2019/04/05/obituaries/vonda-n-mcintyre-dead.html
+https://www.nytimes.com/2019/04/03/opinion/trump-puerto-rico.html https://www.nytimes.com/2019/04/07/opinion/donald-trump-trumpism.html
+https://www.nytimes.com/2019/04/03/sports/yankees-aaron-boone.html
+https://www.nytimes.com/2019/04/03/opinion/joe-biden.html https://www.nytimes.com/2019/04/05/opinion/sex-women-abortion-heartbeat-bills.html
+https://www.nytimes.com/2019/04/03/us/politics/mar-a-lago-chinese-malware.html https://www.nytimes.com/2019/04/04/us/politics/mexico-border-trump.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/asylum-united-states-migrants-mexico.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/03/pageoneplus/corrections-april-4-2019.html
+https://www.nytimes.com/2019/04/03/climate/fact-check-trump-windmills.html
+https://www.nytimes.com/2019/04/03/business/tesla-sales-elon-musk.html
+https://www.nytimes.com/2019/04/03/world/australia/social-media-law.html https://www.nytimes.com/2019/04/03/world/asia/new-zealand-christchurch-shooting-charged.html
+https://www.nytimes.com/2019/04/03/business/carlos-ghosn-arrest.html https://www.nytimes.com/2019/04/04/business/carlos-ghosn-carole-wife-japan-nissan-arrest.html
+https://www.nytimes.com/2019/04/03/business/pacific-gas-electric-new-ceo.html https://www.nytimes.com/2019/04/05/business/jobs-report-unemployment-march.html
+https://www.nytimes.com/2019/04/03/theater/the-cradle-will-rock-review.html https://www.nytimes.com/2019/04/04/theater/sincerely-oscar-review.html
+https://www.nytimes.com/2019/04/03/sports/jacob-degrom-mets-marlins.html https://www.nytimes.com/2019/04/04/sports/mets-home-opener.html https://www.nytimes.com/2019/04/06/sports/mets-nationals-keon-broxton-jd-davis.html https://www.nytimes.com/2019/04/07/sports/mets-nationals.html
+https://www.nytimes.com/2019/04/03/crosswords/daily-puzzle-2019-04-04.html https://www.nytimes.com/2019/04/04/crosswords/daily-puzzle-2019-04-05.html https://www.nytimes.com/2019/04/07/crosswords/daily-puzzle-2019-04-08.html
+https://www.nytimes.com/2019/04/03/business/media/woody-allen-amazon-lawsuit.html https://www.nytimes.com/2019/04/07/movies/shazam-box-office-pet-sematary.html https://www.nytimes.com/2019/04/07/business/media/movie-rentals-red-carpet-home-cinema.html
+https://www.nytimes.com/2019/04/03/arts/television/youre-the-worst-finale-chris-geere.html https://www.nytimes.com/2019/04/04/theater/titus-andronicus.html https://www.nytimes.com/2019/04/04/theater/nyc-this-weekend-theater.html https://www.nytimes.com/2019/04/07/arts/television/fosse-verdon.html
+https://www.nytimes.com/2019/04/03/world/asia/new-zealand-christchurch-shooting-charged.html
+https://www.nytimes.com/2019/04/04/briefing/rupert-murdoch-trump-tax-returns-mueller.html https://www.nytimes.com/2019/04/04/briefing/china-boeing-trump-uber-drivers.html https://www.nytimes.com/2019/04/07/briefing/china-honduras-brexit-candida.html
+https://www.nytimes.com/2019/04/04/fashion/qatar-luxury-fashion-national-museum-blockade.html https://www.nytimes.com/2019/04/04/fashion/mary-quant-miniskirt-london.html
+https://www.nytimes.com/2019/04/04/opinion/brexit-ireland-and-the-failure-of-the-european-idea.html
+https://www.nytimes.com/2019/04/04/arts/television/whats-on-tv-thursday-in-the-dark-and-marvels-cloak-dagger.html https://www.nytimes.com/2019/04/05/arts/television/whats-on-tv-friday-wyatt-cenacs-problem-areas-and-unicorn-store.html https://www.nytimes.com/2019/04/07/arts/television/whats-on-tv-sunday-killing-eve-and-the-chi.html https://www.nytimes.com/2019/04/07/arts/charles-gaines-edward-macdowell-medal.html
+https://www.nytimes.com/2019/04/04/us/politics/mueller-report-barr.html
+https://www.nytimes.com/2019/04/04/learning/04WODLN.html
+https://www.nytimes.com/2019/04/04/sports/unc-scandal.html https://www.nytimes.com/2019/04/04/sports/notre-dame-uconn-final-four-arike-ogunbowale.html https://www.nytimes.com/2019/04/04/sports/north-carolina-sylvia-hatchell.html https://www.nytimes.com/2019/04/06/sports/michigan-state-final-four.html https://www.nytimes.com/2019/04/06/sports/ncaa-mens-final-four-preview.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/04/fashion/mary-quant-miniskirt-london.html
+https://www.nytimes.com/2019/04/04/learning/signs-of-spring.html https://www.nytimes.com/2019/04/04/learning/have-you-ever-felt-like-an-outsider.html https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/04/nyregion/congestion-pricing-trucks-new-jersey.html
+https://www.nytimes.com/2019/04/04/todayspaper/quotation-of-the-day-congestion-pricing-is-on-its-way-now-the-battle-is-over-who-gets-a-break.html
+https://www.nytimes.com/2019/04/04/movies/suburban-birds-review.html https://www.nytimes.com/2019/04/04/movies/the-fate-of-lee-khan-review.html https://www.nytimes.com/2019/04/04/movies/pet-sematary-review.html
+https://www.nytimes.com/2019/04/04/lens/italian-american-williamsburg-brooklyn.html
+https://www.nytimes.com/2019/04/04/learning/learning-with-how-the-trump-era-is-molding-the-next-generation-of-voters.html https://www.nytimes.com/2019/04/05/learning/learning-with-did-dietary-changes-bring-us-f-words-study-tackles-complexities-of-languages-origins.html https://www.nytimes.com/2019/04/05/learning/would-you-want-to-be-proposed-to-on-a-jumbotron.html
+https://www.nytimes.com/2019/04/04/arts/television/game-of-thrones-series.html https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-locations.html
+https://www.nytimes.com/2019/04/04/world/europe/belgium-kidnapping-congo-rwanda-burundi.html
+https://www.nytimes.com/2019/04/04/magazine/judge-john-hodgman-on-pre-buttered-toast.html
+https://www.nytimes.com/2019/04/04/learning/have-you-ever-felt-like-an-outsider.html https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/04/well/live/doctors-patients-cancer-leukemia-relationships.html
+https://www.nytimes.com/2019/04/04/magazine/diagnosis-the-boy-was-feverish-with-a-swollen-testicle-what-could-he-possibly-have.html
+https://www.nytimes.com/2019/04/04/opinion/the-argument-joe-biden-2020.html
+https://www.nytimes.com/interactive/2019/04/04/realestate/04Hunt.html
+https://www.nytimes.com/2019/04/04/us/uber-safety-tips.html https://www.nytimes.com/2019/04/05/us/chicago-mayor-election-lightfoot-photos.html
+https://www.nytimes.com/2019/04/04/upshot/the-streets-were-never-free-congestion-pricing-finally-makes-that-plain.html
+https://www.nytimes.com/2019/04/04/magazine/poem-sometimes-there-is-a-day.html
+https://www.nytimes.com/2019/04/04/us/fake-uber-driver-assaults.html
+https://www.nytimes.com/2019/04/04/well/family/senioritis-high-school-transition-college.html
+https://www.nytimes.com/2019/04/04/business/dealbook/lyft-ipo-short-sellers.html
+https://www.nytimes.com/2019/04/04/books/review/bangkok-veeraporn-nitiprapha-pitchaya-sudbanthad.html https://www.nytimes.com/2019/04/04/world/asia/ethiopia-crash-boeing.html https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html
+https://www.nytimes.com/2019/04/04/arts/television/review-killing-eve-season-2.html https://www.nytimes.com/2019/04/04/arts/television/best-weekend-tv.html
+https://www.nytimes.com/2019/04/04/sports/serena-williams-rafael-nadal.html
+https://www.nytimes.com/2019/04/04/nyregion/homeless-buildings-sold-de-blasio-democrats.html https://www.nytimes.com/2019/04/05/nyregion/bill-de-blasio-2020.html
+https://www.nytimes.com/2019/04/04/travel/what-to-do-in-st-louis-vacation.html
+https://www.nytimes.com/2019/04/04/us/politics/wisconsin-2020.html
+https://www.nytimes.com/2019/04/04/business/economy-manufacturing-jobs-trump.html
+https://www.nytimes.com/2019/04/04/magazine/marine-corps-sexual-harassment.html
+https://www.nytimes.com/2019/04/04/podcasts/the-daily/mueller-report-barr-summary.html
+https://www.nytimes.com/2019/04/04/magazine/how-asmr-videos-became-a-sensation-youtube.html
+https://www.nytimes.com/interactive/2019/04/04/world/asia/xinjiang-china-surveillance-prison.html
+https://www.nytimes.com/2019/04/04/world/asia/ethiopia-crash-boeing.html https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html
+https://www.nytimes.com/2019/04/04/nyregion/newyorktoday/nyc-news-the-city-jere-hester.html https://www.nytimes.com/2019/04/05/nyregion/newyorktoday/nyc-news-shed-hudson-yards.html https://www.nytimes.com/2019/04/08/nyregion/newyorktoday/nyc-news-de-blasio-president.html
+https://www.nytimes.com/2019/04/04/briefing/boeing-robert-mueller-measles.html https://www.nytimes.com/2019/04/04/briefing/boeing-kashgar-congress-party.html https://www.nytimes.com/interactive/2019/04/05/briefing/05weeklynewsquiz.html https://www.nytimes.com/2019/04/05/briefing/herman-cain-brexit-final-four.html https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/04/opinion/xi-jinping-thought-app.html
+https://www.nytimes.com/2019/04/04/opinion/republicans-health-reforms.html
+https://www.nytimes.com/2019/04/04/opinion/video-games-layoffs-union.html
+https://www.nytimes.com/2019/04/04/opinion/the-electoral-college-slavery-myth.html
+https://www.nytimes.com/2019/04/04/business/gun-control-banks.html https://www.nytimes.com/2019/04/05/business/motel-6-ice-lawsuit.html https://www.nytimes.com/2019/04/05/business/david-malpass-world-bank.html
+https://www.nytimes.com/2019/04/04/theater/simon-stone-trilogy-of-revenge-stanislas-nordey-who-killed-my-father.html
+https://www.nytimes.com/2019/04/04/arts/television/trevor-noah-trump-father-germany.html https://www.nytimes.com/2019/04/05/arts/television/stephen-colbert-barr-letter.html https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/04/business/media/conde-nast-ceo-roger-lynch.html
+https://www.nytimes.com/2019/04/04/business/dealbook/banks-guns.html
+https://www.nytimes.com/2019/04/04/arts/design/saachi-gallery-charity.html
+https://www.nytimes.com/2019/04/04/movies/the-wind-review.html https://www.nytimes.com/2019/04/04/movies/blowin-up-review.html
+https://www.nytimes.com/2019/04/04/movies/blowin-up-review.html
+https://www.nytimes.com/2019/04/04/movies/reinventing-rosalee-review.html
+https://www.nytimes.com/2019/04/04/movies/the-public-review.html https://www.nytimes.com/2019/04/04/movies/nyc-this-weekend-film-series.html
+https://www.nytimes.com/2019/04/04/movies/storm-boy-review.html
+https://www.nytimes.com/2019/04/04/movies/the-fate-of-lee-khan-review.html https://www.nytimes.com/2019/04/04/movies/pet-sematary-review.html
+https://www.nytimes.com/2019/04/04/climate/david-bernhardt-interior-lobbying.html
+https://www.nytimes.com/2019/04/04/world/asia/thailand-elections-future-forward-junta.html
+https://www.nytimes.com/2019/04/04/business/carlos-ghosn-carole-wife-japan-nissan-arrest.html https://www.nytimes.com/2019/04/06/world/asia/naomi-osaka-citizenship.html
+https://www.nytimes.com/2019/04/04/learning/our-10th-annual-spring-poetry-contest-for-teenagers-make-a-new-york-times-blackout-poem.html
+https://www.nytimes.com/2019/04/04/learning/whats-going-on-in-this-graph-april-10-2019.html
+https://www.nytimes.com/slideshow/2019/04/04/realestate/on-the-market-in-the-new-york-region.html
+https://www.nytimes.com/slideshow/2019/04/04/realestate/on-the-market-in-new-york-city.html
+https://www.nytimes.com/2019/04/04/realestate/homes-for-sale-in-new-york-and-new-jersey.html
+https://www.nytimes.com/2019/04/04/realestate/homes-for-sale-in-brooklyn-and-manhattan.html
+https://www.nytimes.com/2019/04/04/us/nyt-keeping-up-with-the-kardashians.html https://www.nytimes.com/2019/04/05/us/california-virtual-solar-power-sunrun.html
+https://www.nytimes.com/2019/04/04/realestate/the-best-time-to-list-your-home.html
+https://www.nytimes.com/2019/04/04/opinion/sex-americans-internet.html https://www.nytimes.com/2019/04/05/opinion/wisconsin-supreme-court-democrats.html https://www.nytimes.com/2019/04/08/opinion/trump-tax-returns-democrats.html
+https://www.nytimes.com/2019/04/04/business/economy/trump-xi-china-trade-meeting.html
+https://www.nytimes.com/2019/04/04/theater/titus-andronicus.html https://www.nytimes.com/2019/04/04/theater/nyc-this-weekend-theater.html https://www.nytimes.com/2019/04/07/arts/television/fosse-verdon.html
+https://www.nytimes.com/2019/04/04/movies/terry-gilliam-don-quixote.html https://www.nytimes.com/2019/04/04/arts/television/star-trek-discovery-through-the-valley-of-shadows-recap.html
+https://www.nytimes.com/2019/04/04/arts/design/selfies-snap-share-san-francisco-museum-of-modern-art-.html
+https://www.nytimes.com/2019/04/04/fashion/weddings/readers-respond-real-wedding-crasher-tales.html
+https://www.nytimes.com/2019/04/04/movies/pet-sematary-review.html
+https://www.nytimes.com/2019/04/04/arts/design/daniel-rycharski-poland.html https://www.nytimes.com/2019/04/07/arts/olivier-awards-winners-the-inheritance-company.html
+https://www.nytimes.com/2019/04/04/science/beresheet-israel-moon-orbit.html https://www.nytimes.com/2019/04/04/science/mars-eclipse-moons-phobos-deimos.html https://www.nytimes.com/2019/04/04/science/hayabusa2-ryugu-crater.html
+https://www.nytimes.com/2019/04/04/learning/film-club-how-billie-eilish-is-redefining-teen-pop-stardom.html https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/2019/04/04/nyregion/teacher-missing-staten-island.html
+https://www.nytimes.com/2019/04/04/opinion/israel-election.html
+https://www.nytimes.com/2019/04/04/health/cancer-immunotherapy-effectiveness.html https://www.nytimes.com/2019/04/05/health/military-mindfulness-training.html https://www.nytimes.com/video/health/100000005932983/bacteria-antibiotics-war.html https://www.nytimes.com/2019/04/06/health/candida-auris-facts.html https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/04/us/north-carolina-republicans.html https://www.nytimes.com/2019/04/04/sports/north-carolina-sylvia-hatchell.html https://www.nytimes.com/2019/04/05/us/louisiana-black-church-fires.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/08/us/masters-augusta-strip-clubs.html
+https://www.nytimes.com/2019/04/04/dining/drinks/natural-wine-australia-lo-fi.html
+https://www.nytimes.com/2019/04/04/style/beyonce-adidas-collaboration.html https://www.nytimes.com/2019/04/04/style/wyatt-cenac-problem-areas-interview.html https://www.nytimes.com/2019/04/05/fashion/patagonia-fleece-fintech-banking.html https://www.nytimes.com/2019/04/05/fashion/andrew-rosen-theory-contemporary-fashion.html
+https://www.nytimes.com/2019/04/04/nyregion/canid-camera-hidden-animals-forest.html
+https://www.nytimes.com/2019/04/04/us/politics/yemen-war-end-vote.html https://www.nytimes.com/2019/04/07/us/politics/democrats-liberals-tension.html
+https://www.nytimes.com/2019/04/04/us/politics/tim-ryan-2020.html https://www.nytimes.com/2019/04/04/us/politics/tim-ryan-2020-issues.html
+https://www.nytimes.com/2019/04/04/sports/ncaa-final-four-graduate-transfers.html https://www.nytimes.com/2019/04/06/sports/final-four-auburn-virginia-bruce-pearl.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-michigan-state-texas-tech.html
+https://www.nytimes.com/2019/04/04/world/middleeast/israel-election-rap-tamer-nafar.html https://www.nytimes.com/2019/04/04/world/africa/libya-tripoli-militia-hifter.html https://www.nytimes.com/2019/04/05/world/middleeast/american-detainees-saudi-arabia.html https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/04/style/boyfriend-mom-texting.html
+https://www.nytimes.com/2019/04/04/learning/lesson-plans/teenagers-in-the-times-march-2019.html
+https://www.nytimes.com/2019/04/04/movies/peterloo-review.html
+https://www.nytimes.com/2019/04/04/business/tesla-rivals-luxury-electric-cars.html
+https://www.nytimes.com/2019/04/04/us/lds-church-lgbt.html
+https://www.nytimes.com/2019/04/04/us/timmothy-pitzen-missing.html https://www.nytimes.com/2019/04/05/us/timmothy-pitzen-missing-brian-rini.html https://www.nytimes.com/2019/04/05/us/chris-darden-nipsey-hussle-public-defender.html
+https://www.nytimes.com/2019/04/04/arts/television/native-son-hbo-james-baldwin-suzan-lori-parks.html
+https://www.nytimes.com/2019/04/04/world/europe/antisemitism-europe-united-states.html
+https://www.nytimes.com/2019/04/04/us/politics/nra-violence-against-women-act.html https://www.nytimes.com/2019/04/04/us/politics/national-emergency-act-lawsuit.html https://www.nytimes.com/2019/04/06/us/politics/trump-jews-border-asylum.html
+https://www.nytimes.com/2019/04/04/movies/high-life-review.html
+https://www.nytimes.com/2019/04/04/arts/design/high-line-simone-leigh-brick-house.html https://www.nytimes.com/2019/04/06/arts/television/whats-on-tv-saturday-native-son-saturday-night-live.html https://www.nytimes.com/2019/04/08/arts/television/whats-on-tv-monday-noir-movies-and-white-boy.html
+https://www.nytimes.com/2019/04/04/books/review/albert-woodfox-solitary.html
+https://www.nytimes.com/2019/04/04/arts/design/vietnam-war-american-art-review-smithsonian.html
+https://www.nytimes.com/2019/04/04/arts/dance/review-natalia-osipovas-pure-dance-with-david-hallberg.html
+https://www.nytimes.com/2019/04/04/world/europe/brexit-extension.html
+https://www.nytimes.com/2019/04/04/arts/dance/secular-games-martha-graham-speaking-in-dance.html https://www.nytimes.com/2019/04/04/arts/dance/nyc-this-weekend-dance.html
+https://www.nytimes.com/2019/04/04/technology/bezos-divorce-mackenzie.html
+https://www.nytimes.com/2019/04/04/us/politics/mexico-border-trump.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/asylum-united-states-migrants-mexico.html https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/04/business/stamp-art.html
+https://www.nytimes.com/2019/04/04/arts/design/whitney-museum-nam-june-paik.html
+https://www.nytimes.com/2019/04/04/opinion/letters/reading-children.html
+https://www.nytimes.com/2019/04/04/opinion/letters/internal-revenue-service-taxes-audits.html
+https://www.nytimes.com/2019/04/04/well/live/how-to-perk-up-your-breasts.html
+https://www.nytimes.com/2019/04/04/science/white-dwarf-fragment.html
+https://www.nytimes.com/2019/04/04/world/europe/parliament-water-leak.html https://www.nytimes.com/2019/04/07/world/europe/novichok-charlie-rowley-russian-skripal.html
+https://www.nytimes.com/2019/04/04/science/seals-evolution-biting.html
+https://www.nytimes.com/2019/04/04/magazine/afghan-war-casualty-report.html https://www.nytimes.com/2019/04/04/world/asia/taliban-attack-afghanistan.html https://www.nytimes.com/2019/04/07/world/asia/afghanistan-taliban-peace-talks.html
+https://www.nytimes.com/2019/04/04/world/asia/taliban-attack-afghanistan.html https://www.nytimes.com/2019/04/07/world/asia/afghanistan-taliban-peace-talks.html
+https://www.nytimes.com/2019/04/04/opinion/letters/american-museum-natural-history.html
+https://www.nytimes.com/2019/04/04/opinion/letters/national-rifle-association-violence-against-women.html
+https://www.nytimes.com/2019/04/04/world/europe/transgender-woman-attacked-paris.html https://www.nytimes.com/2019/04/05/world/europe/france-breast-implants-banned-cancer.html
+https://www.nytimes.com/2019/04/04/opinion/letters/climate-change-debating-the-best-fix.html
+https://www.nytimes.com/2019/04/04/business/thasunda-duckett-jpmorgan-corner-office.html https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html https://www.nytimes.com/2019/04/05/business/boeing-737-production.html
+https://www.nytimes.com/2019/04/04/us/politics/barr-summary-mueller.html https://www.nytimes.com/2019/04/05/us/politics/barr-justice-department-gay-lesbian-transgender-employees.html
+https://www.nytimes.com/2019/04/04/automobiles/a-diet-to-ward-off-gum-disease.html https://www.nytimes.com/2019/04/05/health/night-shifts-may-raise-the-risk-of-miscarriage.html
+https://www.nytimes.com/2019/04/04/world/europe/russia-whale-jail.html
+https://www.nytimes.com/2019/04/04/arts/design/cj-hendry-instagram-drawings.html
+https://www.nytimes.com/2019/04/04/us/vincent-j-rogers-ww2.html
+https://www.nytimes.com/2019/04/04/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/04/us/politics/steven-mnuchin-ethics-office.html https://www.nytimes.com/2019/04/05/upshot/the-march-job-numbers-tell-us-the-economy-is-still-doing-fine.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/05/business/herman-cain-federal-reserve.html https://www.nytimes.com/2019/04/06/upshot/fed-moore-cain-risk-partisanship.html https://www.nytimes.com/2019/04/06/upshot/australia-lessons-economic-miracle.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/04/opinion/can-museums-heal-historys-wounds.html
+https://www.nytimes.com/slideshow/2019/04/04/style/game-of-thrones-premiere.html
+https://www.nytimes.com/2019/04/04/style/game-of-thrones-premiere.html
+https://www.nytimes.com/2019/04/04/briefing/boeing-kashgar-congress-party.html
+https://www.nytimes.com/2019/04/04/style/wyatt-cenac-problem-areas-interview.html
+https://www.nytimes.com/2019/04/04/arts/dance/martha-graham-dance-pam-tanowitz-bobbi-jene-smith.html
+https://www.nytimes.com/slideshow/2019/04/04/dining/taverna-kos-queens.html
+https://www.nytimes.com/2019/04/04/dining/taverna-kos-review.html
+https://www.nytimes.com/2019/04/04/dining/drinks/batch-cocktails-premixed-alcohol.html
+https://www.nytimes.com/2019/04/04/reader-center/columbia-university-affirmative-action-reporting.html
+https://www.nytimes.com/2019/04/04/health/memorial-sloan-kettering-conflicts-.html
+https://www.nytimes.com/2019/04/04/books/isabella-hammad-the-parisian.html https://www.nytimes.com/2019/04/05/books/review/new-paperbacks.html
+https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet-meme.html https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html
+https://www.nytimes.com/2019/04/04/health/psychology-metoo-biden.html
+https://www.nytimes.com/2019/04/04/nyregion/de-blasio-2020-fundraiser.html https://www.nytimes.com/2019/04/05/nyregion/bill-de-blasio-2020.html
+https://www.nytimes.com/2019/04/04/learning/what-students-are-saying-about-making-school-better-learning-a-foreign-language-and-balancing-money.html
+https://www.nytimes.com/2019/04/04/science/mars-eclipse-moons-phobos-deimos.html https://www.nytimes.com/2019/04/04/science/hayabusa2-ryugu-crater.html
+https://www.nytimes.com/2019/04/04/nyregion/the-shed-nyc-hudson-yards.html
+https://www.nytimes.com/2019/04/04/business/elon-musk-contempt-court-hearing.html https://www.nytimes.com/2019/04/05/business/gordon-caplan-lawyer-college-admissions-scandal.html
+https://www.nytimes.com/2019/04/04/opinion/trump-deadly-deregulation.html
+https://www.nytimes.com/2019/04/04/arts/nyc-this-weekend-comedy.html
+https://www.nytimes.com/2019/04/04/arts/music/nyc-this-weekend-classical-music.html
+https://www.nytimes.com/2019/04/04/theater/nyc-this-weekend-theater.html https://www.nytimes.com/2019/04/07/arts/television/fosse-verdon.html
+https://www.nytimes.com/2019/04/04/arts/design/nyc-this-weekend-art-and-museums.html
+https://www.nytimes.com/2019/04/04/movies/nyc-this-weekend-film-series.html
+https://www.nytimes.com/2019/04/04/arts/dance/nyc-this-weekend-dance.html
+https://www.nytimes.com/2019/04/04/arts/nyc-this-weekend-childrens-events.html
+https://www.nytimes.com/2019/04/04/arts/music/nyc-this-weekend-pop-rock-jazz.html
+https://www.nytimes.com/2019/04/04/us/politics/senate-nuclear-option.html
+https://www.nytimes.com/2019/04/04/us/eric-holder-nipsey-hussle.html https://www.nytimes.com/2019/04/04/us/politics/jovita-carranza-small-business-administration.html https://www.nytimes.com/2019/04/06/us/texas-inmate-wool-allergy.html https://www.nytimes.com/2019/04/06/us/family-separation-trump-administration.html
+https://www.nytimes.com/2019/04/04/arts/television/best-weekend-tv.html
+https://www.nytimes.com/2019/04/04/health/stem-cells-lawsuit-new-york.html
+https://www.nytimes.com/2019/04/04/world/africa/libya-tripoli-militia-hifter.html https://www.nytimes.com/2019/04/05/world/middleeast/american-detainees-saudi-arabia.html https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/04/us/texas-immigration-raid.html https://www.nytimes.com/2019/04/07/science/casimir-pulaski-intersex.html
+https://www.nytimes.com/2019/04/04/smarter-living/tap-less-phone-voice-assistant-shortcuts.html
+https://www.nytimes.com/2019/04/04/reader-center/biden-responses-metoo.html https://www.nytimes.com/2019/04/04/us/politics/on-politics-joe-biden-women-reaction.html https://www.nytimes.com/2019/04/05/us/politics/joe-biden-controversy.html https://www.nytimes.com/2019/04/06/reader-center/mormon-church-lgbt.html https://www.nytimes.com/2019/04/06/reader-center/uber-ride-share-safety-tips.html
+https://www.nytimes.com/2019/04/04/arts/music/nipsey-hussle-shooting-death.html
+https://www.nytimes.com/2019/04/04/nyregion/thomas-alonzo-bolin-white-supremacist.html
+https://www.nytimes.com/2019/04/04/books/review/9-new-books-we-recommend-this-week.html
+https://www.nytimes.com/2019/04/04/fashion/pat-cleveland-cancer-gofundme.html https://www.nytimes.com/2019/04/05/books/instagram-seven-day-book-challenge.html
+https://www.nytimes.com/2019/04/04/briefing/trade-boeing-jeff-bezos-.html https://www.nytimes.com/2019/04/05/briefing/fed-boeing-lil-nas-x.html https://www.nytimes.com/2019/04/07/briefing/mueller-report-fed-mindfulness.html
+https://www.nytimes.com/2019/04/04/obituaries/ralph-metzner-dead.html https://www.nytimes.com/2019/04/05/obituaries/jonathan-baumbach-dead.html
+https://www.nytimes.com/2019/04/04/opinion/fentanyl-opioids-exposure.html
+https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/04/us/politics/on-politics-joe-biden-women-reaction.html https://www.nytimes.com/2019/04/05/us/politics/joe-biden-controversy.html
+https://www.nytimes.com/2019/04/04/sports/notre-dame-uconn-final-four-arike-ogunbowale.html https://www.nytimes.com/2019/04/04/sports/north-carolina-sylvia-hatchell.html https://www.nytimes.com/2019/04/06/sports/michigan-state-final-four.html https://www.nytimes.com/2019/04/06/sports/ncaa-mens-final-four-preview.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/04/us/politics/michael-cohen.html https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/04/arts/design/guide-the-shed-hudson-yards.html https://www.nytimes.com/2019/04/07/arts/the-shed-soundtrack-of-america-reich-richter-part-trisha-donnelly.html
+https://www.nytimes.com/2019/04/04/sports/womens-final-four-muffet-mcgraw.html https://www.nytimes.com/2019/04/04/sports/ncaa-womens-final-four-preview.html https://www.nytimes.com/2019/04/05/sports/final-four-women-baylor-oregon.html https://www.nytimes.com/2019/04/05/sports/uconn-notre-dame-ncaa-final-four-.html https://www.nytimes.com/2019/04/06/sports/baylor-notre-dame-ncaa-final-didi-richards.html https://www.nytimes.com/2019/04/07/sports/baylor-basketball-ncaa-champions.html
+https://www.nytimes.com/2019/04/04/us/politics/nato-anniversary.html
+https://www.nytimes.com/2019/04/04/obituaries/mona-lee-brock-dead.html https://www.nytimes.com/2019/04/05/obituaries/dan-robbins-dead.html
+https://www.nytimes.com/2019/04/04/sports/gleyber-torres-yankees.html https://www.nytimes.com/2019/04/05/sports/carlos-beltran-yankees.html https://www.nytimes.com/2019/04/07/sports/yankees-injuries.html https://www.nytimes.com/2019/04/07/sports/gary-sanchez-yankees-orioles.html
+https://www.nytimes.com/2019/04/04/world/australia/election-voting-issues.html
+https://www.nytimes.com/2019/04/04/science/hayabusa2-ryugu-crater.html
+https://www.nytimes.com/2019/04/04/opinion/canada-poverty-record.html https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html
+https://www.nytimes.com/2019/04/04/obituaries/a-rapper-who-came-back-for-his-neighborhood.html
+https://www.nytimes.com/2019/04/04/us/politics/pete-buttigieg-all-lives-matter.html
+https://www.nytimes.com/2019/04/04/sports/mets-home-opener.html https://www.nytimes.com/2019/04/06/sports/mets-nationals-keon-broxton-jd-davis.html https://www.nytimes.com/2019/04/07/sports/mets-nationals.html
+https://www.nytimes.com/2019/04/04/opinion/senate-filibuster-mcconnell.html
+https://www.nytimes.com/2019/04/04/theater/sincerely-oscar-review.html
+https://www.nytimes.com/2019/04/04/us/politics/steven-mnuchin-ethics-office.html https://www.nytimes.com/2019/04/05/business/herman-cain-federal-reserve.html
+https://www.nytimes.com/2019/04/04/nyregion/boy-rescued-subway-tracks.html
+https://www.nytimes.com/2019/04/04/sports/-football-concussions-canada.html https://www.nytimes.com/2019/04/08/sports/cheerleader-bailey-davis-saints-nfl.html
+https://www.nytimes.com/2019/04/04/us/politics/trump-biden-tweet.html https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html
+https://www.nytimes.com/2019/04/04/us/politics/tim-ryan-2020-issues.html
+https://www.nytimes.com/2019/04/04/business/boeing-737-ethiopian-airlines.html https://www.nytimes.com/2019/04/05/business/boeing-737-production.html
+https://www.nytimes.com/2019/04/04/pageoneplus/corrections-april-5-2019.html
+https://www.nytimes.com/2019/04/04/us/violence-against-women-act-reauthorization.html https://www.nytimes.com/2019/04/05/arts/music/mick-jagger-surgery.html https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/04/sports/ncaa-womens-final-four-preview.html https://www.nytimes.com/2019/04/05/sports/final-four-women-baylor-oregon.html https://www.nytimes.com/2019/04/05/sports/uconn-notre-dame-ncaa-final-four-.html https://www.nytimes.com/2019/04/06/sports/baylor-notre-dame-ncaa-final-didi-richards.html https://www.nytimes.com/2019/04/07/sports/baylor-basketball-ncaa-champions.html
+https://www.nytimes.com/2019/04/04/todayspaper/quotation-of-the-day-easy-to-get-to-you-rap-stars-hometown-loyalty-can-be-costly.html
+https://www.nytimes.com/2019/04/04/arts/television/star-trek-discovery-through-the-valley-of-shadows-recap.html
+https://www.nytimes.com/2019/04/04/us/politics/national-emergency-act-lawsuit.html https://www.nytimes.com/2019/04/06/us/politics/trump-jews-border-asylum.html https://www.nytimes.com/2019/04/07/us/politics/barr-redactions-mueller-report.html
+https://www.nytimes.com/2019/04/04/theater/king-lear-review-glenda-jackson.html https://www.nytimes.com/2019/04/07/theater/oklahoma-review.html
+https://www.nytimes.com/2019/04/04/health/scott-gottlieb-fda-drug-prices.html
+https://www.nytimes.com/2019/04/04/crosswords/daily-puzzle-2019-04-05.html https://www.nytimes.com/2019/04/07/crosswords/daily-puzzle-2019-04-08.html
+https://www.nytimes.com/2019/04/04/us/politics/jovita-carranza-small-business-administration.html https://www.nytimes.com/2019/04/06/us/texas-inmate-wool-allergy.html https://www.nytimes.com/2019/04/06/us/family-separation-trump-administration.html
+https://www.nytimes.com/2019/04/04/world/asia/who-is-sultan-brunei.html
+https://www.nytimes.com/2019/04/04/briefing/china-boeing-trump-uber-drivers.html https://www.nytimes.com/2019/04/07/briefing/china-honduras-brexit-candida.html
+https://www.nytimes.com/2019/04/04/opinion/algerias-rush-toward-the-future.html
+https://www.nytimes.com/2019/04/04/sports/north-carolina-sylvia-hatchell.html https://www.nytimes.com/2019/04/06/sports/michigan-state-final-four.html https://www.nytimes.com/2019/04/06/sports/ncaa-mens-final-four-preview.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/05/style/modern-love-wedding-ring-lost.html
+https://www.nytimes.com/2019/04/05/arts/music/sugar-hill-brooklyn-eddie-freeman.html
+https://www.nytimes.com/2019/04/05/arts/design/sothebys-hamilton-chatsworth-house.html https://www.nytimes.com/2019/04/05/arts/music/njpac-education-gift.html https://www.nytimes.com/2019/04/05/arts/design/public-artists-in-residence-new-york.html
+https://www.nytimes.com/2019/04/05/us/politics/trump-biden-video.html
+https://www.nytimes.com/2019/04/05/arts/television/whats-on-tv-friday-wyatt-cenacs-problem-areas-and-unicorn-store.html https://www.nytimes.com/2019/04/07/arts/television/whats-on-tv-sunday-killing-eve-and-the-chi.html https://www.nytimes.com/2019/04/07/arts/charles-gaines-edward-macdowell-medal.html
+https://www.nytimes.com/2019/04/05/learning/05WODLN.html
+https://www.nytimes.com/2019/04/05/us/hart-family-murder-suicide.html
+https://www.nytimes.com/2019/04/05/learning/jungle-gym.html
+https://www.nytimes.com/interactive/2019/04/05/briefing/05weeklynewsquiz.html https://www.nytimes.com/2019/04/05/briefing/herman-cain-brexit-final-four.html https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/05/learning/learning-with-did-dietary-changes-bring-us-f-words-study-tackles-complexities-of-languages-origins.html https://www.nytimes.com/2019/04/05/learning/would-you-want-to-be-proposed-to-on-a-jumbotron.html
+https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-locations.html
+https://www.nytimes.com/2019/04/05/world/europe/brexit-extension-theresa-may.html https://www.nytimes.com/2019/04/07/world/europe/theresa-may-brexit-compromise.html
+https://www.nytimes.com/2019/04/05/books/review/letters-to-the-editor.html
+https://www.nytimes.com/2019/04/05/learning/would-you-want-to-be-proposed-to-on-a-jumbotron.html
+https://www.nytimes.com/2019/04/05/well/eat/is-the-saturated-fat-in-chocolate-as-bad-as-the-fat-in-meat.html
+https://www.nytimes.com/2019/04/05/well/family/great-eggspectations.html
+https://www.nytimes.com/2019/04/05/business/jobs-report-unemployment-march.html
+https://www.nytimes.com/interactive/2019/04/05/us/politics/2020-democrats-campaign-stops.html https://www.nytimes.com/2019/04/07/us/politics/cory-booker-2020-fundraising.html
+https://www.nytimes.com/2019/04/05/nyregion/gentrification-one-percent-manhattan.html
+https://www.nytimes.com/2019/04/05/health/night-shifts-may-raise-the-risk-of-miscarriage.html
+https://www.nytimes.com/2019/04/05/style/cosmopolitan-magazine-jessica-pels.html
+https://www.nytimes.com/2019/04/05/books/review/salvatore-scibona-volunteer.html
+https://www.nytimes.com/2019/04/05/books/review/island-of-sea-women-lisa-see.html
+https://www.nytimes.com/interactive/2019/04/05/well/live/05healthquiz-04052019.html
+https://www.nytimes.com/2019/04/05/books/review/new-crime-fiction.html
+https://www.nytimes.com/2019/04/05/books/review/raise-your-hand-alice-paul-tapper-best-seller.html
+https://www.nytimes.com/2019/04/05/reader-center/queer-love-jamal-jordan.html
+https://www.nytimes.com/2019/04/05/books/review/nathan-englander-kaddish-com.html
+https://www.nytimes.com/2019/04/05/business/it-guys-amirite.html
+https://www.nytimes.com/2019/04/05/books/review/susan-choi-trust-exercise.html
+https://www.nytimes.com/2019/04/05/books/review/new-paperbacks.html
+https://www.nytimes.com/2019/04/05/books/review/poetry-picture-books.html
+https://www.nytimes.com/2019/04/05/nyregion/capsule-pharmacy-delivery-app-.html
+https://www.nytimes.com/2019/04/05/books/review/leo-damrosch-club.html
+https://www.nytimes.com/2019/04/05/nyregion/bill-de-blasio-2020.html
+https://www.nytimes.com/2019/04/05/books/review/bernard-henri-levy-empire-five-kings-ted-galen-carpenter-gullible-superpower.html
+https://www.nytimes.com/2019/04/05/books/review/cd-wright-casting-deep-shade.html
+https://www.nytimes.com/2019/04/05/books/review/lisa-see-snow-flower-and-the-secret-fan.html
+https://www.nytimes.com/2019/04/05/business/media/writers-guild-of-america-talent-agents.html https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-television.html https://www.nytimes.com/2019/04/07/business/media/writers-guild-talent-agencies.html
+https://www.nytimes.com/2019/04/05/upshot/trump-replacing-obamacare-insurance.html
+https://www.nytimes.com/2019/04/05/nyregion/sara-haines-abc-sunday-routine.html https://www.nytimes.com/2019/04/05/travel/five-places-to-shop-around-mumbai.html
+https://www.nytimes.com/2019/04/05/us/crispr-albino-lizard.html
+https://www.nytimes.com/2019/04/05/travel/knowing-natchez-mississippi-by-its-dead.html
+https://www.nytimes.com/2019/04/05/business/china-trade-trump-jobs-decoupling.html
+https://www.nytimes.com/2019/04/05/realestate/hudson-yards-a-city-within-a-city.html https://www.nytimes.com/2019/04/07/realestate/homes-that-sold-for-around-450000.html
+https://www.nytimes.com/2019/04/05/arts/television/stephen-colbert-barr-letter.html https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/05/briefing/herman-cain-brexit-final-four.html https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/05/nyregion/newyorktoday/nyc-news-shed-hudson-yards.html https://www.nytimes.com/2019/04/08/nyregion/newyorktoday/nyc-news-de-blasio-president.html
+https://www.nytimes.com/2019/04/05/business/swedbank-money-laundering.html https://www.nytimes.com/2019/04/05/business/eu-collusion-bmw-vw-daimler-emissions.html https://www.nytimes.com/2019/04/06/business/swedbank-danske-bank-scandal.html
+https://www.nytimes.com/2019/04/05/fashion/weddings/a-business-trip-yields-the-investment-of-a-lifetime.html
+https://www.nytimes.com/2019/04/05/business/investing-risk-in-retirement.html
+https://www.nytimes.com/2019/04/05/podcasts/the-daily/rupert-murdoch-fox-news.html
+https://www.nytimes.com/2019/04/05/arts/music/george-walker-sinfonia-visions-seattle-symphony.html
+https://www.nytimes.com/interactive/2019/04/05/opinion/honduras-women-murders.html
+https://www.nytimes.com/2019/04/05/business/dealbook/ray-dalio-capitalism.html
+https://www.nytimes.com/2019/04/05/travel/five-places-to-shop-around-mumbai.html
+https://www.nytimes.com/video/movies/100000006445353/shazam-clip.html https://www.nytimes.com/2019/04/05/movies/shazam-scene.html https://www.nytimes.com/2019/04/07/movies/pet-sematary-stephen-king.html
+https://www.nytimes.com/2019/04/05/arts/music/njpac-education-gift.html https://www.nytimes.com/2019/04/05/arts/design/public-artists-in-residence-new-york.html
+https://www.nytimes.com/2019/04/05/movies/shazam-scene.html https://www.nytimes.com/2019/04/07/movies/pet-sematary-stephen-king.html
+https://www.nytimes.com/2019/04/05/world/asia/south-korea-fires.html
+https://www.nytimes.com/2019/04/05/world/middleeast/american-detainees-saudi-arabia.html https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/05/arts/music/kurt-cobain-nirvana-death.html
+https://www.nytimes.com/2019/04/05/sports/jets-new-uniforms.html
+https://www.nytimes.com/2019/04/05/opinion/wisconsin-supreme-court-democrats.html https://www.nytimes.com/2019/04/08/opinion/trump-tax-returns-democrats.html
+https://www.nytimes.com/2019/04/05/sports/baseball/secondary-average.html https://www.nytimes.com/2019/04/08/sports/ncaa-final-overunder-virginia-texas-tech.html
+https://www.nytimes.com/2019/04/05/fashion/patagonia-fleece-fintech-banking.html https://www.nytimes.com/2019/04/05/fashion/andrew-rosen-theory-contemporary-fashion.html
+https://www.nytimes.com/2019/04/05/technology/big-tech-regulation.html
+https://www.nytimes.com/2019/04/05/your-money/tax-break-private-plane.html
+https://www.nytimes.com/2019/04/05/your-money/mark-begor-equifax-ceo-interview.html
+https://www.nytimes.com/2019/04/05/your-money/tax-returns-filing-last-minute.html
+https://www.nytimes.com/2019/04/05/realestate/spruced-up-manhattan-townhouses-sell-for-big-discounts.html
+https://www.nytimes.com/2019/04/05/arts/music/avicii-tim-bergling-new-music.html
+https://www.nytimes.com/2019/04/05/us/california-virtual-solar-power-sunrun.html
+https://www.nytimes.com/2019/04/05/world/europe/germany-abdul-karim-syrian-refugees.html
+https://www.nytimes.com/2019/04/05/nyregion/ny-prosecutors-cuomo.html
+https://www.nytimes.com/2019/04/05/us/mexico-border-trump.html
+https://www.nytimes.com/2019/04/05/business/eu-collusion-bmw-vw-daimler-emissions.html https://www.nytimes.com/2019/04/06/business/swedbank-danske-bank-scandal.html
+https://www.nytimes.com/2019/04/05/movies/unicorn-store-review.html
+https://www.nytimes.com/2019/04/05/upshot/the-march-job-numbers-tell-us-the-economy-is-still-doing-fine.html https://www.nytimes.com/2019/04/06/upshot/fed-moore-cain-risk-partisanship.html https://www.nytimes.com/2019/04/06/upshot/australia-lessons-economic-miracle.html
+https://www.nytimes.com/2019/04/05/movies/issa-rae-insecure-future.html
+https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-television.html https://www.nytimes.com/2019/04/07/business/media/writers-guild-talent-agencies.html
+https://www.nytimes.com/2019/04/05/smarter-living/how-to-deal-with-a-jerk-without-being-a-jerk.html
+https://www.nytimes.com/2019/04/05/sports/afc-sheikh-salman.html https://www.nytimes.com/2019/04/06/world/americas/brazil-soccer-fire.html
+https://www.nytimes.com/2019/04/05/arts/design/peru-art-madrid-prado.html
+https://www.nytimes.com/2019/04/05/dining/what-to-cook-this-weekend.html https://www.nytimes.com/2019/04/07/dining/what-to-cook-this-week.html
+https://www.nytimes.com/2019/04/05/arts/television/what-to-watch-hulu.html
+https://www.nytimes.com/2019/04/05/fashion/andrew-rosen-theory-contemporary-fashion.html
+https://www.nytimes.com/2019/04/05/world/middleeast/israel-elections-feiglin-zehut-marijuana.html
+https://www.nytimes.com/2019/04/05/opinion/letters/united-nations-aid-palestinians.html
+https://www.nytimes.com/2019/04/05/us/politics/joe-biden-controversy.html
+https://www.nytimes.com/2019/04/05/us/politics/trump-border-wall.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/05/books/instagram-seven-day-book-challenge.html
+https://www.nytimes.com/2019/04/05/movies/shazam-history-captain-marvel.html
+https://www.nytimes.com/2019/04/05/us/joe-biden-women-video.html
+https://www.nytimes.com/2019/04/05/style/charles-de-lisle-cabin-sonoma.html
+https://www.nytimes.com/2019/04/05/opinion/libya-civil-war-.html
+https://www.nytimes.com/2019/04/05/business/economy/mmt-wall-street.html
+https://www.nytimes.com/2019/04/05/science/shark-kelp-video.html
+https://www.nytimes.com/2019/04/05/world/asia/un-myanmar-rakhine.html
+https://www.nytimes.com/2019/04/05/opinion/mass-incarceration-sentencing-reform.html
+https://www.nytimes.com/2019/04/05/business/economy/trump-fed-interest-rates.html
+https://www.nytimes.com/2019/04/05/reader-center/tyler-kepner-baseball-book.html https://www.nytimes.com/2019/04/06/sports/mlb-pitching-coaches-wes-johnson.html
+https://www.nytimes.com/2019/04/05/dining/brisket-recipe.html
+https://www.nytimes.com/2019/04/05/arts/television/killing-eve-villanelle-jodie-comer.html
+https://www.nytimes.com/2019/04/05/sports/rangers-david-quinn.html
+https://www.nytimes.com/slideshow/2019/04/05/style/rem-koolhaas-peter-marino-zadie-smith-benefit-parties.html
+https://www.nytimes.com/2019/04/05/health/military-mindfulness-training.html https://www.nytimes.com/video/health/100000005932983/bacteria-antibiotics-war.html https://www.nytimes.com/2019/04/06/health/candida-auris-facts.html https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/05/world/europe/france-breast-implants-banned-cancer.html
+https://www.nytimes.com/2019/04/05/dining/swiss-rosti-recipe.html
+https://www.nytimes.com/2019/04/05/world/europe/us-icc-prosecutor-afghanistan.html https://www.nytimes.com/2019/04/06/world/middleeast/iran-floods-evacuations.html
+https://www.nytimes.com/2019/04/05/style/shiseido-innovation-center.html
+https://www.nytimes.com/2019/04/05/us/timmothy-pitzen-missing-brian-rini.html
+https://www.nytimes.com/2019/04/05/arts/television/game-of-thrones-season-6.html
+https://www.nytimes.com/2019/04/05/obituaries/sydel-silverman-dead.html
+https://www.nytimes.com/2019/04/05/business/gordon-caplan-lawyer-college-admissions-scandal.html
+https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html https://www.nytimes.com/2019/04/05/us/politics/asylum-united-states-migrants-mexico.html https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/05/world/europe/spain-euthanasia.html https://www.nytimes.com/2019/04/06/world/europe/spain-monarchy-majorca-vote.html
+https://www.nytimes.com/2019/04/05/magazine/military-public-support-confidence.html
+https://www.nytimes.com/2019/04/05/us/politics/guantanamo-trials-torture.html
+https://www.nytimes.com/2019/04/05/dining/weeknight-recipes-leftovers.html
+https://www.nytimes.com/2019/04/05/sports/colton-herta-indycar.html
+https://www.nytimes.com/2019/04/05/magazine/mexico-border-troops-wall.html https://www.nytimes.com/2019/04/05/us/politics/us-civilians-somalia-airstrikes.html
+https://www.nytimes.com/2019/04/05/business/media/lil-nas-x-billy-ray-cyrus-billboard.html
+https://www.nytimes.com/video/t-magazine/100000006441402/make-t-something-godefroy-de-virieu.html
+https://www.nytimes.com/2019/04/05/t-magazine/make-a-shirt-from-new-york-times.html
+https://www.nytimes.com/2019/04/05/world/europe/greece-migrant-protest.html
+https://www.nytimes.com/2019/04/05/arts/music/janacek-diary-bam-review.html https://www.nytimes.com/2019/04/07/arts/the-shed-soundtrack-of-america-reich-richter-part-trisha-donnelly.html
+https://www.nytimes.com/2019/04/05/arts/music/phil-the-hall-review.html
+https://www.nytimes.com/2019/04/05/obituaries/sydney-brenner-dead.html
+https://www.nytimes.com/2019/04/05/us/boeing-seattle.html
+https://www.nytimes.com/2019/04/05/opinion/letters/therapy-google.html
+https://www.nytimes.com/2019/04/05/opinion/letters/war-civilian-casualties.html
+https://www.nytimes.com/2019/04/05/us/politics/asylum-united-states-migrants-mexico.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/05/opinion/letters/school-shootings-trauma.html
+https://www.nytimes.com/2019/04/05/us/politics/us-civilians-somalia-airstrikes.html
+https://www.nytimes.com/2019/04/05/us/harvard-coach-admissions.html
+https://www.nytimes.com/2019/04/05/business/price-war-fund-fees-zero-negative.html
+https://www.nytimes.com/2019/04/05/obituaries/jonathan-baumbach-dead.html
+https://www.nytimes.com/2019/04/05/business/motel-6-ice-lawsuit.html https://www.nytimes.com/2019/04/05/business/david-malpass-world-bank.html
+https://www.nytimes.com/2019/04/05/opinion/tech-addiction-phone-screens.html
+https://www.nytimes.com/2019/04/05/arts/music/playlist-aventura-weyes-blood-jpegmafia-hatchie.html https://www.nytimes.com/2019/04/07/arts/the-shed-soundtrack-of-america-reich-richter-part-trisha-donnelly.html https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/05/business/uk-gender-pay-gap.html
+https://www.nytimes.com/2019/04/05/reader-center/game-of-thrones-ice-photo.html
+https://www.nytimes.com/2019/04/05/books/review/podcast-midnight-in-chernobyl-nuclear-accident-adam-higginbotham.html
+https://www.nytimes.com/2019/04/05/arts/music/classical-music-youtube.html
+https://www.nytimes.com/2019/04/05/books/review/new-noteworthy.html
+https://www.nytimes.com/2019/04/05/arts/music/mick-jagger-surgery.html
+https://www.nytimes.com/2019/04/05/podcasts/daily-newsletter-radio-stuyvesant-caro.html
+https://www.nytimes.com/2019/04/05/us/chris-darden-nipsey-hussle-public-defender.html
+https://www.nytimes.com/2019/04/05/arts/design/public-artists-in-residence-new-york.html
+https://www.nytimes.com/2019/04/05/opinion/joe-biden.html https://www.nytimes.com/2019/04/07/opinion/netanyahu-israel-election.html
+https://www.nytimes.com/2019/04/05/business/boeing-737-production.html
+https://www.nytimes.com/2019/04/05/arts/television/the-chi-review-season-2.html
+https://www.nytimes.com/2019/04/05/us/politics/democrats-race-2020.html
+https://www.nytimes.com/2019/04/05/books/review/liz-fosslien-how-to-write-a-book.html
+https://brandedplaylist.nytimes.com/video/t-brand/100000006445243/co-founder-of-diaco-finds-empowerment-in-her-team.html
+https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/05/sports/carlos-beltran-yankees.html https://www.nytimes.com/2019/04/07/sports/yankees-injuries.html https://www.nytimes.com/2019/04/07/sports/gary-sanchez-yankees-orioles.html
+https://www.nytimes.com/2019/04/05/smarter-living/wirecutter/how-to-mount-a-tv-without-making-a-mess.html
+https://www.nytimes.com/2019/04/05/nyregion/todd-howe-sentencing-percoco-cuomo.html
+https://www.nytimes.com/2019/04/05/business/david-malpass-world-bank.html
+https://www.nytimes.com/2019/04/05/us/chicago-mayor-election-lightfoot-photos.html
+https://www.nytimes.com/2019/04/05/world/middleeast/libya-militias-hifter.html https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/05/briefing/fed-boeing-lil-nas-x.html https://www.nytimes.com/2019/04/07/briefing/mueller-report-fed-mindfulness.html
+https://www.nytimes.com/2019/04/05/us/politics/betsy-devos-student-loan-debt-relief.html
+https://www.nytimes.com/2019/04/05/world/americas/us-mexico-border-delays.html
+https://www.nytimes.com/2019/04/05/arts/television/cosby-defamation-lawsuit-settlement.html
+https://www.nytimes.com/2019/04/05/obituaries/kim-english-dead.html
+https://www.nytimes.com/slideshow/2019/04/05/t-magazine/inside-palazzo-daniele-a-new-design-oriented-hotel-in-puglia.html
+https://www.nytimes.com/2019/04/05/t-magazine/chris-rush-memoir-paris-review-prints-editors-picks.html
+https://www.nytimes.com/2019/04/05/opinion/sex-women-facts-education.html
+https://www.nytimes.com/2019/04/05/obituaries/vonda-n-mcintyre-dead.html
+https://www.nytimes.com/2019/04/05/obituaries/dan-robbins-dead.html
+https://www.nytimes.com/2019/04/05/us/politics/barr-justice-department-gay-lesbian-transgender-employees.html
+https://www.nytimes.com/2019/04/05/world/canada/sheng-xue-chinese-activist-smear-campaign.html https://www.nytimes.com/2019/04/06/reader-center/sheng-xue-chinese-activist-canada-smear-campaign.html
+https://www.nytimes.com/2019/04/05/universal/es/migrantes-cubanos-mexico.html https://www.nytimes.com/video/t-magazine/100000006447310/on-set-virgil-abloh.html
+https://www.nytimes.com/2019/04/05/business/herman-cain-federal-reserve.html
+https://www.nytimes.com/2019/04/05/us/louisiana-black-church-fires.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/08/us/masters-augusta-strip-clubs.html
+https://www.nytimes.com/2019/04/05/opinion/memory-collections.html
+https://www.nytimes.com/2019/04/05/opinion/israel-election-gantz-netanyahu.html
+https://www.nytimes.com/2019/04/05/obituaries/yisroel-avrohom-dead.html
+https://www.nytimes.com/2019/04/05/opinion/sunday/fortnite-social-play-children.html
+https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html
+https://www.nytimes.com/2019/04/05/sports/final-four-women-baylor-oregon.html https://www.nytimes.com/2019/04/05/sports/uconn-notre-dame-ncaa-final-four-.html https://www.nytimes.com/2019/04/06/sports/baylor-notre-dame-ncaa-final-didi-richards.html https://www.nytimes.com/2019/04/07/sports/baylor-basketball-ncaa-champions.html
+https://www.nytimes.com/2019/04/05/opinion/sex-women-abortion-heartbeat-bills.html
+https://www.nytimes.com/2019/04/05/crosswords/daily-puzzle-2019-04-06.html https://www.nytimes.com/2019/04/06/crosswords/variety-cryptic-crossword.html https://www.nytimes.com/2019/04/06/crosswords/daily-puzzle-2019-04-07.html
+https://www.nytimes.com/2019/04/05/pageoneplus/corrections-april-6-2019.html
+https://www.nytimes.com/2019/04/05/todayspaper/quotation-of-the-day-waiting-for-asylum-in-the-united-states-migrants-live-in-fear-in-mexico.html
+https://www.nytimes.com/2019/04/05/sports/uconn-notre-dame-ncaa-final-four-.html https://www.nytimes.com/2019/04/06/sports/baylor-notre-dame-ncaa-final-didi-richards.html https://www.nytimes.com/2019/04/07/sports/baylor-basketball-ncaa-champions.html
+https://www.nytimes.com/2019/04/06/arts/television/whats-on-tv-saturday-native-son-saturday-night-live.html https://www.nytimes.com/2019/04/08/arts/television/whats-on-tv-monday-noir-movies-and-white-boy.html
+https://www.nytimes.com/2019/04/06/sports/final-four-auburn-virginia-bruce-pearl.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-michigan-state-texas-tech.html
+https://www.nytimes.com/2019/04/06/sports/michigan-state-final-four.html https://www.nytimes.com/2019/04/06/sports/ncaa-mens-final-four-preview.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/06/arts/the-week-in-arts-the-criterion-channel-charlotte-gainsbourg-and-queens-of-mystery.html
+https://www.nytimes.com/2019/04/06/nyregion/rocky-chuck-wepner-muhammad-ali.html https://www.nytimes.com/2019/04/07/nyregion/rail-freight-nyc.html
+https://www.nytimes.com/2019/04/06/sports/ncaa-mens-final-four-preview.html https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/06/world/africa/rwanda-genocide-25-years.html
+https://www.nytimes.com/2019/04/06/world/europe/spain-monarchy-majorca-vote.html
+https://www.nytimes.com/2019/04/06/us/politics/biggest-stories-of-the-week.html
+https://www.nytimes.com/2019/04/06/travel/6-tools-for-improving-your-vacation-photos.html
+https://www.nytimes.com/2019/04/06/upshot/fed-moore-cain-risk-partisanship.html https://www.nytimes.com/2019/04/06/upshot/australia-lessons-economic-miracle.html
+https://www.nytimes.com/2019/04/06/nyregion/judge-john-russo-new-jersey.html https://www.nytimes.com/2019/04/07/us/native-languages-decline.html https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/06/arts/11-of-our-best-weekend-reads.html
+https://www.nytimes.com/2019/04/06/travel/hotel-review-the-winebox-valparaiso-chile.html
+https://www.nytimes.com/2019/04/06/us/politics/democrats-military-veterans.html
+https://www.nytimes.com/video/health/100000005932983/bacteria-antibiotics-war.html https://www.nytimes.com/2019/04/06/health/candida-auris-facts.html https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/06/world/europe/france-china-wine.html
+https://www.nytimes.com/2019/04/06/health/candida-auris-facts.html https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/06/reader-center/mormon-church-lgbt.html https://www.nytimes.com/2019/04/06/reader-center/uber-ride-share-safety-tips.html
+https://www.nytimes.com/2019/04/06/upshot/australia-lessons-economic-miracle.html
+https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/06/obituaries/ly-tong-dead.html
+https://www.nytimes.com/2019/04/06/style/corepower-yoga-teacher-training.html
+https://www.nytimes.com/2019/04/06/style/hot-topic-stores.html
+https://www.nytimes.com/2019/04/06/business/swedbank-danske-bank-scandal.html
+https://www.nytimes.com/2019/04/06/us/texas-inmate-wool-allergy.html https://www.nytimes.com/2019/04/06/us/family-separation-trump-administration.html
+https://www.nytimes.com/2019/04/06/well/move/making-it-into-the-boston-marathon-finally.html
+https://www.nytimes.com/2019/04/06/us/politics/biden-2020.html
+https://www.nytimes.com/2019/04/06/world/europe/uk-british-passport-brexit.html https://www.nytimes.com/2019/04/06/arts/television/uk-coronation-street-black-family.html
+https://www.nytimes.com/2019/04/06/books/review/ilya-kaminsky-deaf-republic-poems.html
+https://www.nytimes.com/video/t-magazine/100000006447310/on-set-virgil-abloh.html
+https://www.nytimes.com/video/t-magazine/100000006447130/waiting-room-by-jocelyn-bioh.html https://www.nytimes.com/video/t-magazine/entertainment/100000006447672/various-pre-apocalyptic-postcoital-scenes-by-jackie-sibblies-drury.html https://www.nytimes.com/video/t-magazine/100000006446925/muses-of-fire-by-terrence-mcnally.html https://www.nytimes.com/video/t-magazine/entertainment/100000006447507/the-escape-by-ted-malawer-with-music-by-peter-lerman.html
+https://www.nytimes.com/video/t-magazine/entertainment/100000006447672/various-pre-apocalyptic-postcoital-scenes-by-jackie-sibblies-drury.html https://www.nytimes.com/video/t-magazine/100000006446925/muses-of-fire-by-terrence-mcnally.html https://www.nytimes.com/video/t-magazine/entertainment/100000006447507/the-escape-by-ted-malawer-with-music-by-peter-lerman.html
+https://www.nytimes.com/video/t-magazine/100000006447691/in-conversation-with-terrence-mcnally.html
+https://www.nytimes.com/video/t-magazine/100000006446925/muses-of-fire-by-terrence-mcnally.html https://www.nytimes.com/video/t-magazine/entertainment/100000006447507/the-escape-by-ted-malawer-with-music-by-peter-lerman.html
+https://www.nytimes.com/video/t-magazine/entertainment/100000006447507/the-escape-by-ted-malawer-with-music-by-peter-lerman.html
+https://www.nytimes.com/2019/04/06/realestate/heating-rules-in-new-york-city.html
+https://www.nytimes.com/2019/04/06/sports/mlb-pitching-coaches-wes-johnson.html
+https://www.nytimes.com/2019/04/06/world/americas/brazil-soccer-fire.html
+https://www.nytimes.com/2019/04/06/world/asia/naomi-osaka-citizenship.html
+https://www.nytimes.com/2019/04/06/admin/10-recipes-readers-love.html
+https://www.nytimes.com/2019/04/06/world/middleeast/elections-in-israel.html https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/06/sports/sylvia-hatchell-unc-racially-insensitive-comments.html https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/us/masters-augusta-strip-clubs.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/06/obituaries/ernest-hollings-dead.html
+https://www.nytimes.com/2019/04/06/opinion/electoral-college-slavery.html
+https://www.nytimes.com/2019/04/06/opinion/internet-meme-joe-biden-trump.html
+https://www.nytimes.com/2019/04/06/reader-center/internetting-print-section.html
+https://www.nytimes.com/2019/04/06/crosswords/variety-cryptic-crossword.html https://www.nytimes.com/2019/04/06/crosswords/daily-puzzle-2019-04-07.html
+https://www.nytimes.com/2019/04/06/us/politics/trump-threats.html
+https://www.nytimes.com/2019/04/06/opinion/alabama-prisons-report.html
+https://www.nytimes.com/2019/04/06/opinion/letters/affirmative-action.html
+https://www.nytimes.com/2019/04/06/arts/television/uk-coronation-street-black-family.html
+https://www.nytimes.com/2019/04/06/world/europe/veggie-discs.html
+https://www.nytimes.com/2019/04/06/world/africa/south-africa-ramaphosa-blackouts.html
+https://www.nytimes.com/2019/04/06/business/the-week-in-business-mexican-border-trump-fed-boeing-brexit.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/climate-change-nuclear-power.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/dungeons-and-dragons.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/right-to-repair-elizabeth-warren-antitrust.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/how-to-make-a-vision-board.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/tax-day-side-hustle.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/immigration-parenting.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/women-beauty.html
+https://www.nytimes.com/2019/04/06/sunday-review/why-i-hate-moving.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/age-women-men-2020.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/overconfidence-men-women.html
+https://www.nytimes.com/2019/04/06/opinion/sunday/game-of-thrones-emilia-clarke.html
+https://www.nytimes.com/2019/04/06/opinion/the-best-year-of-our-lives.html
+https://www.nytimes.com/2019/04/06/world/europe/obama-berlin-germany.html
+https://www.nytimes.com/2019/04/06/reader-center/sheng-xue-chinese-activist-canada-smear-campaign.html
+https://www.nytimes.com/2019/04/06/world/middleeast/iran-floods-evacuations.html
+https://www.nytimes.com/2019/04/06/sports/baylor-notre-dame-ncaa-final-didi-richards.html https://www.nytimes.com/2019/04/07/sports/baylor-basketball-ncaa-champions.html
+https://www.nytimes.com/2019/04/06/business/fisher-price-rock-n-play-recall.html
+https://www.nytimes.com/2019/04/06/books/erin-lee-carr-david-carr-all-that-you-leave-behind-memoir-interview.html
+https://www.nytimes.com/2019/04/06/world/middleeast/netanyahu-annex-west-bank.html https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/06/business/counterfeit-apple-iphone-scam.html https://www.nytimes.com/2019/04/08/nyregion/sandy-hook-gun-lawsuit.html
+https://www.nytimes.com/2019/04/06/sports/mets-nationals-keon-broxton-jd-davis.html https://www.nytimes.com/2019/04/07/sports/mets-nationals.html
+https://www.nytimes.com/2019/04/06/crosswords/daily-puzzle-2019-04-07.html
+https://www.nytimes.com/2019/04/06/sports/ana-inspiration-augusta-womens-amateur.html https://www.nytimes.com/2019/04/07/sports/jin-young-ko-ana-inspiration.html
+https://www.nytimes.com/2019/04/06/us/family-separation-trump-administration.html
+https://www.nytimes.com/2019/04/06/us/politics/cory-booker-2020-baby-bonds.html
+https://www.nytimes.com/2019/04/06/us/politics/trump-jews-border-asylum.html
+https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-virginia-auburn.html https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/06/reader-center/uber-ride-share-safety-tips.html
+https://www.nytimes.com/2019/04/06/todayspaper/quotation-of-the-day-fungus-immune-to-drugs-quietly-sweeps-the-globe.html
+https://www.nytimes.com/2019/04/06/sports/santa-anita-derby.html
+https://www.nytimes.com/2019/04/06/pageoneplus/corrections-april-7-2019.html
+https://www.nytimes.com/2019/04/06/sports/ncaa-final-four-michigan-state-texas-tech.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/roxanne-bras-stephen-petraeus.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/arielle-parker-seth-kisch.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/jessie-toback-noah-rothman.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/erin-hatch-benjamin-thomas.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/caroline-marra-benjamin-hemani.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/carrie-dorn-adam-friedman.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/katherine-del-raso-christopher-brolley.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/ashira-greene-william-beutler.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/lucy-melcher-john-coady-iii.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/lacey-mckeon-steven-rockefeller.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/claire-pires-katherine-rhodes.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/samantha-marpe-kristofer-sandor.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/michael-crouch-daniel-henning.html
+https://www.nytimes.com/2019/04/07/sports/yankees-injuries.html https://www.nytimes.com/2019/04/07/sports/gary-sanchez-yankees-orioles.html
+https://www.nytimes.com/2019/04/07/fashion/weddings/this-weeks-wedding-announcements.html
+https://www.nytimes.com/2019/04/07/arts/television/whats-on-tv-sunday-killing-eve-and-the-chi.html https://www.nytimes.com/2019/04/07/arts/charles-gaines-edward-macdowell-medal.html
+https://www.nytimes.com/2019/04/07/arts/television/saturday-night-live-kit-harington-sara-bareilles-jason-sudeikis-joe-biden-game-of-thrones.html
+https://www.nytimes.com/2019/04/07/us/trash-pickers-san-francisco-zuckerberg.html
+https://www.nytimes.com/2019/04/07/world/europe/asbestos-russia-mine.html
+https://www.nytimes.com/2019/04/07/books/the-week-in-books.html
+https://www.nytimes.com/2019/04/07/us/usa-democracy.html
+https://www.nytimes.com/2019/04/07/realestate/homes-that-sold-for-around-450000.html
+https://www.nytimes.com/2019/04/07/us/politics/barr-redactions-mueller-report.html
+https://www.nytimes.com/2019/04/07/health/antibiotic-resistance-kenya-drugs.html
+https://www.nytimes.com/2019/04/07/briefing/mueller-report-fed-mindfulness.html
+https://www.nytimes.com/2019/04/07/us/native-languages-decline.html https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/07/world/africa/libya-us-troops.html https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/07/sports/final-four-virginia-texas-tech.html https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/07/world/europe/theresa-may-brexit-compromise.html
+https://www.nytimes.com/2019/04/07/dining/what-to-cook-this-week.html
+https://www.nytimes.com/2019/04/07/us/politics/death-penalty-democrats.html
+https://www.nytimes.com/2019/04/07/world/europe/novichok-charlie-rowley-russian-skripal.html
+https://www.nytimes.com/2019/04/07/world/europe/rwanda-genocide-france-macron.html
+https://www.nytimes.com/2019/04/07/world/africa/south-africa-poacher-rhino-lions.html
+https://www.nytimes.com/2019/04/07/business/media/writers-guild-talent-agencies.html
+https://www.nytimes.com/2019/04/07/us/politics/democrats-liberals-tension.html
+https://www.nytimes.com/2019/04/07/world/europe/poland-gay-rights.html
+https://www.nytimes.com/2019/04/07/world/asia/philippines-illegal-guns.html
+https://www.nytimes.com/2019/04/07/world/africa/uganda-safari-kidnap-kimberly-endicott.html https://www.nytimes.com/2019/04/07/world/africa/sudan-protests-al-bashir.html
+https://www.nytimes.com/2019/04/07/arts/television/fosse-verdon.html
+https://www.nytimes.com/2019/04/07/arts/music/budapest-orchestra-review.html
+https://www.nytimes.com/2019/04/07/opinion/letters/robots-labor-force-economy.html
+https://www.nytimes.com/2019/04/07/opinion/letters/songwriters.html
+https://www.nytimes.com/2019/04/07/opinion/letters/high-school-fun.html
+https://www.nytimes.com/2019/04/07/world/africa/sudan-protests-al-bashir.html
+https://www.nytimes.com/2019/04/07/movies/shazam-box-office-pet-sematary.html https://www.nytimes.com/2019/04/07/business/media/movie-rentals-red-carpet-home-cinema.html
+https://www.nytimes.com/2019/04/07/opinion/letters/restaurants-aging.html
+https://www.nytimes.com/2019/04/07/us/politics/cory-booker-2020-fundraising.html
+https://www.nytimes.com/2019/04/07/opinion/letters/censorship-federal-government-employees.html
+https://www.nytimes.com/2019/04/07/movies/pet-sematary-stephen-king.html
+https://www.nytimes.com/2019/04/07/arts/music/popcast-lil-nas-x-old-town-road.html
+https://www.nytimes.com/2019/04/07/science/casimir-pulaski-intersex.html
+https://www.nytimes.com/2019/04/07/business/energy-environment/climate-change-carbon-engineering.html
+https://www.nytimes.com/2019/04/07/nyregion/www-bret-hart-attacked.html
+https://www.nytimes.com/2019/04/07/arts/the-shed-soundtrack-of-america-reich-richter-part-trisha-donnelly.html
+https://www.nytimes.com/2019/04/07/opinion/israel-election.html
+https://www.nytimes.com/2019/04/07/world/asia/afghanistan-taliban-peace-talks.html
+https://www.nytimes.com/2019/04/07/theater/oasis-review.html
+https://www.nytimes.com/2019/04/07/world/asia/china-xi-jinping-study-the-great-nation-app.html
+https://www.nytimes.com/2019/04/07/arts/music/emmet-cohen-american-pianists-associations-prize.html
+https://www.nytimes.com/2019/04/07/business/media/movie-rentals-red-carpet-home-cinema.html
+https://www.nytimes.com/2019/04/07/us/puerto-rico-trump-vieques.html
+https://www.nytimes.com/2019/04/07/world/middleeast/israel-election-netanyahu-west-bank.html
+https://www.nytimes.com/2019/04/07/sports/islanders-barry-trotz.html
+https://www.nytimes.com/2019/04/07/briefing/india-brexit-rwanda.html
+https://www.nytimes.com/2019/04/07/learning/whats-going-on-in-this-picture-april-8-2019.html
+https://www.nytimes.com/2019/04/07/learning/reader-idea-learning-to-read-like-writers-with-anatomy-of-a-scene.html
+https://www.nytimes.com/2019/04/07/opinion/europe-china-trade.html
+https://www.nytimes.com/2019/04/07/crosswords/daily-puzzle-2019-04-08.html
+https://www.nytimes.com/2019/04/07/us/politics/kirstjen-nielsen-dhs-resigns.html
+https://www.nytimes.com/2019/04/07/nyregion/rail-freight-nyc.html
+https://www.nytimes.com/2019/04/07/arts/olivier-awards-winners-the-inheritance-company.html
+https://www.nytimes.com/2019/04/07/opinion/facebook-content-moderation.html
+https://www.nytimes.com/2019/04/07/business/britain-internet-regulations.html
+https://www.nytimes.com/2019/04/07/opinion/mars-methane-gas.html
+https://www.nytimes.com/2019/04/07/opinion/netanyahu-israel-election.html
+https://www.nytimes.com/2019/04/07/sports/gary-sanchez-yankees-orioles.html
+https://www.nytimes.com/2019/04/07/opinion/donald-trump-trumpism.html
+https://www.nytimes.com/2019/04/07/sports/mets-nationals.html
+https://www.nytimes.com/2019/04/07/smarter-living/how-to-be-happier-at-work.html
+https://www.nytimes.com/2019/04/07/sports/baylor-basketball-ncaa-champions.html
+https://www.nytimes.com/2019/04/07/us/politics/kevin-mcaleenan-dhs-cbp.html
+https://www.nytimes.com/2019/04/07/pageoneplus/corrections-april-8-2019.html
+https://www.nytimes.com/2019/04/07/todayspaper/quotation-of-the-day-a-more-perfect-civics-lesson-democracy-itself-is-up-for-debate.html
+https://www.nytimes.com/2019/04/07/theater/oklahoma-review.html
+https://www.nytimes.com/2019/04/07/opinion/kirstjen-nielsen-border-security-trump.html
+https://www.nytimes.com/2019/04/07/sports/jin-young-ko-ana-inspiration.html
+https://www.nytimes.com/2019/04/07/arts/television/billions-recap.html
+https://www.nytimes.com/2019/04/07/arts/charles-gaines-edward-macdowell-medal.html
+https://www.nytimes.com/2019/04/07/technology/pinterest-ipo.html
+https://www.nytimes.com/2019/04/07/briefing/china-honduras-brexit-candida.html
+https://www.nytimes.com/2019/04/08/arts/television/whats-on-tv-monday-noir-movies-and-white-boy.html
+https://www.nytimes.com/2019/04/08/learning/08WODLN.html
+https://www.nytimes.com/2019/04/08/nyregion/trump-tax-returns-ny-state.html
+https://www.nytimes.com/2019/04/08/nyregion/sandy-hook-gun-lawsuit.html
+https://www.nytimes.com/2019/04/08/sports/cheerleader-bailey-davis-saints-nfl.html
+https://www.nytimes.com/2019/04/08/nyregion/metropolitan-diary.html
+https://www.nytimes.com/2019/04/08/world/asia/maldives-election-ibrahim-solih.html https://www.nytimes.com/2019/04/08/world/asia/japan-catholic-church-sexual-abuse.html
+https://www.nytimes.com/2019/04/08/learning/learning-with-with-indigenous-languages-in-steep-decline-summer-camps-offer-hope.html https://www.nytimes.com/2019/04/08/learning/after-home-and-school-where-do-you-find-the-strongest-feeling-of-community.html
+https://www.nytimes.com/2019/04/08/lens/lesbian-lives-movement-jeb.html
+https://www.nytimes.com/2019/04/08/well/eat/a-guide-to-sustainable-eating.html
+https://www.nytimes.com/2019/04/08/learning/after-home-and-school-where-do-you-find-the-strongest-feeling-of-community.html
+https://www.nytimes.com/2019/04/08/well/family/dealing-with-aggression-in-children.html
+https://www.nytimes.com/interactive/2019/04/08/magazine/alex-rodriguez-arod-interview.html
+https://www.nytimes.com/2019/04/08/us/masters-augusta-strip-clubs.html
+https://www.nytimes.com/2019/04/08/arts/television/fosse-verdon-review.html
+https://www.nytimes.com/2019/04/08/books/review/emily-bazelon-charged.html
+https://www.nytimes.com/2019/04/08/movies/unplanned-movie-abortion.html
+https://www.nytimes.com/2019/04/08/us/politics/trump-administration-h2b-visa.html
+https://www.nytimes.com/2019/04/08/upshot/teenagers-risky-drinking-doctors-counseling.html
+https://www.nytimes.com/2019/04/08/travel/ethiopia-train-harar-addis-ababa.html
+https://www.nytimes.com/2019/04/08/realestate/shopping-for-mugs.html
+https://www.nytimes.com/2019/04/08/world/asia/japan-catholic-church-sexual-abuse.html
+https://www.nytimes.com/2019/04/08/nyregion/newyorktoday/nyc-news-de-blasio-president.html
+https://www.nytimes.com/2019/04/08/briefing/kirstjen-nielsen-israel-ncaa-basketball.html
+https://www.nytimes.com/2019/04/08/us/politics/on-politics-democrats-and-the-death-penalty.html
+https://www.nytimes.com/2019/04/08/opinion/iran-united-states.html
+https://www.nytimes.com/2019/04/08/opinion/the-end-of-satire.html
+https://www.nytimes.com/2019/04/08/opinion/trump-latin-america-immigration.html
+https://www.nytimes.com/2019/04/08/podcasts/the-daily/russia-assassinations-putin-ukraine.html
+https://www.nytimes.com/2019/04/08/opinion/nfl-nashville-cherry-trees.html
+https://www.nytimes.com/2019/04/08/opinion/turkey-nationalism-right-wing.html
+https://www.nytimes.com/2019/04/08/world/asia/pangolin-singapore-seizure-poaching.html
+https://www.nytimes.com/2019/04/08/business/dealbook/tech-unicorn-ipo.html
+https://www.nytimes.com/interactive/2019/04/08/learning/PanamaGeographyQuiz.html
+https://www.nytimes.com/2019/04/08/sports/final-four-ncaa-amateurism.html
+https://www.nytimes.com/2019/04/08/arts/music/lisette-oropesa-richard-tucker-award.html
+https://www.nytimes.com/2019/04/08/opinion/trump-tax-returns-democrats.html
+https://www.nytimes.com/2019/04/08/sports/ncaa-final-overunder-virginia-texas-tech.html
